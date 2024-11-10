@@ -1,0 +1,791 @@
+CustID,Name,gender,age,education,occupation,income,telephone,marital,email,address,retire,custcat
+10015,林丹,男,34,高中,普通工人,5至10万,151****0139,是,jaclyn12@adventure-works.com,3448 Sun View Terr.,否,高价值客户
+10030,苏冬露,男,54,硕士及其以上,技术工人,10至20万,132****0174,是,mariah6@adventure-works.com,4924 Mariposa,否,低价值客户
+10045,薛光,男,37,高中,普通工人,5至10万,185****0117,否,ebony4@adventure-works.com,4381 Amazonas,否,低价值客户
+10060,谢君,女,60,初中及其以下,普通工人,5万以下,155****0164,是,brooke7@adventure-works.com,5720 A St.,是,低价值客户
+10075,徐关茵,男,28,本科,公司白领,30万以上,145****0190,是,dalton18@adventure-works.com,1906 Seaview Avenue,否,一般价值客户
+10090,袁松,女,36,高中,普通工人,5至10万,152****0117,否,linda31@adventure-works.com,265 Jeff Ct,否,一般价值客户
+10105,苏江丽,女,27,大专,普通工人,10至20万,147****0188,否,ian57@adventure-works.com,1940 C Mt. Hood Circle,否,高价值客户
+10120,何娇,女,40,大专,普通工人,5至10万,137****0151,否,jennifer92@adventure-works.com,8143 Creekridge Lane,否,一般价值客户
+10135,丁崆,女,40,本科,公司白领,20至30万,166****0173,否,jesse15@adventure-works.com,8811 The Trees Dr.,否,高价值客户
+10150,韦实,女,48,大专,普通工人,10至20万,136****0190,是,jennifer52@adventure-works.com,2755 Fairfield Ave,否,一般价值客户
+10165,巩嫒,女,19,高中,普通工人,5至10万,188****0142,是,orlando14@adventure-works.com,7031 Horseshoe Circle,否,低价值客户
+10180,程安,男,27,高中,普通工人,5至10万,186****0185,是,morgan29@adventure-works.com,6091 Bluefish Lane,否,高价值客户
+10195,俞毅,女,40,初中及其以下,普通工人,5万以下,180****0154,否,victoria20@adventure-works.com,5872 L St.,否,一般价值客户
+10210,麦虢,女,55,高中,普通工人,5至10万,138****0143,否,maurice4@adventure-works.com,2964 Mt. Washington,否,高价值客户
+10225,康丽,女,39,高中,普通工人,5至10万,177****0131,是,dennis7@adventure-works.com,1433 Manila Avenue,否,一般价值客户
+10240,陈霖,女,52,初中及其以下,普通工人,10至20万,181****0131,否,lindsay3@adventure-works.com,6968 Hobby Court,否,低价值客户
+10255,黄娜,女,27,大专,普通工人,10至20万,180****0189,是,sebastian12@adventure-works.com,6837 Pirate Lane,否,低价值客户
+10270,卢芳,女,38,高中,普通工人,10至20万,176****0116,是,sarah40@adventure-works.com,7784 Mt. Etna,否,高价值客户
+10285,常明媚,女,32,大专,普通工人,10至20万,132****0148,否,lance14@adventure-works.com,8328 San Francisco,否,低价值客户
+10300,佘莲,男,25,本科,技术工人,20至30万,152****0145,否,adam10@adventure-works.com,5457 Woodcrest Dr.,否,一般价值客户
+10315,贺宁,女,64,高中,管理人员,5至10万,150****0171,否,jenny21@adventure-works.com,1613 Cotton Ct,是,一般价值客户
+10330,谢斯云,男,36,高中,普通工人,10至20万,171****0156,是,carla24@adventure-works.com,3788 Concord Place,否,低价值客户
+10345,贺伟,男,65,初中及其以下,普通工人,10至20万,181****0124,是,hannah9@adventure-works.com,5800 Abbey Court,是,一般价值客户
+10360,苏磊,女,38,本科,技术工人,30万以上,166****0148,是,rachael1@adventure-works.com,4598 Manila Avenue,否,一般价值客户
+10375,廖乐,男,51,硕士及其以上,专业人员,20至30万,187****0122,是,george13@adventure-works.com,4332 Listing Ct,否,低价值客户
+10390,彭雯,男,62,硕士及其以上,管理人员,20至30万,183****0167,是,justin27@adventure-works.com,5485 Wee Donegal,是,一般价值客户
+10405,柯婷,女,57,硕士及其以上,技术工人,20至30万,188****0121,是,jillian15@adventure-works.com,1850 Lancelot Drive,是,一般价值客户
+10420,涂安,女,39,本科,专业人员,20至30万,155****0129,是,latoya0@adventure-works.com,1064 Armstrong Rd.,否,低价值客户
+10435,吕婵娟,女,47,初中及其以下,普通工人,10至20万,152****0180,否,randall2@adventure-works.com,9431 College Blvd,否,一般价值客户
+10450,邢伟,男,26,高中,普通工人,5至10万,137****0163,否,melvin13@adventure-works.com,297 Mt. Tank Circle,否,一般价值客户
+10465,楚松,女,47,本科,公司白领,20至30万,177****0113,否,deborah21@adventure-works.com,5539 Choctaw Court,否,低价值客户
+10480,戴康,女,53,大专,管理人员,10至20万,152****0182,否,lauren35@adventure-works.com,71 Tobi Drive,否,一般价值客户
+10495,马丽娜,女,62,本科,专业人员,20至30万,147****0192,否,zoe6@adventure-works.com,6030 Winter Drive,是,高价值客户
+10510,倪爽,男,42,本科,专业人员,20至30万,133****0156,是,jasmine32@adventure-works.com,7547 Payot Court,否,一般价值客户
+10525,任婵娟,女,33,本科,管理人员,20至30万,130****0117,否,kristi39@adventure-works.com,5626 Mt. View Drive,否,高价值客户
+10540,唐栋,女,49,高中,普通工人,10至20万,133****0118,是,maurice20@adventure-works.com,2837 Hacienda Drive,否,高价值客户
+10555,郝立,女,32,本科,专业人员,30万以上,186****0195,是,nicholas16@adventure-works.com,1102 Ravenwood,否,一般价值客户
+10570,韩虎,男,34,本科,公司白领,20至30万,189****0141,否,shawn19@adventure-works.com,6554 Sucamore Dr.,否,高价值客户
+10585,施丽丽,男,39,本科,技术工人,30万以上,175****0185,是,nathaniel0@adventure-works.com,3774 Napa Court,否,一般价值客户
+10600,方蔓楚,男,53,初中及其以下,普通工人,10至20万,182****0197,是,richard30@adventure-works.com,9206 Listing Ct.,否,一般价值客户
+10615,何安,男,40,高中,普通工人,10至20万,189****0144,是,meagan11@adventure-works.com,3515 Sutton Circle,否,低价值客户
+10630,袁梅,男,21,高中,普通工人,5至10万,136****0134,是,terrance9@adventure-works.com,4638 Chestnut Ave,否,一般价值客户
+10645,付松,男,60,初中及其以下,普通工人,5万以下,175****0160,是,dorothy3@adventure-works.com,5972 Donegal Court,是,低价值客户
+10660,常光,女,43,高中,普通工人,5至10万,166****0190,是,theodore3@adventure-works.com,4392 Lakeview Pl.,否,低价值客户
+10675,巩嘉丽,女,60,初中及其以下,管理人员,5万以下,186****0134,是,frederick14@adventure-works.com,1663 Park Glen Court,是,一般价值客户
+10690,施奇,男,45,大专,普通工人,5至10万,185****0145,否,megan23@adventure-works.com,8358 Lightwood Drive,否,低价值客户
+10705,马锦,女,27,本科,技术工人,20至30万,159****0155,是,jon46@adventure-works.com,8245 Highland Dr.,否,一般价值客户
+10720,贾君,女,59,本科,专业人员,30万以上,182****0144,是,alex35@adventure-works.com,8681 Harvard Court,否,低价值客户
+10735,柯强,男,36,初中及其以下,普通工人,5万以下,188****0127,否,julio1@adventure-works.com,8341 Ronda Ct.,否,低价值客户
+10750,罗君,女,30,硕士及其以上,技术工人,30万以上,182****0143,是,mary40@adventure-works.com,2269 Mcelroy,否,低价值客户
+10765,徐黎明,男,45,本科,技术工人,20至30万,136****0190,否,ian72@adventure-works.com,2665 Rosina Court,否,低价值客户
+10780,田立,女,56,高中,普通工人,5至10万,171****0193,否,grace62@adventure-works.com,6919 Tosca Way,是,高价值客户
+10795,涂博,男,41,高中,普通工人,5至10万,175****0119,否,seth2@adventure-works.com,8989 Adelia Court,否,低价值客户
+10810,周康,男,51,本科,专业人员,20至30万,183****0163,否,brendan13@adventure-works.com,8772 Rock Creek Way,否,高价值客户
+10825,施莲,男,43,本科,管理人员,20至30万,181****0187,否,megan44@adventure-works.com,7126 Edie Ct.,否,高价值客户
+10840,薛梦,男,46,初中及其以下,普通工人,5万以下,177****0111,否,elizabeth7@adventure-works.com,9484 Rhoda Way,否,一般价值客户
+10855,徐谙,男,50,本科,专业人员,20至30万,182****0186,否,morgan26@adventure-works.com,676 Yosemite Ct,否,高价值客户
+10870,曹伟,男,61,初中及其以下,普通工人,5至10万,145****0153,是,dalton84@adventure-works.com,4399 Mary Drive,是,高价值客户
+10885,邓保,男,26,本科,公司白领,30万以上,132****0195,否,ryan39@adventure-works.com,4248 Semillon Circle,否,一般价值客户
+10900,肖冬露,女,37,大专,普通工人,5至10万,132****0195,是,jennifer63@adventure-works.com,2062 Dos Encinas,否,高价值客户
+10915,付荣,男,55,初中及其以下,普通工人,5万以下,149****0166,否,samuel19@adventure-works.com,2601 Cambridge Drive,否,高价值客户
+10930,孙斯云,男,45,大专,普通工人,5万以下,188****0112,是,caleb4@adventure-works.com,5886 Book Rd,否,一般价值客户
+10945,邱秋,男,54,高中,普通工人,5至10万,139****0181,是,katrina19@adventure-works.com,1060 Mcelroy Court,否,一般价值客户
+10960,孔辉,男,44,本科,专业人员,20至30万,130****0191,是,candace15@adventure-works.com,5974 Sequoia Drive,否,高价值客户
+10975,蒋光,女,20,大专,普通工人,5至10万,158****0126,否,deanna33@adventure-works.com,563 Coggind Drive,否,一般价值客户
+10990,杨健,男,38,高中,普通工人,10至20万,182****0118,是,blake60@adventure-works.com,4312 Wintergreen Court,否,一般价值客户
+11005,林磊,男,39,高中,普通工人,5至10万,156****0178,否,morgan15@adventure-works.com,5566 Banyan Circle,否,低价值客户
+11020,巩凤,男,34,高中,普通工人,5至10万,157****0113,是,shaun21@adventure-works.com,9395 Aspect Dr,否,高价值客户
+11035,郭莲,男,23,初中及其以下,普通工人,5万以下,156****0178,是,jennifer88@adventure-works.com,9389 RaceCourt,否,高价值客户
+11050,龙谦,男,40,本科,公司白领,30万以上,199****0195,是,courtney14@adventure-works.com,1867 Royal Ann Lane,否,一般价值客户
+11065,韦诚,女,35,本科,专业人员,20至30万,181****0118,是,amy16@adventure-works.com,9274 Dayton Court,否,一般价值客户
+11080,贺舟,男,52,高中,普通工人,5至10万,158****0180,是,rafael27@adventure-works.com,1679 Via Doble,否,低价值客户
+11095,赖芳茵,女,44,高中,管理人员,5至10万,175****0150,是,aaron3@adventure-works.com,5870 Louisiana Dr.,否,一般价值客户
+11110,肖菊,男,69,高中,普通工人,5至10万,178****0130,是,johnny11@adventure-works.com,3488 Cook St.,是,一般价值客户
+11125,袁丽美,女,66,本科,公司白领,20至30万,171****0186,否,donna9@adventure-works.com,7892 M Ln.,是,一般价值客户
+11140,李黎明,女,38,本科,专业人员,30万以上,172****0118,否,gabrielle63@adventure-works.com,1201 Olive Hill,否,一般价值客户
+11155,葛欢,女,29,大专,普通工人,10至20万,185****0195,否,elizabeth6@adventure-works.com,7906 Clayburn Road,否,一般价值客户
+11170,肖崆,女,63,高中,普通工人,10至20万,157****0117,是,kristina1@adventure-works.com,6524 Geriola Court,是,一般价值客户
+11185,郝升,男,54,本科,技术工人,20至30万,145****0114,是,jerry20@adventure-works.com,7256 St. Paul Circle,否,一般价值客户
+11200,葛彩,男,72,高中,普通工人,5至10万,189****0120,否,adam34@adventure-works.com,9412 Alhambra Avenue,是,一般价值客户
+11215,邵绅,男,67,本科,管理人员,20至30万,155****0149,否,edwin39@adventure-works.com,3084 Cedar Point Loop,是,一般价值客户
+11230,殷昌,男,57,初中及其以下,普通工人,5至10万,147****0114,是,naomi7@adventure-works.com,2012 Melody Dr,否,一般价值客户
+11245,曾锦,男,58,高中,普通工人,10至20万,130****0195,是,jacqueline8@adventure-works.com,9531 Tri-state Ave,否,一般价值客户
+11260,薛君,女,36,初中及其以下,普通工人,5万以下,156****0116,是,trevor18@adventure-works.com,6891 Ham Drive,否,一般价值客户
+11275,邢立荣,女,50,初中及其以下,普通工人,5万以下,166****0165,是,kara20@adventure-works.com,6899 Pembroke Dr.,否,低价值客户
+11290,彭琼,女,33,高中,普通工人,5至10万,157****0172,否,edward28@adventure-works.com,457 Ryan Rd.,否,低价值客户
+11320,严恒,女,44,高中,普通工人,5至10万,180****0142,是,tyrone15@adventure-works.com,1547 Larkwood Ct.,否,一般价值客户
+11335,潘丽美,女,48,高中,普通工人,10至20万,186****0129,否,damien26@adventure-works.com,2187 S. Rising Ave,否,一般价值客户
+11350,封乐,男,49,高中,普通工人,10至20万,186****0183,是,benjamin43@adventure-works.com,9982 Fawn Glen Circle,否,一般价值客户
+11365,薛博,男,30,高中,普通工人,5至10万,199****0175,是,amy19@adventure-works.com,1907 Pinecrest Dr,否,一般价值客户
+11380,赖虎,女,47,大专,普通工人,5至10万,183****0171,是,diane19@adventure-works.com,5050 Mt. Diablo St.,否,一般价值客户
+11395,牛惠,男,37,高中,普通工人,5至10万,139****0176,否,amanda53@adventure-works.com,3187 Hackamore Lane,否,高价值客户
+11410,林关茵,女,53,初中及其以下,普通工人,5万以下,147****0111,是,chad13@adventure-works.com,1183 Royal Links Circle,否,一般价值客户
+11425,马莲,女,52,初中及其以下,普通工人,10至20万,137****0119,是,jose20@adventure-works.com,5446 Via Estrella,否,高价值客户
+11440,武明媚,女,57,大专,普通工人,10至20万,133****0151,否,jessica56@adventure-works.com,3782 Fox Way,否,高价值客户
+11455,冯青,男,67,初中及其以下,普通工人,5万以下,153****0184,是,rosa1@adventure-works.com,6478 Hastings Dr.,是,一般价值客户
+11470,廖保,男,49,高中,普通工人,5至10万,150****0112,是,chase10@adventure-works.com,9192 Dublin Court,否,一般价值客户
+11485,杨欢,女,34,大专,普通工人,5至10万,131****0115,是,jada23@adventure-works.com,9467 Morning Glory Dr,否,一般价值客户
+11500,韦锦,男,35,高中,普通工人,10至20万,175****0147,否,kurt12@adventure-works.com,6671 Del Rey St.,否,一般价值客户
+11515,潘磊,男,24,初中及其以下,普通工人,5万以下,173****0115,否,casey6@adventure-works.com,6199 G St.,否,一般价值客户
+11530,田磊,男,20,高中,普通工人,5至10万,133****0125,否,melody17@adventure-works.com,2236 Buena Vista Ave,否,一般价值客户
+11545,陈宣,男,34,高中,普通工人,10至20万,188****0119,是,justin10@adventure-works.com,6366 Dayton Court,否,高价值客户
+11560,潘舟,男,20,大专,普通工人,5至10万,139****0156,是,ruben30@adventure-works.com,6603 Jennifer Way,否,一般价值客户
+11575,黄丽,男,53,初中及其以下,普通工人,5万以下,180****0156,是,henry16@adventure-works.com,5038 Candy Rd,否,一般价值客户
+11590,罗霖,女,34,大专,普通工人,5至10万,188****0194,否,sebastian16@adventure-works.com,9903 East Leland,否,低价值客户
+11605,苏晒明,女,43,本科,专业人员,20至30万,138****0182,否,marc6@adventure-works.com,9435 Breck Court,否,高价值客户
+11620,袁栋,男,38,大专,普通工人,5至10万,151****0110,是,geoffrey16@adventure-works.com,7585 Ida Drive,否,一般价值客户
+11635,薛健,女,47,高中,普通工人,5至10万,166****0171,是,alyssa30@adventure-works.com,2038 Sundance Drive,否,一般价值客户
+11650,冯松,女,27,本科,管理人员,20至30万,150****0171,否,mitchell7@adventure-works.com,5592 Byers Rd.,否,一般价值客户
+11665,陈丽雪,男,39,大专,普通工人,10至20万,150****0155,是,francisco19@adventure-works.com,4469 Rain Drop Circle,否,一般价值客户
+11680,楚伟,男,33,硕士及其以上,公司白领,10至20万,157****0148,是,gabrielle58@adventure-works.com,33 RiverRock Dr,否,一般价值客户
+11695,曹柏,男,68,大专,普通工人,10至20万,172****0195,否,sean41@adventure-works.com,2886 Chaparral Court,是,高价值客户
+11710,赵强,男,45,高中,管理人员,5至10万,149****0179,否,kaylee35@adventure-works.com,3173 Darlene Drive,否,一般价值客户
+11725,武磊,男,42,本科,专业人员,20至30万,173****0132,是,leah19@adventure-works.com,9850 Martindale,否,低价值客户
+11740,冯乐,女,22,本科,公司白领,20至30万,135****0140,否,jaime12@adventure-works.com,4867 Rosebuck Way,否,一般价值客户
+11755,龚松,女,37,本科,专业人员,30万以上,133****0125,否,kurt9@adventure-works.com,4444 Buckingham Dr.,否,一般价值客户
+11770,周诚,男,42,本科,管理人员,20至30万,157****0125,否,blake39@adventure-works.com,"32, chaussée de Tournai",否,高价值客户
+11785,楚聪,男,24,初中及其以下,普通工人,5万以下,172****0143,否,eugene10@adventure-works.com,8470 Cliffside Drive,否,高价值客户
+11800,庄菊,女,63,高中,普通工人,5至10万,166****0127,是,edward43@adventure-works.com,4409 North Ranchford,是,一般价值客户
+11815,袁丽华,男,34,高中,普通工人,5至10万,166****0136,是,christian44@adventure-works.com,7613 Orangewood Dr,否,高价值客户
+11830,邓立,女,56,高中,普通工人,5至10万,151****0115,否,lucas7@adventure-works.com,6288 Relief Valley Ct.,否,高价值客户
+11845,余舟,女,51,大专,普通工人,10至20万,186****0126,是,kyle15@adventure-works.com,5854 Onley Dr,否,一般价值客户
+11860,陶虢,女,42,初中及其以下,普通工人,10至20万,182****0189,否,micah1@adventure-works.com,1468 Napa St.,否,高价值客户
+11875,黄磊,女,21,高中,普通工人,10至20万,136****0110,是,leonard18@adventure-works.com,9474 Rose Street,否,高价值客户
+11890,田丽美,男,65,初中及其以下,普通工人,5万以下,131****0141,是,joanna13@adventure-works.com,6387 Tanager Road,是,一般价值客户
+11905,俞晒明,女,57,本科,技术工人,20至30万,157****0184,否,larry14@adventure-works.com,9941 Clyde Street,否,低价值客户
+11920,郝壁,女,39,本科,技术工人,20至30万,139****0178,否,seth40@adventure-works.com,3393 Alpha Way,否,高价值客户
+11935,田江丽,女,27,大专,普通工人,10至20万,145****0154,是,casey7@adventure-works.com,2651 St. Francis Dr.,否,一般价值客户
+11950,殷莲,女,34,高中,普通工人,5至10万,137****0151,是,brooke3@adventure-works.com,7333 Landana St.,否,高价值客户
+11965,马惠英,男,64,高中,普通工人,5至10万,185****0115,否,alvin21@adventure-works.com,4051 Sun View Terrace,是,一般价值客户
+11980,冯莲,女,28,初中及其以下,普通工人,5至10万,155****0115,否,russell6@adventure-works.com,2253 Firestone Dr.,否,高价值客户
+11995,吕灵,男,41,大专,普通工人,5万以下,166****0191,否,madison22@adventure-works.com,8138 Brook Way,否,高价值客户
+12010,涂珑,男,37,大专,普通工人,5至10万,149****0181,否,dwayne9@adventure-works.com,3936 Diablo View Road,否,低价值客户
+12025,谭乐,男,57,高中,普通工人,5至10万,188****0139,是,brandy20@adventure-works.com,6905 Camino Ricardo,否,高价值客户
+12040,彭博,男,56,本科,技术工人,20至30万,150****0123,否,latasha19@adventure-works.com,4983 Hilltop Road,否,一般价值客户
+12055,麦德,男,48,本科,公司白领,30万以上,149****0158,否,cody5@adventure-works.com,4367 Citrus Ave.,否,一般价值客户
+12070,巩光,男,23,大专,普通工人,10至20万,189****0126,是,zachary37@adventure-works.com,3986 Lunar Lane,否,一般价值客户
+12085,林谙,男,41,本科,专业人员,20至30万,156****0130,否,mindy10@adventure-works.com,91 Kalima Place,否,高价值客户
+12100,佘平,男,42,高中,普通工人,5至10万,175****0184,是,cameron48@adventure-works.com,7541 B Wildbrook Ct.,否,一般价值客户
+12115,刘斯云,女,37,高中,普通工人,5至10万,176****0113,否,thomas71@adventure-works.com,5255 Corte Valencia,否,高价值客户
+12130,王辉,女,59,高中,普通工人,5至10万,137****0161,否,clinton3@adventure-works.com,6992 Mt. Whitney Way,否,低价值客户
+12145,彭伟,女,40,大专,普通工人,5至10万,135****0192,是,lauren23@adventure-works.com,2713 Chinquapin Court,否,一般价值客户
+12160,何惠,男,49,高中,普通工人,10至20万,186****0117,否,jaclyn22@adventure-works.com,"2, rue Malar",否,一般价值客户
+12175,武杰,男,57,高中,普通工人,5至10万,187****0174,是,sara43@adventure-works.com,3785 Treat Blvd.,否,一般价值客户
+12190,秦君,男,52,初中及其以下,普通工人,10至20万,152****0181,是,haley38@adventure-works.com,1707 Piper Ridge Court,否,一般价值客户
+12205,许绅,女,50,本科,技术工人,20至30万,130****0144,否,kelli21@adventure-works.com,6315 Olive Ave.,否,一般价值客户
+12220,赵德伟,男,47,初中及其以下,普通工人,5万以下,175****0125,是,jamie20@adventure-works.com,6387 Balhan Dr.,否,一般价值客户
+12235,邱升,男,33,大专,普通工人,10至20万,184****0177,否,andre16@adventure-works.com,1008 Lydia Lane,否,低价值客户
+12250,邱博,女,35,初中及其以下,普通工人,10至20万,152****0132,否,caroline15@adventure-works.com,2678 Village Pl,否,一般价值客户
+12265,刘立,男,55,初中及其以下,普通工人,5万以下,132****0131,否,jason39@adventure-works.com,6126 North Sixth Street,否,一般价值客户
+12280,熊光,女,33,高中,普通工人,5至10万,155****0113,否,raymond21@adventure-works.com,3557 Harvard Court,否,高价值客户
+12295,钟立,男,38,本科,技术工人,20至30万,133****0150,是,erika2@adventure-works.com,6432 Vista Way,否,一般价值客户
+12310,巩珑,女,60,初中及其以下,普通工人,5万以下,189****0183,是,latoya2@adventure-works.com,9145 Paso Del Rio Way,否,一般价值客户
+12325,吴磊,男,43,硕士及其以上,技术工人,10至20万,178****0189,否,jaclyn37@adventure-works.com,7357 Scramble Road,否,低价值客户
+12340,唐木兰,女,50,本科,技术工人,20至30万,185****0164,是,eduardo21@adventure-works.com,8000 Crane Court,否,一般价值客户
+12355,段强,女,53,高中,普通工人,5至10万,199****0158,是,alexandria27@adventure-works.com,2627 Holiday Hills Drive,否,低价值客户
+12370,秦刚,男,57,初中及其以下,普通工人,5万以下,171****0100,是,ian76@adventure-works.com,9204 Lexington Road,否,高价值客户
+12385,佟丽娜,男,22,大专,普通工人,10至20万,186****0123,否,javier1@adventure-works.com,8267 Lavene Way,否,低价值客户
+12400,郝廉,男,58,高中,普通工人,5至10万,139****0164,否,kate18@adventure-works.com,8818 Gentrytown Dr.,否,低价值客户
+12415,徐蔓楚,女,39,高中,普通工人,5至10万,150****0162,否,ryan43@adventure-works.com,9844 Green Tea Drive,否,低价值客户
+12430,涂强,男,29,本科,管理人员,30万以上,155****0110,是,brittney12@adventure-works.com,4038 Elk Dr,否,一般价值客户
+12445,陈翠,男,34,大专,普通工人,5至10万,155****0130,是,david22@adventure-works.com,8786 Croyden Dr.,否,一般价值客户
+12460,余德,女,59,初中及其以下,普通工人,5至10万,159****0194,是,xavier87@adventure-works.com,2033 Woodbury Place,否,一般价值客户
+12475,巩关茵,男,40,高中,普通工人,5至10万,198****0122,是,cesar12@adventure-works.com,7281 Running Springs Rd.,否,一般价值客户
+12490,常盛,男,25,大专,普通工人,10至20万,187****0166,是,billy5@adventure-works.com,3330 Hawes Street,否,低价值客户
+12505,潘健,女,29,大专,普通工人,5万以下,173****0155,否,lacey1@adventure-works.com,8085 Sunnyvale Avenue,否,低价值客户
+12520,秦淑芳,男,25,本科,公司白领,20至30万,176****0112,否,leah7@adventure-works.com,8387 E. Lane Rd.,否,一般价值客户
+12535,黄芳,男,44,高中,普通工人,5至10万,133****0119,是,jason40@adventure-works.com,8759 Arnold Dr.,否,一般价值客户
+12565,曹欢悦,女,43,本科,专业人员,20至30万,136****0168,是,ebony35@adventure-works.com,3168 Limewood Pl.,否,一般价值客户
+12580,田良,男,29,本科,公司白领,20至30万,180****0188,是,jackson51@adventure-works.com,3505 Bisca Y Court,否,低价值客户
+12595,殷珑,男,28,硕士及其以上,专业人员,20至30万,145****0137,否,antonio1@adventure-works.com,9882 Clay Rde,否,一般价值客户
+12610,彭娜,男,46,高中,普通工人,5至10万,158****0130,是,jerome7@adventure-works.com,600 Lake Place,否,一般价值客户
+12625,田淑芳,男,33,本科,专业人员,20至30万,156****0137,是,nancy7@adventure-works.com,6075 Olive Hill,否,低价值客户
+12640,范晒明,女,24,高中,普通工人,5至10万,145****0110,是,taylor14@adventure-works.com,4906 Vine Hill Way,否,一般价值客户
+12655,谭立,女,45,初中及其以下,普通工人,5万以下,186****0100,是,james41@adventure-works.com,3508 Canning Road,否,一般价值客户
+12670,林谦,女,63,初中及其以下,普通工人,5至10万,183****0112,是,brian19@adventure-works.com,2947 Vine Lane,是,高价值客户
+12685,涂德伟,女,50,硕士及其以上,技术工人,20至30万,153****0132,是,blake16@adventure-works.com,7720 Winterberry Ct,否,低价值客户
+12700,陶博,男,70,大专,普通工人,5万以下,151****0132,否,frank26@adventure-works.com,4633 Jefferson Street,是,低价值客户
+12715,徐虹,女,38,大专,普通工人,10至20万,181****0175,是,cindy6@adventure-works.com,4190 Trujillo,否,一般价值客户
+12730,白立,男,52,大专,普通工人,5至10万,157****0165,是,natalie58@adventure-works.com,9665 Pamploma Ct.,否,一般价值客户
+12745,宋良,女,31,初中及其以下,普通工人,5万以下,158****0191,否,jay49@adventure-works.com,9755 Glen Road,否,高价值客户
+12760,楚虢,男,36,硕士及其以上,公司白领,20至30万,175****0153,否,omar2@adventure-works.com,2680 Claudia Drive,否,高价值客户
+12775,李蔓楚,女,31,本科,技术工人,20至30万,175****0197,否,trinity9@adventure-works.com,1939 Meadow Glen Way,否,低价值客户
+12790,贺立,男,42,初中及其以下,普通工人,5至10万,183****0157,否,sierra3@adventure-works.com,4277 La Cruz,否,一般价值客户
+12805,马实,女,33,本科,管理人员,20至30万,145****0146,否,christine4@adventure-works.com,6904 Sunset Way,否,高价值客户
+12820,袁德,女,43,本科,公司白领,20至30万,188****0127,是,blake30@adventure-works.com,878 Megan Dr.,否,一般价值客户
+12835,潘荷,男,57,初中及其以下,普通工人,5万以下,157****0177,否,brett13@adventure-works.com,9171 Morello Ave,否,低价值客户
+12850,孙荷,男,34,本科,公司白领,20至30万,198****0154,是,ana7@adventure-works.com,1267 Scenic Drive,否,一般价值客户
+12865,韦君,女,54,本科,管理人员,20至30万,153****0118,否,melvin5@adventure-works.com,2430 Santa Lucia,否,一般价值客户
+12880,顾黎明,女,25,大专,普通工人,10至20万,183****0118,是,lucas46@adventure-works.com,2651 Ancona Ct.,否,高价值客户
+12895,邹妮,男,52,高中,普通工人,5至10万,150****0171,否,melanie27@adventure-works.com,6854 Muir Road,否,一般价值客户
+12910,程宁,男,66,大专,普通工人,10至20万,173****0132,否,luke52@adventure-works.com,905 Johnson Road,是,高价值客户
+12925,麦实,男,43,硕士及其以上,技术工人,20至30万,186****0132,是,jaclyn21@adventure-works.com,3394 Rock Drive,否,一般价值客户
+12940,贺晨,男,34,大专,普通工人,5万以下,157****0141,是,joel14@adventure-works.com,9089 San Jose Ave,否,高价值客户
+12955,邓康,男,51,本科,专业人员,20至30万,183****0129,是,adrienne8@adventure-works.com,6299 Elmonte Drive,否,低价值客户
+12970,邵娜,女,26,大专,普通工人,5至10万,149****0168,否,angela17@adventure-works.com,8956 Birch Bark Road,否,高价值客户
+12985,邱廉,女,40,本科,专业人员,20至30万,147****0112,是,melvin12@adventure-works.com,4575 Pinehurst Court,否,一般价值客户
+13000,巩虢,男,50,高中,普通工人,5至10万,131****0120,否,katelyn1@adventure-works.com,3142 Broadway St.,否,低价值客户
+13015,吕兰,女,51,硕士及其以上,管理人员,30万以上,184****0198,是,jessie3@adventure-works.com,7614 Inez Ave,否,高价值客户
+13030,唐宁,男,34,本科,公司白领,20至30万,132****0111,是,ramon9@adventure-works.com,1626 Green Valley Road,否,低价值客户
+13045,田谙,男,41,本科,技术工人,20至30万,166****0197,是,curtis9@adventure-works.com,9695 Notre Dame Avenue,否,高价值客户
+13060,熊晨,女,57,初中及其以下,普通工人,5万以下,150****0112,是,deb4@adventure-works.com,9005 Eagle Ct.,否,高价值客户
+13075,洪光,女,35,本科,专业人员,20至30万,166****0130,是,angela34@adventure-works.com,2063 Trafalgar Circle,否,低价值客户
+13090,戴虎,女,24,大专,普通工人,10至20万,138****0129,是,reginald20@adventure-works.com,1811 Cashew Lane,否,一般价值客户
+13105,陶昌,女,31,高中,普通工人,5至10万,145****0167,否,alexandra11@adventure-works.com,8040 Erie Dr,否,一般价值客户
+13120,施梦,女,22,本科,专业人员,30万以上,178****0152,是,billy8@adventure-works.com,9896 White Dr,否,低价值客户
+13135,黄娟,男,24,高中,普通工人,5至10万,147****0173,否,nathan55@adventure-works.com,1077 Laurel Drive,否,高价值客户
+13150,邹丽雪,女,57,初中及其以下,普通工人,5至10万,185****0186,是,hailey45@adventure-works.com,6984 Wardlow Lane,否,一般价值客户
+13165,邱丽雪,男,38,高中,普通工人,5至10万,178****0154,否,carly5@adventure-works.com,2973 Tanager Road,否,低价值客户
+13180,付芳茵,男,40,高中,普通工人,5至10万,171****0120,是,grace2@adventure-works.com,2943 Eagle Peak Road,否,低价值客户
+13195,龙廷,女,39,本科,专业人员,20至30万,139****0128,否,cynthia9@adventure-works.com,3888 Pastime Drive,否,低价值客户
+13210,马丽,男,43,大专,普通工人,5至10万,199****0199,否,alvin19@adventure-works.com,9663 Soto Street,否,高价值客户
+13225,洪强,女,75,高中,普通工人,5至10万,198****0150,否,bailey22@adventure-works.com,9665 Pamploma Ct.,是,低价值客户
+13240,贺绅,女,42,高中,普通工人,5至10万,150****0192,是,aaron51@adventure-works.com,864 Wee Donegal,否,一般价值客户
+13255,彭绅,女,61,本科,技术工人,30万以上,198****0177,否,jan15@adventure-works.com,8335 West Hook Road,是,低价值客户
+13270,夏芯,男,27,高中,普通工人,5至10万,149****0167,否,angel30@adventure-works.com,8531 Bayter Court,否,一般价值客户
+13285,袁敬,男,34,本科,公司白领,20至30万,131****0120,是,michele39@adventure-works.com,2219 Dewing Avenue,否,高价值客户
+13300,巩晒明,男,35,本科,公司白领,30万以上,132****0171,是,keith16@adventure-works.com,1566 Eagle Ct.,否,一般价值客户
+13315,余婵,女,30,高中,普通工人,5至10万,175****0167,是,luke33@adventure-works.com,22 Fillet Ave.,否,一般价值客户
+13330,姚凤,女,60,本科,技术工人,20至30万,171****0193,否,edgar6@adventure-works.com,3817 Green Hill Rd.,否,一般价值客户
+13345,曾康,男,55,初中及其以下,普通工人,5万以下,187****0111,是,eugene13@adventure-works.com,3597 Pine St.,否,高价值客户
+13360,徐丽丽,男,39,高中,普通工人,10至20万,137****0147,否,alexandra37@adventure-works.com,9111 Almondwood Drive,否,低价值客户
+13375,邓姝,男,33,初中及其以下,普通工人,5万以下,172****0156,是,caroline21@adventure-works.com,4180 Frisbie Court,否,一般价值客户
+13390,何晨,男,36,本科,公司白领,30万以上,149****0178,是,julia38@adventure-works.com,7308 Star Tree Court,否,低价值客户
+13405,施黎明,女,30,高中,普通工人,10至20万,188****0135,否,elizabeth5@adventure-works.com,5740 Elderwood Dr,否,高价值客户
+13420,严聪,男,24,高中,普通工人,5至10万,166****0148,是,gina1@adventure-works.com,5871 Matterhorn Court,否,一般价值客户
+13435,陈虎,女,31,大专,普通工人,5至10万,178****0185,是,luis24@adventure-works.com,3092 Gabriela,否,高价值客户
+13450,蔡菊,女,71,高中,普通工人,5至10万,149****0142,否,alexandra30@adventure-works.com,4764 East Avenue,是,高价值客户
+13465,任实,女,39,本科,专业人员,20至30万,175****0158,否,molly18@adventure-works.com,5665 Myrtle Drive,否,一般价值客户
+13480,龙婷,女,47,本科,技术工人,20至30万,177****0170,否,denise10@adventure-works.com,3074 Ardith Drive,否,高价值客户
+13495,洪黎明,男,33,本科,公司白领,20至30万,145****0169,否,sierra15@adventure-works.com,4861 66th Avenue,否,低价值客户
+13510,蔡梦,女,35,大专,普通工人,5至10万,199****0114,否,abigail22@adventure-works.com,3450 Breck Court,否,一般价值客户
+13525,余丽娜,男,37,硕士及其以上,专业人员,20至30万,185****0160,是,marc15@adventure-works.com,1052 Stanford Street,否,低价值客户
+13540,薛婷,女,30,大专,管理人员,5至10万,158****0199,否,jessie16@adventure-works.com,378 Canyon Road,否,一般价值客户
+13555,袁保,女,28,高中,普通工人,5至10万,166****0140,是,seth42@adventure-works.com,7675 Marcia Drive,否,高价值客户
+13570,樊彩,男,37,高中,普通工人,10至20万,153****0170,是,chase5@adventure-works.com,2251 Temple Drive,否,一般价值客户
+13585,佟虹,女,24,高中,普通工人,5至10万,183****0100,否,carolyn30@adventure-works.com,3001 Mt. Etna,否,高价值客户
+13600,潘锦,女,37,初中及其以下,普通工人,5至10万,130****0113,否,wyatt32@adventure-works.com,7332 Saddlewood,否,高价值客户
+13615,夏柏,女,64,本科,技术工人,20至30万,185****0100,否,kathryn14@adventure-works.com,3149 Blue Circle,是,一般价值客户
+13630,孙壁,男,62,本科,专业人员,20至30万,145****0139,否,danny22@adventure-works.com,2300 Lillian Dr,是,一般价值客户
+13645,许根基,女,28,初中及其以下,管理人员,5万以下,153****0132,否,blake7@adventure-works.com,8020 Charlotte Ave.,否,高价值客户
+13660,洪康,女,26,高中,普通工人,10至20万,159****0145,是,stephanie11@adventure-works.com,1779 Rose Drive,否,高价值客户
+13675,谭琼,男,64,高中,普通工人,5至10万,155****0159,是,jarrod17@adventure-works.com,7527 Brook Way,是,一般价值客户
+13690,王立勤,女,59,大专,普通工人,10至20万,158****0146,否,clayton38@adventure-works.com,8258 N. Broadway,否,低价值客户
+13705,袁荣,女,35,初中及其以下,普通工人,5万以下,185****0134,否,samantha35@adventure-works.com,2206 Clear View Circle,否,高价值客户
+13720,常康,男,36,大专,普通工人,5万以下,166****0162,否,mackenzie29@adventure-works.com,4161 North Sixth Street,否,一般价值客户
+13735,谢雯,男,36,大专,普通工人,5至10万,188****0196,否,victoria66@adventure-works.com,1820 Adobe St,否,一般价值客户
+13750,沈强,女,33,高中,普通工人,5至10万,184****0122,否,tanya10@adventure-works.com,5254 Daylight Place,否,一般价值客户
+13765,叶柏,女,62,高中,普通工人,10至20万,166****0118,否,sharon4@adventure-works.com,452 Rain Drop Circle,是,低价值客户
+13780,钟松,男,40,硕士及其以上,技术工人,30万以上,198****0143,否,robin13@adventure-works.com,7960 Shadow Creek Dr.,否,一般价值客户
+13795,邹涛,女,23,本科,专业人员,20至30万,186****0117,是,evan45@adventure-works.com,2111 Freedom Court,否,一般价值客户
+13810,余晨,女,47,初中及其以下,普通工人,10至20万,152****0135,是,lacey18@adventure-works.com,3854 Wildcat Circle,否,低价值客户
+13825,殷凤,女,49,初中及其以下,普通工人,5万以下,187****0162,否,edward62@adventure-works.com,2751 Fabian Way,否,一般价值客户
+13840,曾惠,女,76,本科,公司白领,20至30万,155****0119,否,bryant14@adventure-works.com,7081 Willow Pass Road,是,高价值客户
+13855,任杰,男,34,大专,普通工人,10至20万,186****0111,否,deanna45@adventure-works.com,7661 S. Rosal Ave.,否,高价值客户
+13870,廖珊,女,28,初中及其以下,管理人员,5万以下,171****0120,是,angela41@adventure-works.com,9531 Tri-state Ave,否,高价值客户
+13885,沈虢,女,70,大专,普通工人,10至20万,156****0197,否,brandy6@adventure-works.com,5670 Bel Air Dr.,是,一般价值客户
+13900,邓黎明,女,30,硕士及其以上,公司白领,30万以上,138****0117,是,ian27@adventure-works.com,3416 Cunha Ct,否,一般价值客户
+13915,邱明,男,41,大专,普通工人,10至20万,147****0152,是,jose15@adventure-works.com,80 Mozden Lane,否,高价值客户
+13930,贾嫒,女,31,本科,专业人员,20至30万,176****0133,是,devin16@adventure-works.com,6841 Monti Dr.,否,一般价值客户
+13945,柯婵,男,30,本科,技术工人,20至30万,139****0113,否,antonio13@adventure-works.com,3294 Buena Vista,否,低价值客户
+13960,唐忠,男,31,高中,普通工人,5至10万,172****0118,是,ross38@adventure-works.com,2922 Vista Way,否,高价值客户
+13975,曹冬露,女,27,大专,普通工人,10至20万,137****0164,否,emily6@adventure-works.com,8782 Palisade Court,否,高价值客户
+13990,孙诚,男,33,高中,普通工人,10至20万,151****0165,否,jon28@adventure-works.com,7801 Foxhill Dr,否,高价值客户
+14005,尹凤,女,28,本科,专业人员,20至30万,183****0165,否,deanna44@adventure-works.com,1993 South Villa Way,否,一般价值客户
+14020,潘惠,女,35,高中,普通工人,5至10万,155****0158,是,calvin15@adventure-works.com,4823 Park Blvd.,否,一般价值客户
+14035,林康,女,30,初中及其以下,普通工人,5至10万,157****0114,是,carla14@adventure-works.com,4138 Pine Creek Way,否,一般价值客户
+14050,孙梦,男,52,本科,专业人员,30万以上,150****0159,是,colin30@adventure-works.com,7292 Preakness Court,否,低价值客户
+14065,邓珊,女,47,大专,普通工人,5万以下,175****0113,否,sara37@adventure-works.com,4357 Tosca Way,否,一般价值客户
+14080,白欢,男,22,初中及其以下,普通工人,10至20万,137****0157,是,arturo21@adventure-works.com,9611 Hudson Ave,否,一般价值客户
+14095,郭冬露,女,42,大专,普通工人,5万以下,150****0140,否,bianca3@adventure-works.com,2730 Dewing Lane,否,高价值客户
+14110,田黎明,男,51,大专,普通工人,10至20万,133****0143,否,alyssa11@adventure-works.com,6557 Jalalon Place,否,高价值客户
+14125,顾丹,女,29,硕士及其以上,技术工人,30万以上,176****0119,是,jonathan4@adventure-works.com,1899 Mayhew Way,否,高价值客户
+14140,曹丽,女,65,高中,普通工人,5至10万,152****0146,否,nicole4@adventure-works.com,6066 Laguna Street,是,低价值客户
+14155,楚宣,女,25,本科,技术工人,20至30万,181****0167,是,jenny11@adventure-works.com,8537 Partridge Dr.,否,一般价值客户
+14170,徐伟,女,29,高中,普通工人,5至10万,198****0140,否,abby13@adventure-works.com,8029 Golden Meadow Dr.,否,低价值客户
+14185,邱刚,男,30,大专,普通工人,5万以下,135****0160,否,curtis5@adventure-works.com,7065 Rock Creek Way,否,低价值客户
+14200,洪华,男,36,初中及其以下,普通工人,10至20万,176****0142,否,lauren41@adventure-works.com,6672 Mt. Dias Blvd.,否,一般价值客户
+14215,卢欢悦,女,59,本科,技术工人,20至30万,166****0112,否,erica19@adventure-works.com,6594 Bent Tree Lane,否,低价值客户
+14230,王敬,男,39,高中,普通工人,10至20万,156****0136,否,angelica7@adventure-works.com,4903 Lemonwood Drive,否,一般价值客户
+14245,郝杰,男,65,初中及其以下,普通工人,5万以下,139****0133,否,julia72@adventure-works.com,8980 Logan Court,是,一般价值客户
+14260,施菊,男,45,大专,普通工人,5万以下,187****0176,否,meredith24@adventure-works.com,2444 North Ranchford,否,低价值客户
+14275,白立荣,男,45,高中,普通工人,5至10万,172****0149,是,megan12@adventure-works.com,9642 East L Street,否,高价值客户
+14290,施良,女,57,高中,普通工人,5至10万,138****0159,是,april8@adventure-works.com,7878 Delacy Ave.,否,一般价值客户
+14305,康青,男,41,本科,技术工人,20至30万,138****0100,是,julian13@adventure-works.com,69 Market Pl.,否,一般价值客户
+14320,潘涛,女,31,初中及其以下,普通工人,5至10万,166****0185,否,marco14@adventure-works.com,5376 Sahara Drive,否,一般价值客户
+14335,苏涛,男,31,初中及其以下,普通工人,10至20万,145****0163,否,emily1@adventure-works.com,8339 Auburn,否,高价值客户
+14350,白锦,男,39,硕士及其以上,管理人员,30万以上,173****0198,否,joan7@adventure-works.com,9737 Boxwood Dr,否,一般价值客户
+14365,韦达侠,女,28,高中,管理人员,5至10万,157****0129,是,isaac16@adventure-works.com,4361 Loftus Road,否,一般价值客户
+14380,宋栋,女,24,大专,普通工人,10至20万,130****0115,是,miguel24@adventure-works.com,3978 Spring Hill Dr.,否,低价值客户
+14395,殷崆,女,33,高中,普通工人,5至10万,188****0111,否,chloe28@adventure-works.com,1798 Westbury Dr.,否,高价值客户
+14410,陈爽,女,38,硕士及其以上,公司白领,30万以上,166****0115,否,angel24@adventure-works.com,9887 W. 39th Street,否,一般价值客户
+14425,钱伟,女,58,高中,普通工人,5至10万,173****0135,否,mya17@adventure-works.com,3764 Olive Hill,是,高价值客户
+14440,蒋安,男,35,本科,管理人员,30万以上,155****0123,否,alexandria9@adventure-works.com,4812 Kipling Court,否,一般价值客户
+14455,王倩倩,女,61,硕士及其以上,管理人员,20至30万,188****0162,是,miguel32@adventure-works.com,249 Alexander Pl.,否,低价值客户
+14470,洪毅,女,37,初中及其以下,普通工人,5至10万,187****0126,是,larry16@adventure-works.com,5728 Benedict Ct.,否,低价值客户
+14485,陶惠,女,44,初中及其以下,普通工人,5万以下,186****0140,否,christine16@adventure-works.com,3479 Broadmoor Dr.,否,一般价值客户
+14500,杨立勤,男,35,硕士及其以上,公司白领,20至30万,158****0133,是,felicia4@adventure-works.com,1691 Boxer Blvd.,否,低价值客户
+14515,范立荣,男,41,初中及其以下,普通工人,5至10万,166****0119,是,robert82@adventure-works.com,5253 Harris Court,否,高价值客户
+14530,唐婉,女,34,大专,普通工人,10至20万,138****0154,否,tina15@adventure-works.com,9068 Muir Road,否,低价值客户
+14545,顾君,女,40,大专,普通工人,5万以下,159****0173,是,nicole32@adventure-works.com,9605 Pheasant Circle,否,一般价值客户
+14560,邢宁,男,43,初中及其以下,普通工人,5万以下,166****0143,否,julian12@adventure-works.com,7450 Olivera Rd,否,一般价值客户
+14575,巩德,男,31,本科,技术工人,30万以上,184****0187,否,bianca7@adventure-works.com,7259 Brock Lane,否,高价值客户
+14590,杨栋,女,48,高中,普通工人,5至10万,130****0188,否,gabriella1@adventure-works.com,8547 Lyon Circle,否,一般价值客户
+14605,陈健,女,35,本科,专业人员,30万以上,149****0151,否,nicholas6@adventure-works.com,7888 Stanford Street,否,低价值客户
+14620,常丽华,女,57,高中,普通工人,5至10万,181****0139,是,linda37@adventure-works.com,4911 Peachwillow Lane,否,高价值客户
+14635,秦梦,男,63,大专,普通工人,5万以下,131****0176,是,abigail50@adventure-works.com,5362 Ashley Way,是,低价值客户
+14650,蔡晨,女,24,初中及其以下,普通工人,10至20万,133****0145,是,karla5@adventure-works.com,1145 Paraiso Ct.,否,一般价值客户
+14665,陈忠,男,33,高中,普通工人,5至10万,131****0113,否,anna46@adventure-works.com,7758 Morning Glory Dr.,否,高价值客户
+14680,巩辉,女,25,大专,普通工人,10至20万,159****0134,是,byron12@adventure-works.com,989 Crown Ct,否,一般价值客户
+14695,戴立,男,54,本科,技术工人,20至30万,156****0186,是,marco17@adventure-works.com,339 Norcross Lane,否,一般价值客户
+14710,钱幂,女,34,大专,普通工人,10至20万,133****0197,是,beth13@adventure-works.com,1685 Greenbelt Way,否,低价值客户
+14725,孙谙,女,54,大专,普通工人,10至20万,139****0159,否,andrew24@adventure-works.com,2257 Gate Drive,否,一般价值客户
+14740,周柏,女,65,本科,技术工人,20至30万,158****0131,否,faith36@adventure-works.com,3754 Olive Ave.,是,一般价值客户
+14755,肖岱,男,33,大专,普通工人,5至10万,151****0145,是,latoya9@adventure-works.com,2132 Virginia Lane,否,高价值客户
+14770,徐菊,女,39,大专,普通工人,10至20万,182****0112,否,jarrod9@adventure-works.com,8067 Sun View Terr.,否,一般价值客户
+14800,宋立,男,34,初中及其以下,普通工人,5万以下,147****0118,是,jordan59@adventure-works.com,3061 Arcadia Pl.,否,低价值客户
+14815,宋忠,男,62,初中及其以下,普通工人,10至20万,133****0139,是,jose42@adventure-works.com,4240 El Campo Ct,是,高价值客户
+14830,谭珊,男,55,高中,普通工人,10至20万,182****0121,否,tanya2@adventure-works.com,402 Saxon St.,否,高价值客户
+14845,冯婷,男,52,本科,技术工人,20至30万,139****0191,是,morgan81@adventure-works.com,1019 Carletto Drive,否,一般价值客户
+14860,陶磊,女,30,本科,专业人员,20至30万,198****0156,否,jocelyn18@adventure-works.com,8682 Hungry Rd,否,低价值客户
+14875,顾升,女,38,本科,专业人员,30万以上,131****0139,是,jared8@adventure-works.com,4555 Hackney Lane,否,低价值客户
+14890,潘盛,女,22,高中,普通工人,5万以下,166****0141,是,sean8@adventure-works.com,6928 Toyon Dr.,否,低价值客户
+14905,陈莲,女,46,高中,普通工人,5至10万,153****0148,否,jessica51@adventure-works.com,3431 Aspen Drive,否,低价值客户
+14920,武廷,女,53,硕士及其以上,技术工人,20至30万,172****0183,是,jonathan54@adventure-works.com,4546 Vista Valley Rd,否,一般价值客户
+14935,马盛,男,34,硕士及其以上,公司白领,20至30万,152****0196,否,sydney37@adventure-works.com,3350 Northridge Road,否,一般价值客户
+14950,田武,男,46,初中及其以下,普通工人,5万以下,135****0171,是,fernando47@adventure-works.com,6230 Blue Ridge,否,高价值客户
+14965,刘婵,女,27,大专,普通工人,5至10万,177****0156,是,evan2@adventure-works.com,412 Miller Dr.,否,低价值客户
+14980,万虹,男,37,初中及其以下,普通工人,5万以下,176****0193,是,jaime41@adventure-works.com,8482 Rosey View Drive,否,高价值客户
+14995,巩荣,女,57,本科,管理人员,20至30万,147****0114,是,sydney40@adventure-works.com,4772 Ravenwood,否,低价值客户
+15010,贺婉,男,39,本科,专业人员,20至30万,172****0165,是,roger4@adventure-works.com,149 Valley Blvd.,否,一般价值客户
+15025,秦诚,男,45,初中及其以下,普通工人,5万以下,198****0199,否,theresa12@adventure-works.com,1092 Pinole Valley Rd.,否,一般价值客户
+15040,廖松,女,46,初中及其以下,普通工人,5万以下,159****0176,否,sarah13@adventure-works.com,6414 Honey Court,否,高价值客户
+15055,程根基,男,55,大专,普通工人,5万以下,147****0169,是,lucas22@adventure-works.com,1201 St. Francis St.,否,低价值客户
+15070,严诚,男,70,高中,普通工人,10至20万,145****0128,是,eduardo60@adventure-works.com,5061 Athecton Circle,是,一般价值客户
+15085,俞丹,男,52,高中,普通工人,5至10万,178****0162,否,armando6@adventure-works.com,4800 Atchinson Stage Ct.,否,一般价值客户
+15100,万冬露,女,68,初中及其以下,普通工人,5万以下,173****0114,否,dawn7@adventure-works.com,206 Greenview Court,是,一般价值客户
+15115,陶莞颖,女,66,高中,普通工人,5至10万,149****0157,是,latasha7@adventure-works.com,1613 Santa Maria,是,一般价值客户
+15130,彭欢,女,41,初中及其以下,普通工人,5万以下,188****0146,是,terrence15@adventure-works.com,6374 St. Germain Lane,否,一般价值客户
+15145,邹伟,男,33,高中,普通工人,5至10万,181****0190,否,jennifer19@adventure-works.com,4480 Armstrong Rd.,否,一般价值客户
+15160,白婵,女,32,本科,技术工人,20至30万,139****0132,否,jeremy29@adventure-works.com,2752 Northridge Road,否,一般价值客户
+15175,郭刚,男,48,高中,普通工人,10至20万,157****0185,是,katherine58@adventure-works.com,9737 Oak Creek Ct,否,一般价值客户
+15190,毛刚,男,46,高中,普通工人,5至10万,153****0122,否,oscar9@adventure-works.com,1457 Chelsea,否,高价值客户
+15205,殷菊,男,31,大专,普通工人,5至10万,198****0115,否,jimmy9@adventure-works.com,9662 Red Leaf,否,高价值客户
+15220,贾伟,男,69,高中,普通工人,10至20万,147****0144,否,jennifer6@adventure-works.com,2487 Riverside Drive,是,高价值客户
+15235,叶立勤,男,47,大专,管理人员,5至10万,153****0123,否,abigail25@adventure-works.com,"70, rue de Cambrai",否,一般价值客户
+15250,黄婷,女,36,高中,普通工人,5至10万,183****0172,否,levi6@adventure-works.com,3633 Stratton Circle,否,高价值客户
+15265,丁娇,女,24,初中及其以下,普通工人,5万以下,199****0135,否,melissa31@adventure-works.com,9860 Brookview Drive,否,一般价值客户
+15280,吕君,男,21,大专,普通工人,5至10万,150****0172,是,willie40@adventure-works.com,7391 Leslie Avenue,否,高价值客户
+15295,韦立,男,26,大专,普通工人,5至10万,171****0168,否,alfredo7@adventure-works.com,8992 E. 32nd St.,否,一般价值客户
+15310,钱珊,男,57,高中,普通工人,10至20万,139****0138,否,audrey19@adventure-works.com,8033 Danesta Dr.,是,一般价值客户
+15325,殷宣,女,48,本科,技术工人,30万以上,138****0145,否,karla6@adventure-works.com,5431 Bella Avenue,否,一般价值客户
+15340,李彩,男,76,初中及其以下,普通工人,5至10万,159****0195,否,joshua23@adventure-works.com,4817 Gate Drive,是,一般价值客户
+15355,彭虹,男,29,本科,专业人员,30万以上,137****0116,否,stephanie19@adventure-works.com,4228 Creekside Drive,否,高价值客户
+15370,夏平,女,43,大专,普通工人,10至20万,157****0140,是,beth8@adventure-works.com,24 Roslyn Drive,否,一般价值客户
+15385,彭婉,女,52,硕士及其以上,专业人员,10至20万,166****0172,否,christine10@adventure-works.com,342 San Simeon,否,低价值客户
+15400,黄涛,女,27,高中,普通工人,10至20万,173****0172,是,darren36@adventure-works.com,5974 Sequoia Drive,否,高价值客户
+15415,白忠,女,33,硕士及其以上,技术工人,30万以上,198****0191,否,haley10@adventure-works.com,969 Stanley Dollar Dr.,否,一般价值客户
+15430,夏惠英,女,50,高中,普通工人,10至20万,137****0100,是,raymond20@adventure-works.com,6992 Tara St.,否,一般价值客户
+15445,孟伟,男,44,本科,专业人员,30万以上,189****0190,是,stephanie54@adventure-works.com,6556 Gilly Lane,否,一般价值客户
+15460,贾彩,男,42,本科,公司白领,20至30万,166****0136,否,joe14@adventure-works.com,6898 Holiday Hills,否,低价值客户
+15475,陈昌,男,20,高中,普通工人,5至10万,181****0117,否,jon24@adventure-works.com,3648 El Dorado,否,高价值客户
+15490,龙娜,男,41,初中及其以下,普通工人,5万以下,198****0155,否,theresa13@adventure-works.com,197 Adobe Dr,否,一般价值客户
+15505,姚柏,男,23,大专,普通工人,5万以下,166****0171,是,lucas48@adventure-works.com,7644 Corte Segunda,否,一般价值客户
+15520,孔关茵,女,32,本科,技术工人,20至30万,158****0178,是,virginia4@adventure-works.com,5428 Ameno Dr.,否,低价值客户
+15535,佘宁,女,32,本科,技术工人,20至30万,171****0116,是,ryan38@adventure-works.com,1349 Palm Ave.,否,低价值客户
+15550,余凤,女,53,初中及其以下,普通工人,5至10万,189****0177,否,daniel23@adventure-works.com,166 Birchbark Place,否,一般价值客户
+15565,常崆,男,27,高中,普通工人,10至20万,149****0133,是,david55@adventure-works.com,8991 Olivera,否,一般价值客户
+15580,梁安,女,53,本科,公司白领,20至30万,173****0175,否,ariana4@adventure-works.com,9295 Arcadia Pl,否,一般价值客户
+15595,孟刚,女,45,初中及其以下,普通工人,5至10万,173****0169,否,terrence16@adventure-works.com,9105 Jacobsen Street,否,高价值客户
+15610,汤欢悦,女,26,本科,公司白领,20至30万,187****0124,是,todd14@adventure-works.com,9800 St. George Dr,否,高价值客户
+15625,柯丽,女,44,高中,普通工人,5至10万,151****0119,否,edgar15@adventure-works.com,26 Amador Ct.,否,一般价值客户
+15640,夏松,女,58,初中及其以下,普通工人,5万以下,184****0160,是,jennifer15@adventure-works.com,7822 Mt. Tooth Place,否,高价值客户
+15655,涂伟,男,37,本科,公司白领,30万以上,186****0161,是,clayton34@adventure-works.com,1206 Olive St,否,低价值客户
+15670,涂辉,女,33,本科,公司白领,20至30万,166****0141,否,destiny7@adventure-works.com,3682 Jeff Ct.,否,高价值客户
+15685,马晨,男,45,本科,公司白领,20至30万,189****0151,是,janet18@adventure-works.com,5778 Mt Tri-state Court,否,一般价值客户
+15700,徐杰,男,30,本科,管理人员,30万以上,172****0187,否,devin69@adventure-works.com,5698 Elmonte Drive,否,一般价值客户
+15715,段杰,女,40,初中及其以下,普通工人,5万以下,185****0198,否,alyssa37@adventure-works.com,9387 Oak Brook Place,否,高价值客户
+15730,陶盛,女,59,初中及其以下,普通工人,5至10万,157****0114,否,evan8@adventure-works.com,2934 Pine Creek Way,是,一般价值客户
+15745,廖立,女,74,初中及其以下,普通工人,5万以下,155****0111,是,megan27@adventure-works.com,6115 Glenside Court,是,一般价值客户
+15760,程雯,男,29,高中,普通工人,5至10万,145****0153,是,stephanie52@adventure-works.com,5973 Willow Pass Road,否,高价值客户
+15775,麦忠,女,38,本科,技术工人,20至30万,187****0164,否,aidan4@adventure-works.com,6745 Blue Ridge Drive,否,高价值客户
+15790,夏光,女,61,初中及其以下,普通工人,5万以下,178****0140,是,timothy34@adventure-works.com,3802 Glenmount Dr.,是,一般价值客户
+15805,殷康,男,45,高中,普通工人,5至10万,153****0132,否,luke24@adventure-works.com,5010 C Mt. Hood Circle,否,一般价值客户
+15820,田临耀,女,38,高中,普通工人,5至10万,173****0129,否,jessie6@adventure-works.com,7290 Mt. Hood Circle,否,低价值客户
+15835,贺虹,男,25,初中及其以下,普通工人,10至20万,133****0151,否,alicia3@adventure-works.com,287 Firestone Drive,否,一般价值客户
+15850,贺平,女,51,本科,管理人员,30万以上,158****0185,否,jaclyn40@adventure-works.com,4970 B Way,否,低价值客户
+15865,卢壁,男,62,高中,普通工人,5至10万,132****0147,否,devin63@adventure-works.com,3588 Green Valley Road,是,一般价值客户
+15880,钱婵娟,女,32,本科,专业人员,20至30万,199****0113,是,juan16@adventure-works.com,7600 Yosemite Circle,否,一般价值客户
+15895,曹达侠,男,55,大专,普通工人,5万以下,177****0122,否,sarah42@adventure-works.com,6498 Pasa Del Rio,否,一般价值客户
+15910,龙锦,男,55,硕士及其以上,管理人员,10至20万,147****0190,是,marshall0@adventure-works.com,6478 Fenway,否,低价值客户
+15925,廖宣,女,52,初中及其以下,普通工人,5万以下,178****0125,是,ryan27@adventure-works.com,9650 Leisure Lane,否,高价值客户
+15940,薛磊,女,26,大专,普通工人,10至20万,145****0148,否,melody8@adventure-works.com,9326 Mayda Way,否,高价值客户
+15955,秦芯,女,40,本科,管理人员,20至30万,136****0118,是,jessica26@adventure-works.com,5785 Lislin Ct.,否,低价值客户
+15970,吕欢悦,男,67,初中及其以下,普通工人,5万以下,149****0150,是,elizabeth9@adventure-works.com,1526 Courthouse Drive,是,一般价值客户
+15985,常松,女,21,初中及其以下,普通工人,5万以下,172****0144,是,sergio4@adventure-works.com,1832 Preston Ct.,否,低价值客户
+16000,郝婷,女,39,大专,普通工人,5至10万,166****0113,否,desiree9@adventure-works.com,6159 Argonne Drive,否,高价值客户
+16015,贺恒,男,53,本科,技术工人,30万以上,189****0140,否,alexis45@adventure-works.com,6928 Woodland Drive,否,低价值客户
+16030,罗琼,女,39,本科,技术工人,20至30万,188****0141,是,julia17@adventure-works.com,4259 Fenway,否,低价值客户
+16045,唐安,女,35,本科,公司白领,20至30万,156****0180,是,ernest7@adventure-works.com,6136 North 68th St,否,一般价值客户
+16060,佘凤,男,62,初中及其以下,管理人员,5万以下,135****0188,否,aaron30@adventure-works.com,3644 Rosarita,是,一般价值客户
+16075,钱涛,男,39,本科,专业人员,20至30万,153****0166,否,andy9@adventure-works.com,5637 Teak Court,否,低价值客户
+16090,邢德伟,男,31,本科,技术工人,20至30万,156****0132,是,darryl6@adventure-works.com,8168 Landover Lane,否,一般价值客户
+16105,丁君,男,30,高中,普通工人,5至10万,189****0143,否,austin14@adventure-works.com,138 Lancelot Dr.,否,一般价值客户
+16120,贺兰,女,54,本科,技术工人,20至30万,185****0189,否,lacey32@adventure-works.com,7179 Golden Rain,否,一般价值客户
+16135,李谙,女,51,本科,专业人员,20至30万,166****0185,否,natalie71@adventure-works.com,4861 Doncaster Dr.,否,低价值客户
+16150,贺鹏,男,27,大专,管理人员,10至20万,176****0150,否,aimee13@adventure-works.com,5288 York Dr.,否,高价值客户
+16165,薛娇,女,28,高中,普通工人,5至10万,150****0118,是,jaime48@adventure-works.com,8342 Mt. Trinity Court,否,高价值客户
+16180,吕关茵,女,63,高中,普通工人,5至10万,152****0132,是,jessie36@adventure-works.com,8934 Lacanda,是,低价值客户
+16195,韩丽华,男,29,高中,普通工人,10至20万,185****0124,是,melinda9@adventure-works.com,1040 Greenbush Drive,否,高价值客户
+16210,丁婵,女,45,高中,普通工人,5至10万,159****0199,否,garrett9@adventure-works.com,651 Melody Dr.,否,低价值客户
+16225,方惠,女,42,大专,普通工人,5至10万,171****0117,是,olivia40@adventure-works.com,6049 Flora Ave,否,一般价值客户
+16240,任临耀,男,29,本科,专业人员,20至30万,135****0161,是,natalie5@adventure-works.com,1164 Glenview Drive,否,一般价值客户
+16255,唐爽,男,36,大专,普通工人,10至20万,199****0170,否,jeremy2@adventure-works.com,6103 Bailey Road,否,一般价值客户
+16270,谢丽雪,女,57,高中,普通工人,5至10万,186****0189,是,lauren51@adventure-works.com,8193 Pine Creek Way,否,一般价值客户
+16285,万莞颖,女,59,初中及其以下,普通工人,5万以下,151****0122,否,spencer22@adventure-works.com,5649 East 39th Street,否,高价值客户
+16300,白鹄,女,28,高中,普通工人,5至10万,147****0176,否,megan25@adventure-works.com,6994 Walnut Ave,否,一般价值客户
+16315,邱丽,男,35,硕士及其以上,技术工人,30万以上,159****0181,否,mason25@adventure-works.com,6832 Fruitwood Dr,否,一般价值客户
+16330,田丽娜,女,33,大专,普通工人,5至10万,176****0134,否,morgan19@adventure-works.com,9391 80th St,否,一般价值客户
+16345,郝柏,女,56,本科,管理人员,30万以上,199****0120,是,julian20@adventure-works.com,2208 Mauna Kea Court,否,一般价值客户
+16360,傅晨,女,63,硕士及其以上,专业人员,20至30万,156****0128,是,faith9@adventure-works.com,9421 Thissen Court,是,一般价值客户
+16375,邱荷,女,40,本科,管理人员,20至30万,185****0154,是,kaylee18@adventure-works.com,9328 Attic Rd,否,一般价值客户
+16390,洪梦,女,30,初中及其以下,普通工人,5万以下,184****0136,否,dennis8@adventure-works.com,1848 Wharf Dr.,否,一般价值客户
+16405,范雯,女,23,大专,普通工人,10至20万,152****0110,是,louis23@adventure-works.com,1318 Lasalle Street,否,低价值客户
+16420,苏升,男,23,高中,普通工人,5至10万,136****0185,否,megan55@adventure-works.com,5435 Jacobsen Street,否,高价值客户
+16435,谭涛,女,23,高中,普通工人,5至10万,199****0180,否,jordan45@adventure-works.com,7655 Greer Ave,否,一般价值客户
+16450,陶德伟,男,20,高中,普通工人,5至10万,177****0175,是,meredith34@adventure-works.com,4215 Arleda Lane,否,高价值客户
+16465,胡宣,男,57,大专,普通工人,5至10万,180****0156,是,sarah5@adventure-works.com,4860 Charlotte Court,否,低价值客户
+16480,倪幂,女,48,初中及其以下,普通工人,5万以下,156****0100,否,roger41@adventure-works.com,8514 Bounty Way,否,低价值客户
+16495,曾岱,男,33,硕士及其以上,公司白领,30万以上,159****0114,否,xavier26@adventure-works.com,2614 Sandiago Drive,否,一般价值客户
+16510,陶巧,女,40,高中,管理人员,5至10万,132****0199,否,jimmy14@adventure-works.com,4487 San Miguel Court,否,高价值客户
+16525,佘彩,女,36,本科,技术工人,20至30万,171****0159,否,olivia4@adventure-works.com,7511 Azores Circle,否,高价值客户
+16540,邱谦,女,68,高中,普通工人,5至10万,166****0156,是,leah16@adventure-works.com,4763 Palisade Court,是,一般价值客户
+16555,徐婵,男,54,高中,普通工人,5至10万,158****0191,是,edgar21@adventure-works.com,5149 Thissen Court,否,高价值客户
+16570,余嫒,女,47,高中,普通工人,5至10万,176****0133,是,ashlee11@adventure-works.com,8069 Vine Hill Way,否,高价值客户
+16585,范谙,女,54,初中及其以下,管理人员,5万以下,177****0193,否,edward59@adventure-works.com,6179 Mt. Hamilton Dr.,否,一般价值客户
+16600,王丹,女,42,本科,专业人员,20至30万,180****0186,是,chase3@adventure-works.com,8141 Mitchell Canyon Road,否,一般价值客户
+16615,何芯,男,22,本科,技术工人,20至30万,182****0190,否,anna41@adventure-works.com,9199 Park Glenn,否,低价值客户
+16630,丁妮,男,42,高中,普通工人,5至10万,159****0128,否,ariana17@adventure-works.com,8246 Via Del Sol,否,一般价值客户
+16645,佘丽,男,35,高中,普通工人,5至10万,171****0142,否,mya13@adventure-works.com,844 Sol Street,否,一般价值客户
+16660,钟宣,男,44,大专,管理人员,5至10万,172****0132,是,angela23@adventure-works.com,7062 Starflower Drive,否,一般价值客户
+16675,施旺,女,58,初中及其以下,普通工人,10至20万,133****0182,是,donald4@adventure-works.com,7938 Blue Ridge,否,高价值客户
+16690,楚娟,男,39,高中,普通工人,5至10万,182****0117,是,kaylee31@adventure-works.com,6161 Teakwood Dr.,否,一般价值客户
+16705,邓达侠,女,48,大专,普通工人,5万以下,130****0196,是,kaylee39@adventure-works.com,667 Miller Dr.,否,一般价值客户
+16720,施立伟,男,42,硕士及其以上,管理人员,10至20万,149****0129,是,jenna19@adventure-works.com,6697 Ridge Park Drive,否,低价值客户
+16735,杨晨,男,40,本科,管理人员,20至30万,184****0171,否,maria47@adventure-works.com,7549 Longview Rd.,否,高价值客户
+16750,邢盛,女,33,大专,普通工人,10至20万,173****0167,否,todd5@adventure-works.com,5515 West Bouncing Rd,否,一般价值客户
+16765,许凤,女,24,高中,普通工人,5至10万,183****0161,是,corey16@adventure-works.com,7761 Azoras Cir,否,高价值客户
+16780,洪辉,男,38,高中,普通工人,5至10万,176****0114,是,andre20@adventure-works.com,329 Poplar Street,否,低价值客户
+16795,孟珊,女,31,高中,普通工人,5至10万,135****0114,是,jonathan43@adventure-works.com,1328 Huntleigh Dr.,否,一般价值客户
+16810,罗婵,女,59,本科,管理人员,20至30万,131****0113,是,erik4@adventure-works.com,5854 Eagle Way,否,一般价值客户
+16825,邢毅,男,31,大专,普通工人,5万以下,183****0166,是,sydney15@adventure-works.com,7655 Greer Ave,否,低价值客户
+16840,韩凤,男,35,本科,公司白领,20至30万,180****0198,否,kyle11@adventure-works.com,5271 St. George Court,否,一般价值客户
+16855,徐虎,男,76,大专,普通工人,5至10万,189****0117,否,jose23@adventure-works.com,4719 Delaware Drive,是,低价值客户
+16870,陈惠英,男,26,大专,普通工人,10至20万,157****0175,否,charles9@adventure-works.com,911 Nicholas Drive,否,低价值客户
+16885,郭升,男,33,硕士及其以上,管理人员,20至30万,133****0118,否,cindy2@adventure-works.com,6912 Old Oak Drive,否,一般价值客户
+16900,陈婉,女,33,大专,普通工人,10至20万,175****0110,否,jordan73@adventure-works.com,5484 Cornwall Court,否,一般价值客户
+16915,朱丽丽,男,55,高中,普通工人,10至20万,184****0198,否,candace14@adventure-works.com,4690 Goen Road,否,高价值客户
+16930,夏明媚,男,23,高中,普通工人,10至20万,156****0110,否,victoria24@adventure-works.com,4058 First Ave,否,一般价值客户
+16945,曹鹏,女,53,初中及其以下,普通工人,5至10万,138****0170,否,aimee17@adventure-works.com,5022 Euclid Ave.,否,低价值客户
+16960,顾磊,男,48,初中及其以下,普通工人,5万以下,136****0147,是,carol5@adventure-works.com,5925 Rain Drop Circle,否,高价值客户
+16975,徐莲,女,27,本科,技术工人,20至30万,181****0133,是,katelyn35@adventure-works.com,8346 Niagara Court,否,一般价值客户
+16990,范宁,男,55,初中及其以下,普通工人,10至20万,137****0132,否,peter21@adventure-works.com,5846 Premier Place,否,一般价值客户
+17005,林青,男,43,本科,管理人员,20至30万,182****0110,否,julian5@adventure-works.com,2578 Welle Road,否,一般价值客户
+17020,贺升,男,33,大专,普通工人,10至20万,181****0130,否,randy24@adventure-works.com,674 Woodchuck Pl.,否,低价值客户
+17035,黄盛,女,32,本科,公司白领,20至30万,184****0167,否,caleb40@adventure-works.com,"51, rue Henri Gagnon",否,高价值客户
+17050,钟伟,男,55,初中及其以下,普通工人,5至10万,149****0138,是,antonio10@adventure-works.com,6124 Clay Road,否,低价值客户
+17065,雷木兰,女,33,初中及其以下,管理人员,5万以下,188****0147,否,rafael20@adventure-works.com,9372 Colfax Street,否,高价值客户
+17080,白松,女,31,高中,普通工人,5至10万,132****0132,是,meredith8@adventure-works.com,5185 Relis Valley Road,否,一般价值客户
+17095,曾伟,女,25,高中,普通工人,5至10万,155****0188,否,blake9@adventure-works.com,404 Sunshine,否,高价值客户
+17110,胡晨,男,49,高中,普通工人,5至10万,152****0186,是,frederick12@adventure-works.com,5033 N. 8th St.,否,高价值客户
+17125,万达侠,男,24,本科,技术工人,20至30万,152****0166,是,bethany19@adventure-works.com,8955 Tice Valley Blvd.,否,高价值客户
+17140,沈聪,女,29,高中,普通工人,5至10万,138****0141,否,eddie21@adventure-works.com,2110 Elm St.,否,一般价值客户
+17155,麦虹,女,42,大专,普通工人,5至10万,184****0117,是,isaiah6@adventure-works.com,318 Liana Lane,否,一般价值客户
+17170,林德伟,女,33,初中及其以下,普通工人,5万以下,166****0173,否,taylor63@adventure-works.com,6620 Leonard Ct.,否,一般价值客户
+17185,罗嫒,女,30,初中及其以下,管理人员,5万以下,158****0157,否,dustin1@adventure-works.com,6044 Gloria Terr.,否,高价值客户
+17200,黄康,女,27,大专,普通工人,5万以下,136****0156,否,eduardo55@adventure-works.com,2269 Bynum Way,否,一般价值客户
+17215,袁丽娜,女,26,大专,普通工人,10至20万,149****0124,否,jason46@adventure-works.com,5291 Juliet Court,否,高价值客户
+17230,卢谙,男,21,大专,普通工人,5万以下,177****0134,否,alejandro8@adventure-works.com,6949 Miguel Dr.,否,低价值客户
+17245,戴松,男,39,大专,普通工人,5至10万,180****0149,否,randy14@adventure-works.com,3654 Alaska Dr.,否,一般价值客户
+17260,邵黎明,男,37,大专,普通工人,5万以下,188****0177,是,jonathon16@adventure-works.com,3153 Glaze Ct,否,一般价值客户
+17275,邵兰,男,44,大专,普通工人,5至10万,184****0146,是,taylor13@adventure-works.com,5271 Sierra Road,否,一般价值客户
+17290,毛丽美,女,38,初中及其以下,普通工人,5万以下,150****0133,否,antonio8@adventure-works.com,341 Victory Lane,否,一般价值客户
+17305,葛蔓楚,男,42,本科,专业人员,20至30万,147****0186,否,laura14@adventure-works.com,7176 A St.,否,一般价值客户
+17320,邓实,女,35,初中及其以下,普通工人,10至20万,175****0119,否,jermaine15@adventure-works.com,5281 Miller Avenue,否,一般价值客户
+17335,潘彩,女,36,高中,普通工人,5至10万,155****0167,否,trisha0@adventure-works.com,8184 N. Spoonwood Court,否,低价值客户
+17350,万刚,男,27,本科,公司白领,20至30万,178****0110,否,blake47@adventure-works.com,6290 Chinquapin Court,否,低价值客户
+17365,钱珑,女,56,高中,普通工人,5至10万,137****0117,否,ariana19@adventure-works.com,6133 Kenston Dr.,否,一般价值客户
+17380,施平,女,59,高中,普通工人,5至10万,187****0128,否,deanna24@adventure-works.com,5581 Stanford Street,否,一般价值客户
+17395,苏姝,女,64,高中,普通工人,5至10万,178****0131,否,sydney26@adventure-works.com,6350 Plumas Court,是,高价值客户
+17410,毛庆缘,男,31,本科,专业人员,20至30万,147****0114,是,caleb36@adventure-works.com,9410 Ferry St.,否,一般价值客户
+17425,曹琼,男,54,初中及其以下,普通工人,5万以下,178****0134,否,noah5@adventure-works.com,4214 Willbrook Court,否,高价值客户
+17440,徐安,男,49,大专,普通工人,10至20万,133****0138,是,charles27@adventure-works.com,526 Oak Street,否,一般价值客户
+17455,李康,男,35,高中,普通工人,10至20万,130****0172,否,grant6@adventure-works.com,7259 Birchwood,否,高价值客户
+17470,肖壁,女,38,大专,普通工人,10至20万,180****0175,是,kevin50@adventure-works.com,5134 Oak Park Blvd,否,低价值客户
+17485,郝立勤,女,51,本科,技术工人,20至30万,137****0168,是,seth67@adventure-works.com,1439 Springvale Court,否,一般价值客户
+17500,严盛,女,43,硕士及其以上,公司白领,20至30万,177****0126,否,hannah32@adventure-works.com,5322 Mitchell Canyon Rd.,否,一般价值客户
+17515,孙雯,男,31,本科,公司白领,20至30万,173****0131,是,miranda17@adventure-works.com,8426 Easley Dr.,否,一般价值客户
+17530,黄岱,女,24,初中及其以下,普通工人,5万以下,136****0139,是,bonnie25@adventure-works.com,3836 Birchbark Place,否,高价值客户
+17545,邓惠,男,32,大专,普通工人,10至20万,150****0158,是,lawrence14@adventure-works.com,6957 Corte Poquito,否,一般价值客户
+17560,任梅,女,60,本科,技术工人,20至30万,130****0198,是,orlando5@adventure-works.com,3350 Kingswood Circle,否,一般价值客户
+17575,梁婵娟,男,48,初中及其以下,管理人员,10至20万,182****0119,是,emma25@adventure-works.com,3173 Hilltop Dr.,否,高价值客户
+17590,谭临耀,男,50,高中,普通工人,5至10万,183****0119,是,hunter51@adventure-works.com,845 Olive Ave,否,一般价值客户
+17605,钱宁,男,30,本科,技术工人,20至30万,151****0157,是,jasmine7@adventure-works.com,2813 A St.,否,一般价值客户
+17620,付涛,女,66,高中,普通工人,5至10万,158****0117,是,ann23@adventure-works.com,4775 Imperial Dr.,是,高价值客户
+17635,巩达侠,男,31,大专,普通工人,5万以下,166****0182,否,wendy12@adventure-works.com,8055 Shadow Falls Drive,否,高价值客户
+17650,柳明,女,57,初中及其以下,普通工人,5万以下,131****0112,否,destiny26@adventure-works.com,6121 Pebble Glen Drive,否,高价值客户
+17665,戴珑,男,77,初中及其以下,普通工人,5万以下,185****0190,否,philip17@adventure-works.com,3924 Cactus Court,是,高价值客户
+17680,程蔓楚,男,32,本科,技术工人,20至30万,199****0118,否,colin8@adventure-works.com,9127 Pinnacle Drive,否,一般价值客户
+17695,刘明,男,46,高中,普通工人,5至10万,199****0191,是,katelyn30@adventure-works.com,4363 Galindo Street,否,低价值客户
+17710,邵伟,男,47,初中及其以下,普通工人,5至10万,155****0161,是,hunter50@adventure-works.com,549 Via Appia,否,高价值客户
+17725,戴武,男,41,高中,普通工人,5至10万,132****0139,否,tamara21@adventure-works.com,2944 North Main St.,否,高价值客户
+17740,邓秋,女,25,硕士及其以上,专业人员,30万以上,181****0111,否,jessica17@adventure-works.com,8459 Silver Oaks Place,否,高价值客户
+17755,邵鹏,男,41,高中,普通工人,5至10万,175****0158,是,roy30@adventure-works.com,1394 Firestone,否,一般价值客户
+17770,陶聪,女,26,高中,普通工人,5至10万,166****0142,是,ruben35@adventure-works.com,3300 Country View Lane,否,高价值客户
+17785,贺锦,男,33,本科,技术工人,30万以上,176****0152,是,george25@adventure-works.com,3341 Riverside Dr.,否,一般价值客户
+17800,贺荣,女,23,大专,普通工人,10至20万,198****0111,是,ricky15@adventure-works.com,5834 Vloching Circle,否,一般价值客户
+17815,徐君,男,58,初中及其以下,普通工人,5万以下,139****0133,否,cedric15@adventure-works.com,8869 C Olivera Rd,否,低价值客户
+17830,曹丽娜,女,64,高中,普通工人,5至10万,135****0192,是,willie31@adventure-works.com,9770 Fraga Court,是,一般价值客户
+17845,常宣,女,54,本科,公司白领,20至30万,151****0120,是,daniel8@adventure-works.com,6214 Terra Drive,否,一般价值客户
+17860,钟忠,男,23,初中及其以下,管理人员,10至20万,176****0117,是,carson17@adventure-works.com,5831 Mountain View Place,否,高价值客户
+17875,俞蔓楚,男,46,高中,普通工人,10至20万,180****0142,否,randy8@adventure-works.com,2472 Alexander Place,否,一般价值客户
+17890,赵幂,女,37,本科,公司白领,20至30万,130****0181,是,jill13@adventure-works.com,110 E. Watson Court,否,高价值客户
+17905,姚秋,男,42,高中,普通工人,5至10万,130****0111,是,ashlee18@adventure-works.com,5649 East 39th Street,否,低价值客户
+17920,牛晒明,女,43,硕士及其以上,技术工人,30万以上,182****0148,否,mario0@adventure-works.com,1077 Willow Court,否,低价值客户
+17935,许莞颖,女,48,高中,普通工人,5至10万,131****0124,否,ross15@adventure-works.com,6920 Merriewood Drive,否,高价值客户
+17950,郭博,男,49,本科,公司白领,20至30万,187****0137,否,heidi19@adventure-works.com,1019 Kenwal Rd.,否,一般价值客户
+17965,牛黎明,女,51,硕士及其以上,技术工人,20至30万,189****0120,是,ian12@adventure-works.com,6121 Monzeneda Way,否,一般价值客户
+17980,方栋,男,51,大专,普通工人,10至20万,158****0151,是,katelyn26@adventure-works.com,4900 La Salle St.,否,一般价值客户
+17995,何根基,男,50,大专,普通工人,10至20万,153****0134,是,jeremiah39@adventure-works.com,5205 Sunview Terrace,否,高价值客户
+18010,殷保,男,47,大专,普通工人,5万以下,172****0114,否,janet12@adventure-works.com,5993 Baywood Drive,否,低价值客户
+18025,孔松,男,50,初中及其以下,普通工人,5万以下,130****0144,是,candace12@adventure-works.com,2673 Peterson Place,否,高价值客户
+18040,柯巧,男,35,大专,普通工人,5至10万,189****0179,否,julia7@adventure-works.com,7748 Rambling Rose Ave,否,一般价值客户
+18055,沈彩,女,25,大专,普通工人,10至20万,136****0191,是,chad9@adventure-works.com,5010 Orange Street,否,高价值客户
+18070,康娇,女,20,大专,普通工人,10至20万,145****0141,否,maurice11@adventure-works.com,4762 Heights Avenue,否,低价值客户
+18085,蒋宣,男,27,硕士及其以上,技术工人,10至20万,178****0174,是,allison21@adventure-works.com,1536 Camino Verde Ct.,否,低价值客户
+18100,雷菊,女,44,初中及其以下,普通工人,10至20万,182****0120,否,jacqueline0@adventure-works.com,1739 Sun View Terr,否,低价值客户
+18115,李丽丽,女,51,本科,专业人员,30万以上,135****0157,是,nina7@adventure-works.com,1463 El Verano,否,一般价值客户
+18130,罗安,女,35,高中,普通工人,5至10万,131****0142,否,luis21@adventure-works.com,1949 Bay Court,否,高价值客户
+18145,田丹,女,36,高中,普通工人,5至10万,156****0116,是,joseph21@adventure-works.com,8837 Via Appia,否,一般价值客户
+18160,庄伟,女,52,大专,普通工人,5至10万,185****0174,是,whitney15@adventure-works.com,4546 Fieldcrest Dr.,否,一般价值客户
+18175,程德,男,58,本科,公司白领,20至30万,153****0113,否,haley44@adventure-works.com,7801 Esperanza,否,低价值客户
+18190,薛柏,男,51,初中及其以下,普通工人,5万以下,150****0144,否,anne5@adventure-works.com,4831 Via Del Sol,否,一般价值客户
+18205,陶恒,男,32,大专,普通工人,5万以下,172****0125,否,elijah7@adventure-works.com,5805 Virginia Lane,否,一般价值客户
+18220,佘升,男,29,本科,公司白领,30万以上,188****0125,否,johnathan5@adventure-works.com,3421 Gehringer Drive,否,高价值客户
+18235,肖良,女,50,高中,普通工人,10至20万,159****0196,是,tyler11@adventure-works.com,3601 Greenbush Drive,否,低价值客户
+18250,严珑,女,38,硕士及其以上,公司白领,20至30万,158****0179,是,lisa24@adventure-works.com,6711 Frayne Ct.,否,低价值客户
+18265,韩廉,女,32,本科,技术工人,20至30万,152****0138,否,brenda25@adventure-works.com,1697 Sunny Ave,否,低价值客户
+18280,徐芬,女,27,硕士及其以上,管理人员,30万以上,171****0187,是,jan11@adventure-works.com,2559 Gumwood,否,高价值客户
+18295,常君,男,51,初中及其以下,普通工人,5万以下,130****0144,是,sharon12@adventure-works.com,1809 Candellero Dr.,否,一般价值客户
+18310,韩莲,女,38,硕士及其以上,公司白领,20至30万,187****0134,是,orlando19@adventure-works.com,3277 Lakespring Pl.,否,高价值客户
+18325,邢柏,男,36,本科,专业人员,20至30万,175****0181,是,arturo33@adventure-works.com,4775 Kentucky Dr.,否,一般价值客户
+18340,韩杰,女,42,高中,普通工人,5至10万,138****0150,是,dylan28@adventure-works.com,4770 Blue Jay Drive,否,一般价值客户
+18355,秦乐,男,52,初中及其以下,普通工人,5至10万,166****0154,是,cassidy23@adventure-works.com,2583 Cypress Ave.,否,高价值客户
+18370,田妮,男,34,本科,公司白领,30万以上,135****0181,否,emma40@adventure-works.com,485 Starlyn Dr.,否,高价值客户
+18385,郝绅,女,28,硕士及其以上,专业人员,20至30万,133****0199,是,amanda37@adventure-works.com,8969 Royal Links Ct.,否,一般价值客户
+18400,白斯云,男,37,初中及其以下,普通工人,5万以下,177****0182,是,megan39@adventure-works.com,5629 Tara St.,否,一般价值客户
+18415,梁梦,男,63,大专,普通工人,5万以下,173****0133,否,edward48@adventure-works.com,386 Woodpine,是,高价值客户
+18430,万兰,女,42,高中,普通工人,5至10万,199****0115,否,katelyn45@adventure-works.com,6448 Castle Court,否,一般价值客户
+18445,邱栋,女,31,本科,专业人员,20至30万,183****0176,是,felicia16@adventure-works.com,4350 Mota Dr.,否,低价值客户
+18460,钟丽,男,32,高中,普通工人,5至10万,139****0199,否,samantha32@adventure-works.com,6217 W. Watson Court,否,高价值客户
+18475,俞平,女,25,初中及其以下,普通工人,5万以下,198****0191,否,robert53@adventure-works.com,7039 Miwok Way,否,高价值客户
+18490,熊宣,女,26,高中,普通工人,5至10万,177****0183,否,erika0@adventure-works.com,873 Wellington Avenue,否,高价值客户
+18505,郝惠,女,33,高中,普通工人,5至10万,145****0128,是,christopher25@adventure-works.com,4334 Coastal Blvd.,否,低价值客户
+18520,赵盛,男,27,本科,技术工人,20至30万,133****0168,是,nathan26@adventure-works.com,217 Ram Circle,否,一般价值客户
+18535,韩莞颖,女,34,硕士及其以上,公司白领,20至30万,135****0185,否,ashley18@adventure-works.com,7496 Sunset Meadows,否,低价值客户
+18550,邱芯,男,39,高中,普通工人,10至20万,176****0142,是,katrina17@adventure-works.com,8623 Merry Circle,否,一般价值客户
+18565,谭忠,男,43,初中及其以下,普通工人,5万以下,183****0120,是,isabella25@adventure-works.com,8005 Ranchhand Court,否,一般价值客户
+18580,常升,男,30,本科,管理人员,20至30万,166****0139,否,christy12@adventure-works.com,2 Fall Creek Road,否,高价值客户
+18595,付立,女,35,大专,普通工人,5至10万,178****0113,否,amber4@adventure-works.com,8297 Dos Encinas,否,低价值客户
+18610,冯丽丽,男,48,初中及其以下,普通工人,5至10万,186****0193,是,jonathan35@adventure-works.com,3118 Creekside Drive,否,高价值客户
+18625,邵杰,男,48,高中,普通工人,5至10万,198****0164,是,sarah18@adventure-works.com,521 Hermosa,否,一般价值客户
+18640,韦松,男,35,大专,普通工人,10至20万,137****0196,否,tristan12@adventure-works.com,1874 Royal Links Circle,否,一般价值客户
+18655,孙辉,男,44,大专,普通工人,5万以下,138****0130,是,caleb19@adventure-works.com,8117 Green View Court,否,低价值客户
+18670,潘谙,男,34,大专,普通工人,10至20万,183****0143,否,edward50@adventure-works.com,1308 Mt. Hood Circle,否,高价值客户
+18685,程欢悦,女,29,大专,普通工人,10至20万,155****0160,否,jessie9@adventure-works.com,1154 Regina Lane,否,低价值客户
+18700,唐欢悦,男,46,本科,技术工人,20至30万,157****0144,否,david83@adventure-works.com,8083 Ridgewood Drive,否,一般价值客户
+18715,彭丽雪,男,44,高中,普通工人,5至10万,185****0158,是,chloe54@adventure-works.com,7914 H St.,否,一般价值客户
+18730,付丽,女,29,大专,普通工人,5至10万,177****0185,否,theodore14@adventure-works.com,778 Kingsford Dr,否,高价值客户
+18745,秦宁,男,50,本科,公司白领,20至30万,172****0173,是,susan19@adventure-works.com,5126 La Corte Bonita,否,低价值客户
+18760,葛毅,女,50,高中,普通工人,5至10万,156****0181,否,briana12@adventure-works.com,7779 Lake Meadow Circle,否,一般价值客户
+18775,王霖,男,35,大专,普通工人,10至20万,182****0164,是,alexis28@adventure-works.com,7711 Fieldcrest Dr.,否,低价值客户
+18790,候武,男,43,高中,普通工人,5至10万,136****0164,否,destiny5@adventure-works.com,9301 Eureka Lane,否,一般价值客户
+18805,邹雯,男,31,高中,普通工人,5至10万,198****0124,是,drew13@adventure-works.com,1016 Park Avenue,否,低价值客户
+18820,陈磊,女,28,大专,普通工人,5万以下,187****0167,否,tamara6@adventure-works.com,7346 Lion Circle,否,一般价值客户
+18835,邢谦,男,35,大专,普通工人,10至20万,181****0180,否,arthur41@adventure-works.com,7978 San Gabriel Dr.,否,一般价值客户
+18850,陈嫒,男,44,硕士及其以上,技术工人,20至30万,151****0111,否,sydney16@adventure-works.com,7136 Almond Drive,否,低价值客户
+18865,周木兰,男,26,大专,普通工人,10至20万,137****0196,否,karla20@adventure-works.com,3154 Boxwood Dr.,否,一般价值客户
+18880,杨诚,男,28,大专,普通工人,5至10万,138****0179,是,luke28@adventure-works.com,7936 Hemlock Ave.,否,一般价值客户
+18895,潘琼,男,66,高中,普通工人,10至20万,180****0172,否,melinda5@adventure-works.com,6157 San Benito,是,低价值客户
+18910,贺婵,男,63,高中,普通工人,5至10万,151****0111,否,erick20@adventure-works.com,7173 Oak Creek Ct,是,一般价值客户
+18925,钟庆缘,女,22,大专,普通工人,5至10万,153****0163,是,james79@adventure-works.com,3629 Warren St.,否,高价值客户
+18940,潘博,男,48,本科,公司白领,20至30万,137****0160,否,jasmine19@adventure-works.com,2131 Covington Court,否,高价值客户
+18955,赖聪,男,52,初中及其以下,普通工人,5万以下,158****0100,是,victoria26@adventure-works.com,230 Lavere Way,否,高价值客户
+18970,顾莲,男,54,大专,普通工人,10至20万,152****0184,否,jessica43@adventure-works.com,1987 Megan Dr.,否,一般价值客户
+18985,曹灵,男,57,高中,普通工人,5至10万,185****0125,否,devin44@adventure-works.com,5232 Black Point Pl.,否,一般价值客户
+19000,邱梦,男,33,本科,技术工人,20至30万,177****0140,否,sydney23@adventure-works.com,5878 East L Street,否,高价值客户
+19015,孟虢,女,36,初中及其以下,普通工人,5万以下,180****0144,是,devin33@adventure-works.com,5869 Heights Avenue,否,一般价值客户
+19030,贾柏,男,42,本科,专业人员,20至30万,135****0151,否,tamara27@adventure-works.com,1130 Fillet Ave.,否,低价值客户
+19045,程聪,女,46,大专,普通工人,5至10万,156****0189,否,james80@adventure-works.com,5785 Ygnacio Valley Road,否,高价值客户
+19060,胡凤,男,46,硕士及其以上,专业人员,20至30万,139****0135,否,jackson15@adventure-works.com,9854 Martindale Drive,否,一般价值客户
+19075,薛庆缘,男,21,高中,普通工人,5万以下,166****0126,否,ethan20@adventure-works.com,7681 Willow Pass Road,否,一般价值客户
+19090,侯虹,女,33,初中及其以下,普通工人,5万以下,139****0124,是,gary25@adventure-works.com,2332 Treat Blvd,否,一般价值客户
+19105,巩松,女,47,初中及其以下,普通工人,5万以下,151****0158,否,carol8@adventure-works.com,6189 Mt. McKinley Ct,否,高价值客户
+19120,常惠英,女,41,本科,专业人员,30万以上,177****0120,是,jacqueline23@adventure-works.com,1873 Mt. Whitney Dr,否,高价值客户
+19135,邱德,男,59,高中,普通工人,5至10万,158****0150,否,chase13@adventure-works.com,5525 Lilly Lane,否,一般价值客户
+19150,武欢,男,37,高中,普通工人,5至10万,186****0145,是,kenneth7@adventure-works.com,59 Lakewood Court,否,低价值客户
+19165,熊荣,男,62,初中及其以下,普通工人,5万以下,153****0113,否,dalton67@adventure-works.com,1996 Sand Pointe Lane,是,高价值客户
+19180,殷丽雪,男,34,大专,普通工人,10至20万,153****0139,是,edwin44@adventure-works.com,2702 North Ridge Dr.,否,一般价值客户
+19195,范娜,女,35,高中,普通工人,5至10万,135****0135,是,alexandria33@adventure-works.com,9573 Royal Oak Rd.,否,低价值客户
+19210,赵升,男,55,初中及其以下,普通工人,10至20万,181****0186,否,gabriel53@adventure-works.com,670 Echo Canyon Lane,否,高价值客户
+19225,戴壁,女,51,本科,专业人员,30万以上,157****0145,是,alexia7@adventure-works.com,6445 Cashew Street,否,一般价值客户
+19240,丁蔓楚,女,39,初中及其以下,普通工人,5万以下,159****0190,否,claudia14@adventure-works.com,9652 Los Angeles,否,高价值客户
+19255,涂丽,女,37,本科,技术工人,30万以上,158****0175,是,devin32@adventure-works.com,9255 Westover Dr.,否,低价值客户
+19270,邹凤,女,68,初中及其以下,普通工人,5万以下,199****0160,是,dalton37@adventure-works.com,3519 Woodruff Lane,是,一般价值客户
+19285,范刚,男,22,本科,专业人员,20至30万,149****0171,否,marcus14@adventure-works.com,3792 Esperanza Drive,否,高价值客户
+19300,余毅,男,43,大专,普通工人,10至20万,199****0195,否,charles15@adventure-works.com,7739 Pineknoll,否,一般价值客户
+19315,陈晨,男,40,大专,普通工人,10至20万,178****0166,否,mayra9@adventure-works.com,3829 Cardinal Drive,否,高价值客户
+19330,佘巧,女,33,初中及其以下,普通工人,5万以下,151****0155,否,dalton76@adventure-works.com,9168 Wellington Ct.,否,一般价值客户
+19345,韦绅,女,58,初中及其以下,普通工人,5万以下,153****0152,否,gary31@adventure-works.com,2088 Amanda Circle,否,低价值客户
+19360,蒋雯,女,45,大专,普通工人,10至20万,182****0120,是,cindy19@adventure-works.com,8352 Turning View Cricle Drive,否,低价值客户
+19375,姚彩,女,50,本科,技术工人,20至30万,198****0184,是,tiffany3@adventure-works.com,4794 Cowell Road,否,高价值客户
+19390,田诚,男,29,高中,普通工人,10至20万,155****0128,是,luke18@adventure-works.com,5569 Hummingbird Ct.,否,一般价值客户
+19405,任灵,女,54,本科,专业人员,20至30万,159****0137,否,noah2@adventure-works.com,6539 Greenwood Circle,否,高价值客户
+19420,陶丽雪,男,75,初中及其以下,普通工人,5至10万,173****0131,否,max5@adventure-works.com,4475 Terra Calitina,是,低价值客户
+19435,夏梦,女,22,大专,普通工人,5至10万,184****0112,是,crystal17@adventure-works.com,6516 Beauer Lane,否,低价值客户
+19450,田安,男,46,大专,普通工人,5至10万,147****0195,否,devin35@adventure-works.com,8827 Bidwell Street,否,一般价值客户
+19465,俞荷,女,40,本科,公司白领,20至30万,187****0179,否,orlando18@adventure-works.com,595 Clayton Rd.,否,一般价值客户
+19480,薛关茵,女,32,初中及其以下,普通工人,5万以下,132****0119,是,justin48@adventure-works.com,4188 Green Valley Road,否,一般价值客户
+19495,叶实,男,42,大专,普通工人,5至10万,131****0145,是,marshall35@adventure-works.com,5277 Steven Way,否,低价值客户
+19510,许安,女,64,大专,普通工人,10至20万,182****0163,否,caleb14@adventure-works.com,1549 Wildewood Dr,是,一般价值客户
+19525,马凤,女,26,本科,公司白领,20至30万,171****0164,否,cheryl4@adventure-works.com,764 Quail Court,否,一般价值客户
+19540,吕丽,女,23,本科,技术工人,20至30万,176****0187,是,tiffany17@adventure-works.com,1046 Cloverleaf Circle,否,一般价值客户
+19555,卢伟,女,64,初中及其以下,普通工人,5万以下,156****0199,是,gilbert11@adventure-works.com,1093 Gatter Court,是,一般价值客户
+19570,钱崆,女,34,大专,普通工人,10至20万,139****0170,否,mathew17@adventure-works.com,923 Woodbury Place,否,一般价值客户
+19585,葛乐,女,45,大专,普通工人,10至20万,187****0199,否,tasha1@adventure-works.com,5477 Limewood Place,否,高价值客户
+19600,冯立,男,41,本科,公司白领,20至30万,180****0112,否,marcus34@adventure-works.com,3483 Flamingo Drive,否,一般价值客户
+19615,薛强,男,43,大专,普通工人,10至20万,175****0163,否,erika7@adventure-works.com,1207 Concerto Circle,否,低价值客户
+19630,常刚,女,69,大专,普通工人,5至10万,135****0155,否,amanda58@adventure-works.com,5305 Cowell Road,是,低价值客户
+19645,范恒,女,29,硕士及其以上,技术工人,30万以上,150****0171,是,andrew27@adventure-works.com,105 Woodruff Ln.,否,一般价值客户
+19660,叶莲,男,40,高中,普通工人,5至10万,135****0190,否,erick5@adventure-works.com,4343 Cook Street,否,一般价值客户
+19675,贺斯云,女,25,高中,普通工人,5至10万,171****0156,是,logan64@adventure-works.com,2639 Parkview Court,否,一般价值客户
+19690,苏婵娟,女,25,硕士及其以上,公司白领,20至30万,130****0149,是,meredith11@adventure-works.com,3223 White Dr.,否,一般价值客户
+19705,贾保,男,36,硕士及其以上,技术工人,10至20万,157****0122,否,jasmine46@adventure-works.com,4855 James Court,否,高价值客户
+19720,曾辉,男,26,初中及其以下,普通工人,5万以下,135****0128,否,carrie19@adventure-works.com,551 Rainier Dr,否,一般价值客户
+19735,巩明媚,女,52,初中及其以下,普通工人,5万以下,171****0159,是,bonnie17@adventure-works.com,4932 La Jolla,否,一般价值客户
+19750,贾丹,男,47,高中,普通工人,5至10万,136****0192,否,melody3@adventure-works.com,8175 Tri-state Ave.,否,高价值客户
+19765,谈涛,男,31,初中及其以下,普通工人,5万以下,131****0128,否,alvin20@adventure-works.com,5719 A St.,否,一般价值客户
+19780,韩婵,男,46,硕士及其以上,技术工人,30万以上,199****0118,否,jill6@adventure-works.com,3127 Terrace,否,低价值客户
+19795,秦蔓楚,男,38,大专,普通工人,10至20万,156****0131,是,eduardo13@adventure-works.com,5609 Huron Dr,否,一般价值客户
+19810,柯娜,男,22,本科,公司白领,30万以上,173****0174,否,grace52@adventure-works.com,5899 Mt. Wilson Place,否,一般价值客户
+19825,潘雯,男,33,高中,普通工人,5至10万,171****0190,否,arturo14@adventure-works.com,8005 Ranchhand Court,否,一般价值客户
+19840,冯娜,女,24,本科,管理人员,20至30万,137****0142,是,jeremy26@adventure-works.com,420 Royal Links Circle,否,一般价值客户
+19855,袁平,女,61,初中及其以下,普通工人,5至10万,189****0117,否,devin40@adventure-works.com,9123 James Donlon Blvd,是,低价值客户
+19870,黎雯,女,25,高中,普通工人,5至10万,182****0172,否,jon35@adventure-works.com,891 Thornwood Dr.,否,一般价值客户
+19885,高凤,女,41,高中,普通工人,5至10万,184****0152,否,nicole23@adventure-works.com,1747 Corte Segundo,否,低价值客户
+19900,陈娟,男,36,初中及其以下,普通工人,10至20万,181****0156,是,kimberly14@adventure-works.com,4790 Curletto Drive,否,低价值客户
+19915,麦磊,女,69,大专,普通工人,10至20万,181****0119,是,dennis25@adventure-works.com,2761 Clyde Street,是,一般价值客户
+19930,许娜,女,61,大专,普通工人,10至20万,166****0181,是,tonya14@adventure-works.com,509 Lynwood Drive,否,一般价值客户
+19945,秦黎明,女,25,硕士及其以上,技术工人,20至30万,172****0118,否,kristin14@adventure-works.com,9365 G St.,否,低价值客户
+19960,沈婷,男,60,高中,管理人员,5至10万,180****0177,否,julia63@adventure-works.com,5120 La Canada,否,一般价值客户
+19975,蒋冬露,男,48,本科,公司白领,20至30万,178****0160,是,josé54@adventure-works.com,6393 Tuolumne Way,否,一般价值客户
+19990,谭君,女,19,高中,普通工人,5至10万,135****0132,否,andrés18@adventure-works.com,2617 Melody Drive,否,高价值客户
+20005,黄雯,男,43,本科,公司白领,20至30万,176****0142,是,melody7@adventure-works.com,7086 C Wharton Way,否,一般价值客户
+20020,袁岱,男,35,高中,普通工人,5至10万,166****0136,是,destiny43@adventure-works.com,4071 Hames Dr.,否,一般价值客户
+20035,王庆缘,男,61,本科,公司白领,20至30万,137****0198,是,calvin13@adventure-works.com,934 St. Paul Way,否,高价值客户
+20065,贾松,男,31,初中及其以下,普通工人,5万以下,172****0147,是,christian26@adventure-works.com,642 Country View Lane,否,一般价值客户
+20080,徐岱,女,51,高中,普通工人,5至10万,159****0183,是,kristopher12@adventure-works.com,7682 Alta Vista,否,高价值客户
+20095,冯丽,男,60,高中,普通工人,5至10万,184****0159,否,stanley5@adventure-works.com,9021 Onley Dr,否,高价值客户
+20110,曹诚,女,46,高中,普通工人,10至20万,138****0127,是,elijah20@adventure-works.com,3192 Shore Rd.,否,一般价值客户
+20125,李雯,男,22,本科,专业人员,20至30万,131****0160,是,sheena13@adventure-works.com,6654 Shelly Dr.,否,一般价值客户
+20140,贺丹,男,43,大专,普通工人,10至20万,132****0142,否,april18@adventure-works.com,2802 Clayton Way,否,高价值客户
+20155,巩荷,男,41,大专,普通工人,10至20万,159****0116,否,jasmine22@adventure-works.com,9108 San Miguel Drive,否,一般价值客户
+20170,楚丽丽,女,31,初中及其以下,普通工人,5万以下,180****0111,是,savannah39@adventure-works.com,1147 Mellowood Street,否,高价值客户
+20185,徐虢,女,63,初中及其以下,管理人员,5万以下,183****0134,否,felicia20@adventure-works.com,2071 Babbe Street,是,一般价值客户
+20200,邢良,男,57,初中及其以下,普通工人,5万以下,175****0159,是,daniel18@adventure-works.com,1936 Balance Ct,否,一般价值客户
+20215,施强,男,56,大专,普通工人,5万以下,130****0156,否,christy34@adventure-works.com,9497 Richard Ave.,否,高价值客户
+20230,佘虢,女,25,初中及其以下,普通工人,5万以下,189****0114,是,elizabeth11@adventure-works.com,21 Red Tree Way,否,一般价值客户
+20245,杨德伟,男,54,大专,普通工人,10至20万,145****0193,是,samuel33@adventure-works.com,1751 Joan Ave.,否,高价值客户
+20260,叶琪,女,32,本科,专业人员,30万以上,186****0150,否,karl11@adventure-works.com,4179 Maureen Lane,否,高价值客户
+20275,徐荷,女,69,大专,普通工人,10至20万,198****0157,是,katrina8@adventure-works.com,8998 Adobe Drive,是,一般价值客户
+20290,毛芯,男,41,本科,公司白领,20至30万,185****0115,是,lauren64@adventure-works.com,9684 Rahn Court,否,低价值客户
+20305,陶武,女,35,高中,普通工人,5至10万,138****0169,是,savannah18@adventure-works.com,2904 El Pueblo Pl.,否,低价值客户
+20320,卢爽,女,41,本科,公司白领,20至30万,159****0128,否,jason18@adventure-works.com,9082 Rolling Green Circle,否,高价值客户
+20335,熊丽,男,55,大专,普通工人,10至20万,135****0115,是,robin2@adventure-works.com,2845 La Vista Avenue,否,高价值客户
+20350,陈荷,男,50,本科,技术工人,20至30万,132****0118,否,catherine16@adventure-works.com,1716 Rosewood Dr,否,一般价值客户
+20365,赵婵,女,52,大专,普通工人,10至20万,176****0136,否,kari3@adventure-works.com,6132 Providence Dr.,否,一般价值客户
+20380,邵彩,男,32,初中及其以下,普通工人,10至20万,145****0118,是,troy5@adventure-works.com,7230 Berrellesa Street,否,高价值客户
+20395,薛荷,女,35,高中,普通工人,5至10万,181****0172,否,latasha21@adventure-works.com,9203 Birch Bark Dr.,否,一般价值客户
+20410,胡锦,男,20,高中,普通工人,10至20万,132****0149,否,destiny33@adventure-works.com,920 Holiday Hills Drive,否,一般价值客户
+20440,马荣,女,47,初中及其以下,普通工人,5万以下,132****0197,是,seth26@adventure-works.com,1387 Dias Circle,否,高价值客户
+20455,白德伟,男,55,高中,普通工人,5至10万,131****0119,否,kristi27@adventure-works.com,8483 Wilke Drive,否,一般价值客户
+20470,熊临耀,女,54,高中,普通工人,10至20万,151****0117,否,madison9@adventure-works.com,1990 Bridge,否,高价值客户
+20485,谢聪,男,58,高中,普通工人,5至10万,180****0144,否,jordan2@adventure-works.com,935 Rheem Drive,否,低价值客户
+20500,薛芳,男,39,高中,普通工人,5至10万,187****0165,否,sarah14@adventure-works.com,6949 Brookview Drive,否,一般价值客户
+20515,陈安,女,45,初中及其以下,普通工人,10至20万,145****0134,否,ivan3@adventure-works.com,2540 Waterview Place,否,高价值客户
+20530,赵芳,女,31,大专,普通工人,5至10万,155****0120,否,virginia21@adventure-works.com,3994 Sucamore Drive,否,低价值客户
+20545,孟斯云,女,48,初中及其以下,普通工人,5万以下,199****0139,否,isabella56@adventure-works.com,8725 San Benito Drive,否,一般价值客户
+20560,薛立伟,女,51,本科,专业人员,20至30万,186****0117,是,ian62@adventure-works.com,4700 Bancroft Rd.,否,低价值客户
+20575,俞明,女,56,初中及其以下,普通工人,5万以下,184****0170,否,jan18@adventure-works.com,8094 Roxbury Drive,否,一般价值客户
+20590,白聪,男,34,硕士及其以上,公司白领,20至30万,183****0193,是,jerome8@adventure-works.com,2524 Coggins Drive,否,一般价值客户
+20605,麦平,女,50,高中,普通工人,10至20万,139****0115,是,allison31@adventure-works.com,380 Canyon Road,否,高价值客户
+20620,徐嘉丽,女,52,初中及其以下,管理人员,5万以下,166****0193,是,dustin16@adventure-works.com,706 Petarct,否,一般价值客户
+20635,巩廉,女,32,本科,专业人员,20至30万,188****0155,否,clinton14@adventure-works.com,6809 El Capitan Lane,否,一般价值客户
+20650,毛保,男,50,高中,普通工人,5至10万,147****0112,否,crystal3@adventure-works.com,3106 Julpum Loop,否,一般价值客户
+20665,佟崆,女,45,高中,普通工人,5至10万,136****0182,是,cheryl24@adventure-works.com,8432 Sierra Madre,否,低价值客户
+20680,卢淑芳,女,51,硕士及其以上,技术工人,30万以上,155****0115,是,maria53@adventure-works.com,9478 Rheem Dr.,否,一般价值客户
+20695,贾芳茵,男,43,高中,普通工人,10至20万,176****0163,是,morgan48@adventure-works.com,8582 San Jose Ave.,否,低价值客户
+20710,郝涛,女,21,大专,普通工人,5至10万,178****0164,否,chloe27@adventure-works.com,4594 Hill Drive,否,高价值客户
+20725,巩安,女,33,本科,专业人员,30万以上,132****0148,否,chloe4@adventure-works.com,7207 Peabody Road,否,高价值客户
+20740,徐健,男,35,硕士及其以上,技术工人,30万以上,184****0199,否,damien32@adventure-works.com,3582 Juliet Court,否,一般价值客户
+20755,徐婵娟,男,42,初中及其以下,普通工人,5至10万,138****0118,否,clarence36@adventure-works.com,2595 Worth Ct.,否,低价值客户
+20770,胡临耀,女,52,初中及其以下,普通工人,10至20万,132****0154,是,tyler9@adventure-works.com,6020 Regency Dr.,否,一般价值客户
+20785,牛德伟,女,41,本科,公司白领,30万以上,166****0139,是,erika18@adventure-works.com,2216 Blue Ridge Dr.,否,一般价值客户
+20800,罗昌,女,51,大专,普通工人,5至10万,139****0189,是,jada14@adventure-works.com,5615 Rock Oak Road,否,一般价值客户
+20815,韦华,女,63,初中及其以下,普通工人,5万以下,198****0194,是,seth46@adventure-works.com,5186 Oeffler Ln.,是,一般价值客户
+20830,殷涛,女,48,高中,普通工人,5至10万,153****0154,是,chloe40@adventure-works.com,8162 Olympic Dr.,否,一般价值客户
+20845,陈锦,男,22,高中,普通工人,5至10万,147****0110,是,alejandro45@adventure-works.com,5460 Kipling Court,否,一般价值客户
+20860,唐凤,女,44,本科,专业人员,20至30万,178****0192,否,nancy13@adventure-works.com,6827 Glaze Dr.,否,低价值客户
+20875,钟虹,女,19,高中,普通工人,5至10万,133****0132,否,xavier51@adventure-works.com,6509 California Street,否,高价值客户
+20890,谷莲,男,33,本科,专业人员,20至30万,184****0129,是,ashley31@adventure-works.com,6345 Dartmouth Way,否,一般价值客户
+20905,蔡安,男,28,本科,公司白领,30万以上,131****0175,是,frank17@adventure-works.com,500 Rockledge Lane,否,一般价值客户
+20920,夏彩,女,30,高中,普通工人,5至10万,187****0119,否,brianna57@adventure-works.com,3647 San Miguel Road,否,一般价值客户
+20935,袁康,男,24,初中及其以下,管理人员,5万以下,157****0121,是,jessica54@adventure-works.com,8222 Northridge Road,否,高价值客户
+20950,王嘉丽,女,42,大专,管理人员,5至10万,198****0128,否,hunter64@adventure-works.com,2038 Encino Drive,否,一般价值客户
+20965,邹实,男,28,高中,普通工人,5至10万,183****0134,是,dominique7@adventure-works.com,613 Glen Wood Drive,否,高价值客户
+20980,袁廷,男,41,初中及其以下,管理人员,5万以下,158****0118,是,stacy6@adventure-works.com,521 Hermosa,否,低价值客户
+20995,何虢,女,40,高中,普通工人,5至10万,172****0175,否,emily27@adventure-works.com,389 Alamo Way,否,低价值客户
+21010,金诚,男,44,大专,普通工人,5至10万,131****0128,否,clarence32@adventure-works.com,9473 Wawona Lane,否,一般价值客户
+21025,潘凤,女,35,初中及其以下,普通工人,5万以下,171****0116,是,claudia7@adventure-works.com,4852 Chaparral Court,否,高价值客户
+21040,陈立,女,65,大专,普通工人,10至20万,189****0141,是,melissa40@adventure-works.com,5288 Carletto Drive,是,一般价值客户
+21055,庄丹,男,43,高中,普通工人,5至10万,173****0150,是,madison13@adventure-works.com,1295 Fabian Way,否,低价值客户
+21070,彭安,女,40,本科,技术工人,20至30万,151****0166,否,shaun16@adventure-works.com,8714 St. Paul Way,否,高价值客户
+21085,冯巧,男,42,本科,技术工人,20至30万,159****0170,否,logan33@adventure-works.com,207 Barquentine Court,否,一般价值客户
+21100,曾幂,男,25,本科,公司白领,30万以上,153****0178,是,alan23@adventure-works.com,1936 Bayberry Drive,否,高价值客户
+21115,林廉,男,23,高中,普通工人,10至20万,135****0163,否,latasha10@adventure-works.com,831 Valley Crest Dr.,否,高价值客户
+21130,肖保,女,37,高中,普通工人,10至20万,189****0199,是,ross32@adventure-works.com,8746 Gonzalez Ct,否,低价值客户
+21145,白栋,男,37,硕士及其以上,专业人员,10至20万,180****0134,是,jasmine48@adventure-works.com,3219 Sandra Circle,否,一般价值客户
+21160,倪乐,男,43,高中,普通工人,5至10万,172****0127,否,dakota3@adventure-works.com,420 Royal Links Circle,否,高价值客户
+21175,沈光,女,33,本科,公司白领,20至30万,150****0193,是,shannon6@adventure-works.com,564 Greenwood Place,否,低价值客户
+21190,贾廉,女,27,高中,普通工人,5至10万,173****0176,是,alan24@adventure-works.com,4896 Village Pl.,否,低价值客户
+21205,武廉,男,54,高中,普通工人,5至10万,152****0144,否,ian82@adventure-works.com,9563 Pennsylvania Blvd.,否,低价值客户
+21220,严强,男,61,高中,普通工人,5至10万,187****0114,是,adrienne1@adventure-works.com,287 D Bel Air Dr.,否,一般价值客户
+21235,倪芬,女,42,高中,普通工人,5至10万,182****0117,是,jasmine43@adventure-works.com,8634 Mi Casa Court,否,一般价值客户
+21250,余雯,男,54,初中及其以下,普通工人,5万以下,166****0130,否,blake32@adventure-works.com,2767 Seaview Dr.,否,一般价值客户
+21265,周冬露,男,34,初中及其以下,普通工人,5万以下,199****0114,是,rob4@adventure-works.com,1885 Riverside Drive,否,高价值客户
+21280,许辉,男,54,初中及其以下,普通工人,5万以下,131****0176,是,veronica9@adventure-works.com,7221 Peachwillow Street,否,一般价值客户
+21295,靳刚,男,31,本科,公司白领,20至30万,136****0196,是,megan28@adventure-works.com,9537 Ridgewood Drive,否,一般价值客户
+21310,潘莞颖,男,25,本科,技术工人,20至30万,136****0177,是,heidi15@adventure-works.com,1585 Larkspur,否,低价值客户
+21325,李莲,女,47,初中及其以下,普通工人,5至10万,149****0116,是,jenna14@adventure-works.com,2115 Pasado,否,高价值客户
+21340,袁临耀,男,36,硕士及其以上,技术工人,20至30万,131****0127,否,jennifer93@adventure-works.com,7013 St. Raphael Drive,否,一般价值客户
+21355,吕凤,男,28,硕士及其以上,技术工人,10至20万,136****0144,否,elizabeth19@adventure-works.com,5454 Old Mt. View Drive,否,低价值客户
+21370,付聪,女,34,初中及其以下,普通工人,5至10万,130****0145,是,kyle19@adventure-works.com,7537 Kaski Lane,否,低价值客户
+21385,韦磊,男,64,高中,普通工人,5至10万,147****0129,是,kaitlyn29@adventure-works.com,239 Stephanie Way,是,一般价值客户
+21400,常黎明,女,46,高中,普通工人,5至10万,189****0160,否,hailey12@adventure-works.com,5134 Red Leaf,否,高价值客户
+21415,马雯,女,46,本科,专业人员,20至30万,138****0149,是,julio23@adventure-works.com,4666 Lancelot Drive,否,低价值客户
+21430,刘乐,女,31,初中及其以下,普通工人,5万以下,177****0151,否,shannon38@adventure-works.com,9327 Roland Drive,否,高价值客户
+21445,曹娜,女,23,高中,普通工人,5至10万,152****0162,是,shelby19@adventure-works.com,5816 Camacho,否,一般价值客户
+21460,佟斯云,男,34,大专,普通工人,10至20万,132****0198,否,hunter16@adventure-works.com,6221 Steven Way,否,低价值客户
+21475,袁关茵,女,37,大专,普通工人,5万以下,171****0175,否,jimmy26@adventure-works.com,5694 C Del Rio Circle,否,高价值客户
+21490,彭彩,男,41,高中,普通工人,5至10万,172****0174,是,joseph23@adventure-works.com,5509 Newcastle Road,否,一般价值客户
+21505,付霖,女,37,大专,普通工人,10至20万,149****0147,否,nathan3@adventure-works.com,8564 Hickory Drive,否,一般价值客户
+21520,丁武,男,34,高中,普通工人,10至20万,184****0150,否,brianna30@adventure-works.com,1908 Petarct,否,高价值客户
+21535,唐蔓楚,女,44,初中及其以下,普通工人,5万以下,138****0125,是,russell7@adventure-works.com,3977 Central Avenue,否,高价值客户
+21550,林凤,男,30,初中及其以下,普通工人,5至10万,187****0193,是,erin7@adventure-works.com,8496 La Salle Ct.,否,高价值客户
+21565,付惠,男,33,初中及其以下,普通工人,5万以下,184****0164,是,lauren24@adventure-works.com,5361 Hungry Road,否,一般价值客户
+21580,夏娜,女,46,大专,普通工人,5至10万,136****0130,是,ana19@adventure-works.com,1289 Quigley St.,否,一般价值客户
+21595,彭丽美,女,32,本科,专业人员,30万以上,150****0116,否,kevin16@adventure-works.com,4137 Garcia Ranch Road,否,低价值客户
+21610,罗平,男,28,大专,普通工人,10至20万,151****0187,是,meghan3@adventure-works.com,8403 Reality Drive,否,低价值客户
+21625,薛武,女,40,高中,普通工人,5至10万,156****0190,否,colleen16@adventure-works.com,3181 Hacienda,否,高价值客户
+21640,郭卫东,女,46,高中,普通工人,5至10万,133****0178,否,ashlee19@adventure-works.com,7318 Lavene Way,否,高价值客户
+21655,崔红宇,女,45,初中及其以下,管理人员,5万以下,188****0149,是,nicole9@adventure-works.com,505 Lyman Rd,否,高价值客户
+21670,马福平,女,29,高中,普通工人,5至10万,130****0112,是,xavier76@adventure-works.com,8660 San Vincente Drive,否,一般价值客户
+21685,冯红,女,39,本科,技术工人,30万以上,151****0188,否,fernando55@adventure-works.com,1624 Carlisle Way,否,一般价值客户
+21700,崔敬伟,男,48,初中及其以下,普通工人,5万以下,178****0118,是,alejandro30@adventure-works.com,3919 Bayview Circle,否,一般价值客户
+21715,穆增志,女,52,大专,普通工人,5至10万,159****0191,否,darrell4@adventure-works.com,9396 Viera Avenue,否,一般价值客户
+21730,谢志威,男,66,大专,普通工人,5至10万,152****0163,是,jacqueline1@adventure-works.com,732 East 87th Street,是,一般价值客户
+21745,吕金起,女,24,初中及其以下,普通工人,10至20万,176****0176,否,nicholas19@adventure-works.com,892 Southbrook Drive,否,一般价值客户
+21760,韩云庆,女,60,初中及其以下,普通工人,5万以下,136****0185,否,rachael5@adventure-works.com,8935 Etcheverry Dr.,否,一般价值客户
+21775,鲁全福,女,45,硕士及其以上,技术工人,20至30万,137****0166,是,alexia13@adventure-works.com,5697 Jacqueline Way,否,一般价值客户
+21790,郭建立,男,38,高中,普通工人,5至10万,178****0190,否,diana2@adventure-works.com,3783 Terra Calitina,否,一般价值客户
+21805,郝连水,女,37,本科,专业人员,20至30万,151****0180,是,cameron39@adventure-works.com,6538 Camelback Road,否,低价值客户
+21820,闫智胜,女,42,本科,管理人员,30万以上,175****0149,是,sydney78@adventure-works.com,2957 Tri-state Avenue,否,高价值客户
+21835,张军,男,37,本科,专业人员,20至30万,138****0141,否,april1@adventure-works.com,77 Birchwood,否,高价值客户
+21850,刘敏,女,29,高中,普通工人,5至10万,177****0171,是,katherine88@adventure-works.com,8245 Pinehurst Court,否,低价值客户
+21865,李霞,女,37,高中,普通工人,5至10万,177****0166,是,bethany10@adventure-works.com,1080 Crestwood Circle,否,高价值客户
+21880,张强,男,27,大专,普通工人,5万以下,130****0128,是,abby4@adventure-works.com,7834 Roux Court,否,低价值客户
+21895,李桂英,女,47,本科,管理人员,30万以上,152****0148,是,ariana5@adventure-works.com,3792 Westwood Ct.,否,一般价值客户
+21910,刘芳,男,61,高中,普通工人,5至10万,181****0178,否,lucas10@adventure-works.com,7901 Moccasin Ct.,否,高价值客户
+21925,王杰,女,63,高中,普通工人,5至10万,185****0168,否,vincent21@adventure-works.com,4059 High Street,是,一般价值客户

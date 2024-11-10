@@ -1,0 +1,13 @@
+注意：
+默认情况下，目前pytagcloud包创建标签云是不支持中文的，原因是没有合适的ttf字体文件，下面我们需要下载一个ttf 中文字体，例如MicrosoftYaHei.ttf ，然后将其移动到pytagcloud包的安装路径下，例如......\Lib\site-packages\pytagcloud\fonts，
+接着还需要更改该目录下的fonts.json文件，按照样式添加：
+{
+    "name": "MicrosoftYaHei",
+    "ttf": "MicrosoftYaHei.ttf",
+    "web": "none"
+  }
+
+注意逗号。
+
+如果不添加中文字体，标签云中是无法正常显示中文的，而且还包如下的错误信息：
+AttributeError: Invalid font name. Should be one of Nobile, Old Standard TT, Cantarell, Reenie Beanie, Cuprum, Molengo, Neucha, Philosopher, Yanone Kaffeesatz, Cardo, Neuton, Inconsolata, Crimson Text, Josefin Sans, Droid Sans, Lobster, IM Fell DW Pica, Vollkorn, Tangerine, Coustard, PT Sans Regular

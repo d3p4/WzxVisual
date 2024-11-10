@@ -1,0 +1,21 @@
+为了更好的使用本书，需要将sales.sql数据库文件，导入到MySQL数据库中。
+方法一：
+可以使用下面的命令
+常用source 命令
+进入mysql数据库控制台，如
+mysql -u root -p
+mysql>use 数据库
+然后使用source命令，后面参数为脚本文件(如这里用到的.sql)
+mysql>source d:/sales.sql
+
+方法二：
+如果不会操作，可以在Navicat界面中导入。
+Navicat for MySQL怎么导入sql文件，步骤如下：
+1、点击连接名–>新建数据库sales
+2、填写，数据库名–>字符集（一般选择utf-8编码）–>排序规则–>确定
+3、点击创建后的数据库名，运行SQL文件
+4、点进去,查找你想要导入的.sql文件
+5、选择你需要导入的.sql文件
+6、选择好sql文件之后，点击开始
+7、出现Finished successfully字样，则表示导入文件成功–>开始
+8、查看内容，此时点击你要运行的sql文件数据库，刷新，即能看到sql效果

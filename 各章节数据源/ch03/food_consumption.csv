@@ -1,0 +1,1431 @@
+country,food_category,consumption,co2_emmission
+Argentina,ÖíÈâ,10.51,37.2
+Argentina,¼ÒÇİ,38.66,41.53
+Argentina,Å£Èâ,55.48,1712
+Argentina,ÑòÈâ,1.56,54.63
+Argentina,ÓãÈâ,4.36,6.96
+Argentina,¼¦µ°,11.39,10.46
+Argentina,Å£ÄÌ,195.08,277.87
+Argentina,Ğ¡Âó,103.11,19.66
+Argentina,´óÃ×,8.77,11.22
+Argentina,»Æ¶¹,0,0
+Argentina,¼á¹û,0.49,0.87
+Australia,ÖíÈâ,24.14,85.44
+Australia,¼ÒÇİ,46.12,49.54
+Australia,Å£Èâ,33.86,1044.85
+Australia,ÑòÈâ,9.87,345.65
+Australia,ÓãÈâ,17.69,28.25
+Australia,¼¦µ°,8.51,7.82
+Australia,Å£ÄÌ,234.49,334.01
+Australia,Ğ¡Âó,70.46,13.44
+Australia,´óÃ×,11.03,14.12
+Australia,»Æ¶¹,0.19,0.09
+Australia,¼á¹û,8.73,15.45
+Albania,ÖíÈâ,10.88,38.51
+Albania,¼ÒÇİ,13.23,14.21
+Albania,Å£Èâ,22.5,694.3
+Albania,ÑòÈâ,15.32,536.5
+Albania,ÓãÈâ,3.85,6.15
+Albania,¼¦µ°,12.45,11.44
+Albania,Å£ÄÌ,303.72,432.62
+Albania,Ğ¡Âó,138.64,26.44
+Albania,´óÃ×,7.78,9.96
+Albania,»Æ¶¹,0,0
+Albania,¼á¹û,4.36,7.72
+Iceland,ÖíÈâ,21.69,76.77
+Iceland,¼ÒÇİ,26.87,28.86
+Iceland,Å£Èâ,13.36,412.26
+Iceland,ÑòÈâ,21.12,739.62
+Iceland,ÓãÈâ,74.41,118.81
+Iceland,¼¦µ°,8.24,7.57
+Iceland,Å£ÄÌ,225.82,321.66
+Iceland,Ğ¡Âó,72.92,13.91
+Iceland,´óÃ×,3.89,4.98
+Iceland,»Æ¶¹,0.11,0.05
+Iceland,¼á¹û,3.88,6.87
+New Zealand,ÖíÈâ,22.29,78.9
+New Zealand,¼ÒÇİ,34.98,37.58
+New Zealand,Å£Èâ,22.49,693.99
+New Zealand,ÑòÈâ,18.91,662.23
+New Zealand,ÓãÈâ,20.36,32.51
+New Zealand,¼¦µ°,9.91,9.1
+New Zealand,Å£ÄÌ,137.25,195.5
+New Zealand,Ğ¡Âó,76.91,14.67
+New Zealand,´óÃ×,9.16,11.72
+New Zealand,»Æ¶¹,0.44,0.2
+New Zealand,¼á¹û,8.22,14.55
+USA,ÖíÈâ,27.64,97.83
+USA,¼ÒÇİ,50.01,53.72
+USA,Å£Èâ,36.24,1118.29
+USA,ÑòÈâ,0.43,15.06
+USA,ÓãÈâ,12.35,19.72
+USA,¼¦µ°,14.58,13.39
+USA,Å£ÄÌ,254.69,362.78
+USA,Ğ¡Âó,80.43,15.34
+USA,´óÃ×,6.88,8.8
+USA,»Æ¶¹,0.04,0.02
+USA,¼á¹û,7.86,13.91
+Uruguay,ÖíÈâ,16.84,59.61
+Uruguay,¼ÒÇİ,27.45,29.49
+Uruguay,Å£Èâ,29.1,897.96
+Uruguay,ÑòÈâ,8.23,288.21
+Uruguay,ÓãÈâ,6.53,10.43
+Uruguay,¼¦µ°,13.14,12.07
+Uruguay,Å£ÄÌ,210.54,299.89
+Uruguay,Ğ¡Âó,109.31,20.85
+Uruguay,´óÃ×,11.5,14.72
+Uruguay,»Æ¶¹,0.01,0
+Uruguay,¼á¹û,0.95,1.68
+Luxembourg,ÖíÈâ,43.58,154.25
+Luxembourg,¼ÒÇİ,21.37,22.96
+Luxembourg,Å£Èâ,29.88,922.03
+Luxembourg,ÑòÈâ,1.67,58.48
+Luxembourg,ÓãÈâ,23.09,36.87
+Luxembourg,¼¦µ°,14.64,13.45
+Luxembourg,Å£ÄÌ,255.3,363.65
+Luxembourg,Ğ¡Âó,103.2,19.68
+Luxembourg,´óÃ×,4.2,5.37
+Luxembourg,»Æ¶¹,0.04,0.02
+Luxembourg,¼á¹û,0.93,1.65
+Brazil,ÖíÈâ,12.6,44.6
+Brazil,¼ÒÇİ,45,48.34
+Brazil,Å£Èâ,39.25,1211.17
+Brazil,ÑòÈâ,0.62,21.71
+Brazil,ÓãÈâ,10.01,15.98
+Brazil,¼¦µ°,8.98,8.25
+Brazil,Å£ÄÌ,149.28,212.63
+Brazil,Ğ¡Âó,53,10.11
+Brazil,´óÃ×,32.13,41.12
+Brazil,»Æ¶¹,3.62,1.63
+Brazil,¼á¹û,0.67,1.19
+Kazakhstan,ÖíÈâ,10.36,36.67
+Kazakhstan,¼ÒÇİ,18.38,19.74
+Kazakhstan,Å£Èâ,23.38,721.46
+Kazakhstan,ÑòÈâ,9.56,334.79
+Kazakhstan,ÓãÈâ,5.21,8.32
+Kazakhstan,¼¦µ°,8.29,7.62
+Kazakhstan,Å£ÄÌ,288.12,410.4
+Kazakhstan,Ğ¡Âó,92.31,17.6
+Kazakhstan,´óÃ×,7.32,9.37
+Kazakhstan,»Æ¶¹,0.03,0.01
+Kazakhstan,¼á¹û,5.14,9.1
+Sweden,ÖíÈâ,37,130.96
+Sweden,¼ÒÇİ,16.64,17.87
+Sweden,Å£Èâ,24.58,758.49
+Sweden,ÑòÈâ,1.41,49.38
+Sweden,ÓãÈâ,23.86,38.1
+Sweden,¼¦µ°,13.37,12.28
+Sweden,Å£ÄÌ,341.23,486.05
+Sweden,Ğ¡Âó,79.59,15.18
+Sweden,´óÃ×,5.96,7.63
+Sweden,»Æ¶¹,0.13,0.06
+Sweden,¼á¹û,6.23,11.03
+Bermuda,ÖíÈâ,28.24,99.96
+Bermuda,¼ÒÇİ,32.62,35.04
+Bermuda,Å£Èâ,33.15,1022.94
+Bermuda,ÑòÈâ,2.71,94.9
+Bermuda,ÓãÈâ,33.22,53.04
+Bermuda,¼¦µ°,14.92,13.71
+Bermuda,Å£ÄÌ,95.56,136.12
+Bermuda,Ğ¡Âó,54.88,10.47
+Bermuda,´óÃ×,5.38,6.88
+Bermuda,»Æ¶¹,0.22,0.1
+Bermuda,¼á¹û,5.72,10.12
+Denmark,ÖíÈâ,24.87,88.03
+Denmark,¼ÒÇİ,26.75,28.73
+Denmark,Å£Èâ,28.46,878.22
+Denmark,ÑòÈâ,0.92,32.22
+Denmark,ÓãÈâ,16.49,26.33
+Denmark,¼¦µ°,15.35,14.1
+Denmark,Å£ÄÌ,277.3,394.99
+Denmark,Ğ¡Âó,98,18.69
+Denmark,´óÃ×,4.96,6.35
+Denmark,»Æ¶¹,0.03,0.01
+Denmark,¼á¹û,5.94,10.51
+Finland,ÖíÈâ,36.14,127.92
+Finland,¼ÒÇİ,19.87,21.34
+Finland,Å£Èâ,19.22,593.09
+Finland,ÑòÈâ,0.53,18.56
+Finland,ÓãÈâ,33.8,53.97
+Finland,¼¦µ°,9.55,8.77
+Finland,Å£ÄÌ,430.76,613.57
+Finland,Ğ¡Âó,81.99,15.64
+Finland,´óÃ×,4.42,5.66
+Finland,»Æ¶¹,0.08,0.04
+Finland,¼á¹û,3.43,6.07
+Ireland,ÖíÈâ,32.4,114.68
+Ireland,¼ÒÇİ,26.26,28.21
+Ireland,Å£Èâ,22.35,689.67
+Ireland,ÑòÈâ,4.1,143.58
+Ireland,ÓãÈâ,17.39,27.77
+Ireland,¼¦µ°,8.96,8.23
+Ireland,Å£ÄÌ,291.86,415.73
+Ireland,Ğ¡Âó,107.98,20.59
+Ireland,´óÃ×,3,3.84
+Ireland,»Æ¶¹,0.25,0.11
+Ireland,¼á¹û,4.1,7.26
+Greece,ÖíÈâ,28.31,100.2
+Greece,¼ÒÇİ,15.74,16.91
+Greece,Å£Èâ,16.1,496.81
+Greece,ÑòÈâ,12.47,436.7
+Greece,ÓãÈâ,14.42,23.02
+Greece,¼¦µ°,10.13,9.31
+Greece,Å£ÄÌ,255.26,363.59
+Greece,Ğ¡Âó,124.04,23.65
+Greece,´óÃ×,6.64,8.5
+Greece,»Æ¶¹,0.02,0.01
+Greece,¼á¹û,10.5,18.59
+France,ÖíÈâ,33.05,116.98
+France,¼ÒÇİ,22.93,24.63
+France,Å£Èâ,23.81,734.73
+France,ÑòÈâ,3.28,114.87
+France,ÓãÈâ,22.91,36.58
+France,¼¦µ°,13.13,12.06
+France,Å£ÄÌ,241.31,343.72
+France,Ğ¡Âó,108.43,20.68
+France,´óÃ×,4.88,6.24
+France,»Æ¶¹,0.05,0.02
+France,¼á¹û,5.39,9.54
+Canada,ÖíÈâ,22.81,80.74
+Canada,¼ÒÇİ,36.68,39.4
+Canada,Å£Èâ,30.25,933.45
+Canada,ÑòÈâ,0.97,33.97
+Canada,ÓãÈâ,14.56,23.25
+Canada,¼¦µ°,12.95,11.9
+Canada,Å£ÄÌ,187.77,267.46
+Canada,Ğ¡Âó,84.96,16.2
+Canada,´óÃ×,12.65,16.19
+Canada,»Æ¶¹,0.94,0.42
+Canada,¼á¹û,8.01,14.18
+Norway,ÖíÈâ,23.51,83.21
+Norway,¼ÒÇİ,21.01,22.57
+Norway,Å£Èâ,19.83,611.91
+Norway,ÑòÈâ,5.34,187.01
+Norway,ÓãÈâ,38.18,60.96
+Norway,¼¦µ°,11.41,10.48
+Norway,Å£ÄÌ,261.34,372.25
+Norway,Ğ¡Âó,97.12,18.52
+Norway,´óÃ×,4.36,5.58
+Norway,»Æ¶¹,0.11,0.05
+Norway,¼á¹û,5.28,9.35
+Hong Kong SAR. China,ÖíÈâ,67.11,237.54
+Hong Kong SAR. China,¼ÒÇİ,54.86,58.93
+Hong Kong SAR. China,Å£Èâ,25.82,796.75
+Hong Kong SAR. China,ÑòÈâ,2.22,77.74
+Hong Kong SAR. China,ÓãÈâ,42.44,67.76
+Hong Kong SAR. China,¼¦µ°,14.5,13.32
+Hong Kong SAR. China,Å£ÄÌ,105.85,150.77
+Hong Kong SAR. China,Ğ¡Âó,53.14,10.13
+Hong Kong SAR. China,´óÃ×,43.48,55.64
+Hong Kong SAR. China,»Æ¶¹,2.79,1.26
+Hong Kong SAR. China,¼á¹û,13.81,24.44
+French Polynesia,ÖíÈâ,14.75,52.21
+French Polynesia,¼ÒÇİ,49.55,53.23
+French Polynesia,Å£Èâ,30.9,953.51
+French Polynesia,ÑòÈâ,2.83,99.11
+French Polynesia,ÓãÈâ,38.95,62.19
+French Polynesia,¼¦µ°,8.75,8.04
+French Polynesia,Å£ÄÌ,93.56,133.27
+French Polynesia,Ğ¡Âó,68.67,13.1
+French Polynesia,´óÃ×,35.59,45.54
+French Polynesia,»Æ¶¹,0.77,0.35
+French Polynesia,¼á¹û,2.34,4.14
+Israel,ÖíÈâ,1.99,7.04
+Israel,¼ÒÇİ,62.5,67.14
+Israel,Å£Èâ,28.78,888.09
+Israel,ÑòÈâ,1.87,65.49
+Israel,ÓãÈâ,22.18,35.41
+Israel,¼¦µ°,11.35,10.43
+Israel,Å£ÄÌ,193.6,275.76
+Israel,Ğ¡Âó,110.86,21.14
+Israel,´óÃ×,16.81,21.51
+Israel,»Æ¶¹,0.1,0.05
+Israel,¼á¹û,7.71,13.65
+Switzerland,ÖíÈâ,31.49,111.46
+Switzerland,¼ÒÇİ,16.38,17.6
+Switzerland,Å£Èâ,21.26,656.04
+Switzerland,ÑòÈâ,1.42,49.73
+Switzerland,ÓãÈâ,13.48,21.52
+Switzerland,¼¦µ°,10.53,9.67
+Switzerland,Å£ÄÌ,318.69,453.94
+Switzerland,Ğ¡Âó,89.51,17.07
+Switzerland,´óÃ×,2.43,3.11
+Switzerland,»Æ¶¹,0.44,0.2
+Switzerland,¼á¹û,9.27,16.41
+Netherlands,ÖíÈâ,36.36,128.7
+Netherlands,¼ÒÇİ,23.9,25.67
+Netherlands,Å£Èâ,17.67,545.26
+Netherlands,ÑòÈâ,0.94,32.92
+Netherlands,ÓãÈâ,18.64,29.76
+Netherlands,¼¦µ°,14.03,12.89
+Netherlands,Å£ÄÌ,341.47,486.39
+Netherlands,Ğ¡Âó,70.17,13.38
+Netherlands,´óÃ×,2.93,3.75
+Netherlands,»Æ¶¹,0.12,0.05
+Netherlands,¼á¹û,7.94,14.05
+Kuwait,ÖíÈâ,0,0
+Kuwait,¼ÒÇİ,53.61,57.59
+Kuwait,Å£Èâ,13.03,402.08
+Kuwait,ÑòÈâ,15.61,546.66
+Kuwait,ÓãÈâ,11.99,19.14
+Kuwait,¼¦µ°,12.6,11.57
+Kuwait,Å£ÄÌ,157.66,224.57
+Kuwait,Ğ¡Âó,96.76,18.45
+Kuwait,´óÃ×,43.83,56.09
+Kuwait,»Æ¶¹,0.06,0.03
+Kuwait,¼á¹û,5.23,9.26
+United Kingdom,ÖíÈâ,25.79,91.28
+United Kingdom,¼ÒÇİ,31.55,33.89
+United Kingdom,Å£Èâ,18.12,559.15
+United Kingdom,ÑòÈâ,4.49,157.24
+United Kingdom,ÓãÈâ,15.49,24.73
+United Kingdom,¼¦µ°,11.08,10.18
+United Kingdom,Å£ÄÌ,232.2,330.75
+United Kingdom,Ğ¡Âó,98.63,18.81
+United Kingdom,´óÃ×,6.39,8.18
+United Kingdom,»Æ¶¹,0.05,0.02
+United Kingdom,¼á¹û,4.18,7.4
+Austria,ÖíÈâ,52.56,186.04
+Austria,¼ÒÇİ,18.61,19.99
+Austria,Å£Èâ,17.14,528.9
+Austria,ÑòÈâ,1.16,40.62
+Austria,ÓãÈâ,12.16,19.42
+Austria,¼¦µ°,14.68,13.49
+Austria,Å£ÄÌ,258.09,367.62
+Austria,Ğ¡Âó,81.1,15.47
+Austria,´óÃ×,3.7,4.73
+Austria,»Æ¶¹,2.06,0.93
+Austria,¼á¹û,7.88,13.95
+Oman,ÖíÈâ,0.01,0.04
+Oman,¼ÒÇİ,31.51,33.85
+Oman,Å£Èâ,15.1,465.95
+Oman,ÑòÈâ,12.87,450.71
+Oman,ÓãÈâ,21.56,34.42
+Oman,¼¦µ°,7.8,7.17
+Oman,Å£ÄÌ,152.28,216.91
+Oman,Ğ¡Âó,64.1,12.22
+Oman,´óÃ×,56.55,72.37
+Oman,»Æ¶¹,0.21,0.09
+Oman,¼á¹û,1.68,2.97
+Italy,ÖíÈâ,40.28,142.57
+Italy,¼ÒÇİ,18.61,19.99
+Italy,Å£Èâ,18.6,573.96
+Italy,ÑòÈâ,0.92,32.22
+Italy,ÓãÈâ,15.6,24.91
+Italy,¼¦µ°,13.34,12.25
+Italy,Å£ÄÌ,246.88,351.66
+Italy,Ğ¡Âó,146.37,27.91
+Italy,´óÃ×,5.74,7.35
+Italy,»Æ¶¹,0.01,0
+Italy,¼á¹û,7.63,13.51
+Bahamas,ÖíÈâ,32.74,115.88
+Bahamas,¼ÒÇİ,45.74,49.13
+Bahamas,Å£Èâ,19.92,614.69
+Bahamas,ÑòÈâ,5.22,182.8
+Bahamas,ÓãÈâ,18.8,30.02
+Bahamas,¼¦µ°,6.2,5.7
+Bahamas,Å£ÄÌ,104.76,149.22
+Bahamas,Ğ¡Âó,39.98,7.62
+Bahamas,´óÃ×,23.97,30.67
+Bahamas,»Æ¶¹,0.09,0.04
+Bahamas,¼á¹û,4.03,7.13
+Portugal,ÖíÈâ,37.91,134.18
+Portugal,¼ÒÇİ,30.14,32.38
+Portugal,Å£Èâ,16.45,507.61
+Portugal,ÑòÈâ,2.38,83.35
+Portugal,ÓãÈâ,45.39,72.47
+Portugal,¼¦µ°,9.05,8.31
+Portugal,Å£ÄÌ,205.04,292.06
+Portugal,Ğ¡Âó,94.3,17.98
+Portugal,´óÃ×,14.86,19.02
+Portugal,»Æ¶¹,0.01,0
+Portugal,¼á¹û,3.91,6.92
+Malta,ÖíÈâ,34.24,121.19
+Malta,¼ÒÇİ,26.4,28.36
+Malta,Å£Èâ,19.22,593.09
+Malta,ÑòÈâ,1.19,41.67
+Malta,ÓãÈâ,24.58,39.25
+Malta,¼¦µ°,11.64,10.69
+Malta,Å£ÄÌ,190.06,270.72
+Malta,Ğ¡Âó,139.58,26.62
+Malta,´óÃ×,4.96,6.35
+Malta,»Æ¶¹,0.05,0.02
+Malta,¼á¹û,5.62,9.95
+Armenia,ÖíÈâ,9.67,34.23
+Armenia,¼ÒÇİ,13.35,14.34
+Armenia,Å£Èâ,19.66,606.67
+Armenia,ÑòÈâ,3.02,105.76
+Armenia,ÓãÈâ,4.36,6.96
+Armenia,¼¦µ°,11.69,10.74
+Armenia,Å£ÄÌ,209.03,297.74
+Armenia,Ğ¡Âó,130.6,24.91
+Armenia,´óÃ×,3.18,4.07
+Armenia,»Æ¶¹,0,0
+Armenia,¼á¹û,2.55,4.51
+Slovenia,ÖíÈâ,28.19,99.78
+Slovenia,¼ÒÇİ,23.46,25.2
+Slovenia,Å£Èâ,18.43,568.71
+Slovenia,ÑòÈâ,0.79,27.67
+Slovenia,ÓãÈâ,7.76,12.39
+Slovenia,¼¦µ°,9.36,8.6
+Slovenia,Å£ÄÌ,235.01,334.75
+Slovenia,Ğ¡Âó,103.43,19.72
+Slovenia,´óÃ×,3.95,5.05
+Slovenia,»Æ¶¹,0.75,0.34
+Slovenia,¼á¹û,5.28,9.35
+Chile,ÖíÈâ,24.68,87.35
+Chile,¼ÒÇİ,36.52,39.23
+Chile,Å£Èâ,23.86,736.27
+Chile,ÑòÈâ,0.42,14.71
+Chile,ÓãÈâ,7.65,12.21
+Chile,¼¦µ°,9.97,9.16
+Chile,Å£ÄÌ,116.11,165.39
+Chile,Ğ¡Âó,104.74,19.97
+Chile,´óÃ×,8.85,11.33
+Chile,»Æ¶¹,0.04,0.02
+Chile,¼á¹û,2.22,3.93
+Venezuela,ÖíÈâ,7.23,25.59
+Venezuela,¼ÒÇİ,39.28,42.19
+Venezuela,Å£Èâ,25.89,798.91
+Venezuela,ÑòÈâ,0.32,11.21
+Venezuela,ÓãÈâ,8.34,13.32
+Venezuela,¼¦µ°,5.63,5.17
+Venezuela,Å£ÄÌ,117.79,167.78
+Venezuela,Ğ¡Âó,49.17,9.38
+Venezuela,´óÃ×,23.39,29.93
+Venezuela,»Æ¶¹,0,0
+Venezuela,¼á¹û,0.35,0.62
+Belgium,ÖíÈâ,38.65,136.8
+Belgium,¼ÒÇİ,12.2,13.11
+Belgium,Å£Èâ,15.63,482.31
+Belgium,ÑòÈâ,1.32,46.23
+Belgium,ÓãÈâ,18.97,30.29
+Belgium,¼¦µ°,12.59,11.57
+Belgium,Å£ÄÌ,236.19,336.43
+Belgium,Ğ¡Âó,111.91,21.34
+Belgium,´óÃ×,8.61,11.02
+Belgium,»Æ¶¹,0.07,0.03
+Belgium,¼á¹û,7.32,12.96
+Germany,ÖíÈâ,51.81,183.38
+Germany,¼ÒÇİ,17.75,19.07
+Germany,Å£Èâ,13.16,406.09
+Germany,ÑòÈâ,0.73,25.56
+Germany,ÓãÈâ,11.16,17.82
+Germany,¼¦µ°,12.2,11.21
+Germany,Å£ÄÌ,258.7,368.49
+Germany,Ğ¡Âó,83.41,15.91
+Germany,´óÃ×,3.34,4.27
+Germany,»Æ¶¹,0.88,0.4
+Germany,¼á¹û,7.96,14.09
+Russia,ÖíÈâ,25.66,90.82
+Russia,¼ÒÇİ,27.5,29.54
+Russia,Å£Èâ,16.98,523.97
+Russia,ÑòÈâ,1.4,49.03
+Russia,ÓãÈâ,20.82,33.24
+Russia,¼¦µ°,15.43,14.17
+Russia,Å£ÄÌ,163.57,232.99
+Russia,Ğ¡Âó,130.99,24.98
+Russia,´óÃ×,4.71,6.03
+Russia,»Æ¶¹,0.05,0.02
+Russia,¼á¹û,1.62,2.87
+Croatia,ÖíÈâ,42.79,151.46
+Croatia,¼ÒÇİ,8.52,9.15
+Croatia,Å£Èâ,12.41,382.95
+Croatia,ÑòÈâ,1.71,59.88
+Croatia,ÓãÈâ,15.83,25.28
+Croatia,¼¦µ°,8.48,7.79
+Croatia,Å£ÄÌ,231.02,329.06
+Croatia,Ğ¡Âó,106.59,20.33
+Croatia,´óÃ×,2.64,3.38
+Croatia,»Æ¶¹,0,0
+Croatia,¼á¹û,3.88,6.87
+Belarus,ÖíÈâ,40.37,142.89
+Belarus,¼ÒÇİ,31.29,33.61
+Belarus,Å£Èâ,17.11,527.98
+Belarus,ÑòÈâ,0.11,3.85
+Belarus,ÓãÈâ,15.75,25.15
+Belarus,¼¦µ°,15.86,14.57
+Belarus,Å£ÄÌ,133.73,190.49
+Belarus,Ğ¡Âó,60.48,11.53
+Belarus,´óÃ×,3.17,4.06
+Belarus,»Æ¶¹,0.3,0.14
+Belarus,¼á¹û,3.36,5.95
+Spain,ÖíÈâ,48.92,173.15
+Spain,¼ÒÇİ,28.63,30.75
+Spain,Å£Èâ,12.15,374.92
+Spain,ÑòÈâ,2.16,75.64
+Spain,ÓãÈâ,28.83,46.03
+Spain,¼¦µ°,13.32,12.24
+Spain,Å£ÄÌ,164.29,234.01
+Spain,Ğ¡Âó,93.88,17.9
+Spain,´óÃ×,8.32,10.65
+Spain,»Æ¶¹,0.02,0.01
+Spain,¼á¹û,7.44,13.17
+Paraguay,ÖíÈâ,26.24,92.88
+Paraguay,¼ÒÇİ,6.39,6.86
+Paraguay,Å£Èâ,19.81,611.29
+Paraguay,ÑòÈâ,0.56,19.61
+Paraguay,ÓãÈâ,3.6,5.75
+Paraguay,¼¦µ°,18.83,17.3
+Paraguay,Å£ÄÌ,75.72,107.86
+Paraguay,Ğ¡Âó,31.51,6.01
+Paraguay,´óÃ×,4.91,6.28
+Paraguay,»Æ¶¹,0,0
+Paraguay,¼á¹û,1.6,2.83
+New Caledonia,ÖíÈâ,19.9,70.44
+New Caledonia,¼ÒÇİ,44.36,47.65
+New Caledonia,Å£Èâ,16.07,495.89
+New Caledonia,ÑòÈâ,1.95,68.29
+New Caledonia,ÓãÈâ,19.38,30.94
+New Caledonia,¼¦µ°,8.85,8.13
+New Caledonia,Å£ÄÌ,108,153.84
+New Caledonia,Ğ¡Âó,81.75,15.59
+New Caledonia,´óÃ×,17.47,22.36
+New Caledonia,»Æ¶¹,0.55,0.25
+New Caledonia,¼á¹û,2.96,5.24
+South Africa,ÖíÈâ,4.16,14.72
+South Africa,¼ÒÇİ,37.57,40.36
+South Africa,Å£Èâ,18.03,556.37
+South Africa,ÑòÈâ,4.28,149.89
+South Africa,ÓãÈâ,5.56,8.88
+South Africa,¼¦µ°,7.21,6.62
+South Africa,Å£ÄÌ,55.75,79.41
+South Africa,Ğ¡Âó,60.13,11.47
+South Africa,´óÃ×,17.41,22.28
+South Africa,»Æ¶¹,1.27,0.57
+South Africa,¼á¹û,1.04,1.84
+Barbados,ÖíÈâ,8.3,29.38
+Barbados,¼ÒÇİ,42.62,45.78
+Barbados,Å£Èâ,13.13,405.16
+Barbados,ÑòÈâ,4.08,142.88
+Barbados,ÓãÈâ,37.41,59.73
+Barbados,¼¦µ°,9.61,8.83
+Barbados,Å£ÄÌ,110.48,157.37
+Barbados,Ğ¡Âó,65.71,12.53
+Barbados,´óÃ×,15.66,20.04
+Barbados,»Æ¶¹,0.1,0.05
+Barbados,¼á¹û,4.16,7.36
+Lithuania,ÖíÈâ,45.67,161.65
+Lithuania,¼ÒÇİ,26.84,28.83
+Lithuania,Å£Èâ,4.49,138.55
+Lithuania,ÑòÈâ,0.24,8.4
+Lithuania,ÓãÈâ,42.39,67.68
+Lithuania,¼¦µ°,13.11,12.04
+Lithuania,Å£ÄÌ,295.46,420.85
+Lithuania,Ğ¡Âó,121.59,23.19
+Lithuania,´óÃ×,3.07,3.93
+Lithuania,»Æ¶¹,0.02,0.01
+Lithuania,¼á¹û,2.13,3.77
+Turkey,ÖíÈâ,0.01,0.04
+Turkey,¼ÒÇİ,18.78,20.17
+Turkey,Å£Èâ,11.64,359.19
+Turkey,ÑòÈâ,4.68,163.89
+Turkey,ÓãÈâ,5.58,8.91
+Turkey,¼¦µ°,8.2,7.53
+Turkey,Å£ÄÌ,193.94,276.25
+Turkey,Ğ¡Âó,169.96,32.41
+Turkey,´óÃ×,10.74,13.74
+Turkey,»Æ¶¹,1.71,0.77
+Turkey,¼á¹û,7.97,14.11
+Estonia,ÖíÈâ,29.68,105.05
+Estonia,¼ÒÇİ,21.11,22.68
+Estonia,Å£Èâ,7.19,221.87
+Estonia,ÑòÈâ,0.44,15.41
+Estonia,ÓãÈâ,12.78,20.41
+Estonia,¼¦µ°,12.66,11.63
+Estonia,Å£ÄÌ,284.85,405.74
+Estonia,Ğ¡Âó,89.36,17.04
+Estonia,´óÃ×,2.56,3.28
+Estonia,»Æ¶¹,0.04,0.02
+Estonia,¼á¹û,4.29,7.59
+Mexico,ÖíÈâ,15.23,53.91
+Mexico,¼ÒÇİ,30.12,32.35
+Mexico,Å£Èâ,15.33,473.05
+Mexico,ÑòÈâ,0.89,31.17
+Mexico,ÓãÈâ,7.56,12.07
+Mexico,¼¦µ°,18.34,16.85
+Mexico,Å£ÄÌ,111.87,159.35
+Mexico,Ğ¡Âó,35.21,6.71
+Mexico,´óÃ×,5.64,7.22
+Mexico,»Æ¶¹,0.02,0.01
+Mexico,¼á¹û,2.51,4.44
+Costa Rica,ÖíÈâ,10.28,36.39
+Costa Rica,¼ÒÇİ,24.47,26.29
+Costa Rica,Å£Èâ,15.23,469.97
+Costa Rica,ÑòÈâ,0.02,0.7
+Costa Rica,ÓãÈâ,11.32,18.07
+Costa Rica,¼¦µ°,10.55,9.69
+Costa Rica,Å£ÄÌ,183.28,261.06
+Costa Rica,Ğ¡Âó,39.31,7.5
+Costa Rica,´óÃ×,45.69,58.47
+Costa Rica,»Æ¶¹,1.54,0.69
+Costa Rica,¼á¹û,1.38,2.44
+Bolivia,ÖíÈâ,8.89,31.47
+Bolivia,¼ÒÇİ,34.31,36.86
+Bolivia,Å£Èâ,19.78,610.37
+Bolivia,ÑòÈâ,1.72,60.23
+Bolivia,ÓãÈâ,2.18,3.48
+Bolivia,¼¦µ°,5.18,4.76
+Bolivia,Å£ÄÌ,46.04,65.58
+Bolivia,Ğ¡Âó,49.99,9.53
+Bolivia,´óÃ×,26.99,34.54
+Bolivia,»Æ¶¹,0.01,0
+Bolivia,¼á¹û,9.16,16.21
+Ecuador,ÖíÈâ,14.44,51.11
+Ecuador,¼ÒÇİ,21.85,23.47
+Ecuador,Å£Èâ,16.61,512.55
+Ecuador,ÑòÈâ,0.44,15.41
+Ecuador,ÓãÈâ,5.17,8.25
+Ecuador,¼¦µ°,8.01,7.36
+Ecuador,Å£ÄÌ,139.6,198.85
+Ecuador,Ğ¡Âó,39.19,7.47
+Ecuador,´óÃ×,45.07,57.68
+Ecuador,»Æ¶¹,0,0
+Ecuador,¼á¹û,0.98,1.73
+Panama,ÖíÈâ,13.48,47.71
+Panama,¼ÒÇİ,30.81,33.1
+Panama,Å£Èâ,20.4,629.5
+Panama,ÑòÈâ,0.01,0.35
+Panama,ÓãÈâ,11.05,17.64
+Panama,¼¦µ°,4.53,4.16
+Panama,Å£ÄÌ,70.29,100.12
+Panama,Ğ¡Âó,38.96,7.43
+Panama,´óÃ×,66.42,85
+Panama,»Æ¶¹,3.53,1.59
+Panama,¼á¹û,1.05,1.86
+Czech Republic,ÖíÈâ,41.17,145.72
+Czech Republic,¼ÒÇİ,19.09,20.51
+Czech Republic,Å£Èâ,8.15,251.49
+Czech Republic,ÑòÈâ,0.34,11.91
+Czech Republic,ÓãÈâ,8.25,13.17
+Czech Republic,¼¦µ°,11.66,10.71
+Czech Republic,Å£ÄÌ,195.2,278.04
+Czech Republic,Ğ¡Âó,92.67,17.67
+Czech Republic,´óÃ×,4.79,6.13
+Czech Republic,»Æ¶¹,0.82,0.37
+Czech Republic,¼á¹û,2.47,4.37
+Romania,ÖíÈâ,25.31,89.58
+Romania,¼ÒÇİ,15.38,16.52
+Romania,Å£Èâ,4.78,147.5
+Romania,ÑòÈâ,3.41,119.42
+Romania,ÓãÈâ,6.07,9.69
+Romania,¼¦µ°,12.94,11.89
+Romania,Å£ÄÌ,238.33,339.48
+Romania,Ğ¡Âó,134.87,25.72
+Romania,´óÃ×,2.59,3.31
+Romania,»Æ¶¹,0.01,0
+Romania,¼á¹û,1.8,3.19
+Colombia,ÖíÈâ,6.51,23.04
+Colombia,¼ÒÇİ,27.57,29.62
+Colombia,Å£Èâ,16.36,504.84
+Colombia,ÑòÈâ,0.21,7.35
+Colombia,ÓãÈâ,6.01,9.6
+Colombia,¼¦µ°,10.78,9.9
+Colombia,Å£ÄÌ,108.47,154.5
+Colombia,Ğ¡Âó,29.79,5.68
+Colombia,´óÃ×,28.02,35.86
+Colombia,»Æ¶¹,0.89,0.4
+Colombia,¼á¹û,0.42,0.74
+Maldives,ÖíÈâ,1.22,4.32
+Maldives,¼ÒÇİ,18.47,19.84
+Maldives,Å£Èâ,9.44,291.3
+Maldives,ÑòÈâ,0.7,24.51
+Maldives,ÓãÈâ,179.71,286.94
+Maldives,¼¦µ°,10.79,9.91
+Maldives,Å£ÄÌ,111.47,158.78
+Maldives,Ğ¡Âó,77.77,14.83
+Maldives,´óÃ×,50.73,64.92
+Maldives,»Æ¶¹,0.2,0.09
+Maldives,¼á¹û,15.83,28.02
+Cyprus,ÖíÈâ,38.38,135.85
+Cyprus,¼ÒÇİ,24.45,26.26
+Cyprus,Å£Èâ,5.79,178.67
+Cyprus,ÑòÈâ,5.05,176.85
+Cyprus,ÓãÈâ,14.86,23.73
+Cyprus,¼¦µ°,8.98,8.25
+Cyprus,Å£ÄÌ,113.31,161.4
+Cyprus,Ğ¡Âó,83.25,15.88
+Cyprus,´óÃ×,4.94,6.32
+Cyprus,»Æ¶¹,0.04,0.02
+Cyprus,¼á¹û,4.6,8.14
+Serbia,ÖíÈâ,32.04,113.41
+Serbia,¼ÒÇİ,10.64,11.43
+Serbia,Å£Èâ,7.05,217.55
+Serbia,ÑòÈâ,3.56,124.67
+Serbia,ÓãÈâ,5.59,8.93
+Serbia,¼¦µ°,8.89,8.17
+Serbia,Å£ÄÌ,148.53,211.57
+Serbia,Ğ¡Âó,105.88,20.19
+Serbia,´óÃ×,1.22,1.56
+Serbia,»Æ¶¹,0,0
+Serbia,¼á¹û,3.31,5.86
+United Arab Emirates,ÖíÈâ,0,0
+United Arab Emirates,¼ÒÇİ,41.04,44.09
+United Arab Emirates,Å£Èâ,5.64,174.04
+United Arab Emirates,ÑòÈâ,9.08,317.98
+United Arab Emirates,ÓãÈâ,20.41,32.59
+United Arab Emirates,¼¦µ°,8.23,7.56
+United Arab Emirates,Å£ÄÌ,132.66,188.96
+United Arab Emirates,Ğ¡Âó,101.29,19.32
+United Arab Emirates,´óÃ×,56.25,71.98
+United Arab Emirates,»Æ¶¹,0.08,0.04
+United Arab Emirates,¼á¹û,23.03,40.76
+Algeria,ÖíÈâ,0,0
+Algeria,¼ÒÇİ,7.42,7.97
+Algeria,Å£Èâ,5.6,172.8
+Algeria,ÑòÈâ,7.69,269.3
+Algeria,ÓãÈâ,3.74,5.97
+Algeria,¼¦µ°,8.06,7.4
+Algeria,Å£ÄÌ,141.53,201.6
+Algeria,Ğ¡Âó,185.42,35.36
+Algeria,´óÃ×,2.97,3.8
+Algeria,»Æ¶¹,0,0
+Algeria,¼á¹û,2.08,3.68
+Ukraine,ÖíÈâ,20.56,72.77
+Ukraine,¼ÒÇİ,24.23,26.03
+Ukraine,Å£Èâ,8.96,276.49
+Ukraine,ÑòÈâ,0.41,14.36
+Ukraine,ÓãÈâ,15.23,24.32
+Ukraine,¼¦µ°,18.01,16.54
+Ukraine,Å£ÄÌ,145.03,206.58
+Ukraine,Ğ¡Âó,105.15,20.05
+Ukraine,´óÃ×,3,3.84
+Ukraine,»Æ¶¹,0.02,0.01
+Ukraine,¼á¹û,2.68,4.74
+Pakistan,ÖíÈâ,0,0
+Pakistan,¼ÒÇİ,5.01,5.38
+Pakistan,Å£Èâ,8.82,272.17
+Pakistan,ÑòÈâ,2.46,86.15
+Pakistan,ÓãÈâ,1.87,2.99
+Pakistan,¼¦µ°,2.95,2.71
+Pakistan,Å£ÄÌ,183.13,260.85
+Pakistan,Ğ¡Âó,113.63,21.67
+Pakistan,´óÃ×,12.25,15.68
+Pakistan,»Æ¶¹,0,0
+Pakistan,¼á¹û,0.83,1.47
+Swaziland,ÖíÈâ,2.43,8.6
+Swaziland,¼ÒÇİ,6.18,6.64
+Swaziland,Å£Èâ,15.1,465.95
+Swaziland,ÑòÈâ,1.94,67.94
+Swaziland,ÓãÈâ,1.26,2.01
+Swaziland,¼¦µ°,1.5,1.38
+Swaziland,Å£ÄÌ,56.6,80.62
+Swaziland,Ğ¡Âó,37.15,7.08
+Swaziland,´óÃ×,21.15,27.07
+Swaziland,»Æ¶¹,0.55,0.25
+Swaziland,¼á¹û,6.44,11.4
+Latvia,ÖíÈâ,34.96,123.74
+Latvia,¼ÒÇİ,20.53,22.05
+Latvia,Å£Èâ,5.11,157.68
+Latvia,ÑòÈâ,0.34,11.91
+Latvia,ÓãÈâ,21.3,34.01
+Latvia,¼¦µ°,14.03,12.89
+Latvia,Å£ÄÌ,174.11,248
+Latvia,Ğ¡Âó,72.13,13.76
+Latvia,´óÃ×,2.21,2.83
+Latvia,»Æ¶¹,0.04,0.02
+Latvia,¼á¹û,3.78,6.69
+Bosnia and Herzegovina,ÖíÈâ,9.38,33.2
+Bosnia and Herzegovina,¼ÒÇİ,13.17,14.15
+Bosnia and Herzegovina,Å£Èâ,9.12,281.42
+Bosnia and Herzegovina,ÑòÈâ,0.47,16.46
+Bosnia and Herzegovina,ÓãÈâ,4.06,6.48
+Bosnia and Herzegovina,¼¦µ°,4.49,4.12
+Bosnia and Herzegovina,Å£ÄÌ,174.03,247.89
+Bosnia and Herzegovina,Ğ¡Âó,93.56,17.84
+Bosnia and Herzegovina,´óÃ×,1.88,2.41
+Bosnia and Herzegovina,»Æ¶¹,1.48,0.67
+Bosnia and Herzegovina,¼á¹û,2,3.54
+Fiji,ÖíÈâ,4.31,15.26
+Fiji,¼ÒÇİ,20.26,21.76
+Fiji,Å£Èâ,8.96,276.49
+Fiji,ÑòÈâ,5.9,206.62
+Fiji,ÓãÈâ,35.01,55.9
+Fiji,¼¦µ°,6.44,5.92
+Fiji,Å£ÄÌ,40.2,57.26
+Fiji,Ğ¡Âó,84.22,16.06
+Fiji,´óÃ×,45.62,58.38
+Fiji,»Æ¶¹,0.3,0.14
+Fiji,¼á¹û,1.3,2.3
+South Korea,ÖíÈâ,32.76,115.95
+South Korea,¼ÒÇİ,16,17.19
+South Korea,Å£Èâ,14.53,448.37
+South Korea,ÑòÈâ,0.14,4.9
+South Korea,ÓãÈâ,33.09,52.83
+South Korea,¼¦µ°,11.24,10.33
+South Korea,Å£ÄÌ,29.05,41.38
+South Korea,Ğ¡Âó,50.84,9.7
+South Korea,´óÃ×,85.18,109
+South Korea,»Æ¶¹,8.35,3.76
+South Korea,¼á¹û,4.88,8.64
+Poland,ÖíÈâ,46.19,163.49
+Poland,¼ÒÇİ,27.41,29.44
+Poland,Å£Èâ,2.32,71.59
+Poland,ÑòÈâ,0.02,0.7
+Poland,ÓãÈâ,10.49,16.75
+Poland,¼¦µ°,7.53,6.92
+Poland,Å£ÄÌ,205.39,292.56
+Poland,Ğ¡Âó,108.83,20.75
+Poland,´óÃ×,0.95,1.22
+Poland,»Æ¶¹,0.06,0.03
+Poland,¼á¹û,2.23,3.95
+Saudi Arabia,ÖíÈâ,0,0
+Saudi Arabia,¼ÒÇİ,49.05,52.69
+Saudi Arabia,Å£Èâ,6.45,199.03
+Saudi Arabia,ÑòÈâ,6.54,229.03
+Saudi Arabia,ÓãÈâ,11.99,19.14
+Saudi Arabia,¼¦µ°,5.37,4.93
+Saudi Arabia,Å£ÄÌ,83.65,119.15
+Saudi Arabia,Ğ¡Âó,89.47,17.06
+Saudi Arabia,´óÃ×,36.02,46.09
+Saudi Arabia,»Æ¶¹,0.05,0.02
+Saudi Arabia,¼á¹û,3.23,5.72
+Botswana,ÖíÈâ,0.74,2.62
+Botswana,¼ÒÇİ,5.33,5.73
+Botswana,Å£Èâ,7.85,242.23
+Botswana,ÑòÈâ,3.76,131.67
+Botswana,ÓãÈâ,3.98,6.35
+Botswana,¼¦µ°,1.95,1.79
+Botswana,Å£ÄÌ,117.74,167.71
+Botswana,Ğ¡Âó,38.2,7.28
+Botswana,´óÃ×,7.06,9.03
+Botswana,»Æ¶¹,1.16,0.52
+Botswana,¼á¹û,1.08,1.91
+Macedonia,ÖíÈâ,10.35,36.63
+Macedonia,¼ÒÇİ,18.77,20.16
+Macedonia,Å£Èâ,7.69,237.3
+Macedonia,ÑòÈâ,0.94,32.92
+Macedonia,ÓãÈâ,5.47,8.73
+Macedonia,¼¦µ°,6.38,5.86
+Macedonia,Å£ÄÌ,157.93,224.96
+Macedonia,Ğ¡Âó,104.8,19.99
+Macedonia,´óÃ×,2.81,3.6
+Macedonia,»Æ¶¹,0.46,0.21
+Macedonia,¼á¹û,5.87,10.39
+Hungary,ÖíÈâ,34.93,123.63
+Hungary,¼ÒÇİ,23.78,25.54
+Hungary,Å£Èâ,4.96,153.06
+Hungary,ÑòÈâ,0.11,3.85
+Hungary,ÓãÈâ,4.93,7.87
+Hungary,¼¦µ°,12.45,11.44
+Hungary,Å£ÄÌ,159.05,226.55
+Hungary,Ğ¡Âó,109.98,20.97
+Hungary,´óÃ×,2.15,2.75
+Hungary,»Æ¶¹,0.01,0
+Hungary,¼á¹û,0.64,1.13
+Trinidad and Tobago,ÖíÈâ,8.92,31.57
+Trinidad and Tobago,¼ÒÇİ,58.27,62.59
+Trinidad and Tobago,Å£Èâ,6.13,189.16
+Trinidad and Tobago,ÑòÈâ,2.79,97.71
+Trinidad and Tobago,ÓãÈâ,20.54,32.8
+Trinidad and Tobago,¼¦µ°,4.2,3.86
+Trinidad and Tobago,Å£ÄÌ,103.8,147.85
+Trinidad and Tobago,Ğ¡Âó,90.17,17.2
+Trinidad and Tobago,´óÃ×,16.38,20.96
+Trinidad and Tobago,»Æ¶¹,0.04,0.02
+Trinidad and Tobago,¼á¹û,3.78,6.69
+Tunisia,ÖíÈâ,0,0
+Tunisia,¼ÒÇİ,18.5,19.87
+Tunisia,Å£Èâ,5.53,170.64
+Tunisia,ÑòÈâ,5.34,187.01
+Tunisia,ÓãÈâ,12.63,20.17
+Tunisia,¼¦µ°,7.67,7.05
+Tunisia,Å£ÄÌ,114.47,163.05
+Tunisia,Ğ¡Âó,197.5,37.66
+Tunisia,´óÃ×,1.07,1.37
+Tunisia,»Æ¶¹,1.88,0.85
+Tunisia,¼á¹û,6.34,11.22
+Egypt,ÖíÈâ,0.02,0.07
+Egypt,¼ÒÇİ,14.43,15.5
+Egypt,Å£Èâ,12.88,397.45
+Egypt,ÑòÈâ,1.58,55.33
+Egypt,ÓãÈâ,21.46,34.26
+Egypt,¼¦µ°,4.59,4.22
+Egypt,Å£ÄÌ,59.46,84.69
+Egypt,Ğ¡Âó,146.83,28
+Egypt,´óÃ×,39.77,50.89
+Egypt,»Æ¶¹,0.64,0.29
+Egypt,¼á¹û,1.82,3.22
+Mauritius,ÖíÈâ,4.08,14.44
+Mauritius,¼ÒÇİ,38.51,41.37
+Mauritius,Å£Èâ,5.99,184.84
+Mauritius,ÑòÈâ,4.08,142.88
+Mauritius,ÓãÈâ,19.66,31.39
+Mauritius,¼¦µ°,6.32,5.81
+Mauritius,Å£ÄÌ,117.27,167.04
+Mauritius,Ğ¡Âó,114.02,21.74
+Mauritius,´óÃ×,45.56,58.3
+Mauritius,»Æ¶¹,0.3,0.14
+Mauritius,¼á¹û,2.33,4.12
+Bulgaria,ÖíÈâ,26.26,92.95
+Bulgaria,¼ÒÇİ,20.68,22.21
+Bulgaria,Å£Èâ,3.84,118.49
+Bulgaria,ÑòÈâ,1.63,57.08
+Bulgaria,ÓãÈâ,6.24,9.96
+Bulgaria,¼¦µ°,8.36,7.68
+Bulgaria,Å£ÄÌ,155.71,221.79
+Bulgaria,Ğ¡Âó,121.17,23.11
+Bulgaria,´óÃ×,2.24,2.87
+Bulgaria,»Æ¶¹,0.04,0.02
+Bulgaria,¼á¹û,2.26,4
+Morocco,ÖíÈâ,0.01,0.04
+Morocco,¼ÒÇİ,20.77,22.31
+Morocco,Å£Èâ,8.04,248.1
+Morocco,ÑòÈâ,4.36,152.69
+Morocco,ÓãÈâ,17.44,27.85
+Morocco,¼¦µ°,6.68,6.14
+Morocco,Å£ÄÌ,54.68,77.89
+Morocco,Ğ¡Âó,179.7,34.27
+Morocco,´óÃ×,1.1,1.41
+Morocco,»Æ¶¹,0,0
+Morocco,¼á¹û,3.23,5.72
+Slovakia,ÖíÈâ,31.78,112.49
+Slovakia,¼ÒÇİ,15.13,16.25
+Slovakia,Å£Èâ,5.19,160.15
+Slovakia,ÑòÈâ,0.16,5.6
+Slovakia,ÓãÈâ,8.39,13.4
+Slovakia,¼¦µ°,16.05,14.74
+Slovakia,Å£ÄÌ,143.14,203.89
+Slovakia,Ğ¡Âó,123.62,23.57
+Slovakia,´óÃ×,2.88,3.69
+Slovakia,»Æ¶¹,0.02,0.01
+Slovakia,¼á¹û,3.7,6.55
+Niger,ÖíÈâ,0.09,0.32
+Niger,¼ÒÇİ,1.08,1.16
+Niger,Å£Èâ,8.97,276.8
+Niger,ÑòÈâ,4.17,146.03
+Niger,ÓãÈâ,2.7,4.31
+Niger,¼¦µ°,0.3,0.28
+Niger,Å£ÄÌ,58.92,83.93
+Niger,Ğ¡Âó,4.79,0.91
+Niger,´óÃ×,13.17,16.85
+Niger,»Æ¶¹,0,0
+Niger,¼á¹û,6.95,12.3
+Kenya,ÖíÈâ,0.29,1.03
+Kenya,¼ÒÇİ,0.47,0.5
+Kenya,Å£Èâ,9.54,294.38
+Kenya,ÑòÈâ,1.86,65.14
+Kenya,ÓãÈâ,4.27,6.82
+Kenya,¼¦µ°,1.84,1.69
+Kenya,Å£ÄÌ,94.86,135.12
+Kenya,Ğ¡Âó,34.65,6.61
+Kenya,´óÃ×,12.94,16.56
+Kenya,»Æ¶¹,0.2,0.09
+Kenya,¼á¹û,1.64,2.9
+Jordan,ÖíÈâ,0.02,0.07
+Jordan,¼ÒÇİ,33.39,35.87
+Jordan,Å£Èâ,5.61,173.11
+Jordan,ÑòÈâ,5.68,198.91
+Jordan,ÓãÈâ,5.13,8.19
+Jordan,¼¦µ°,3.92,3.6
+Jordan,Å£ÄÌ,77.68,110.65
+Jordan,Ğ¡Âó,136.74,26.08
+Jordan,´óÃ×,19.67,25.17
+Jordan,»Æ¶¹,0.02,0.01
+Jordan,¼á¹û,3.56,6.3
+Japan,ÖíÈâ,20.62,72.98
+Japan,¼ÒÇİ,19.42,20.86
+Japan,Å£Èâ,9.15,282.35
+Japan,ÑòÈâ,0.14,4.9
+Japan,ÓãÈâ,31.1,49.66
+Japan,¼¦µ°,19.15,17.59
+Japan,Å£ÄÌ,72.06,102.64
+Japan,Ğ¡Âó,45.04,8.59
+Japan,´óÃ×,59.85,76.59
+Japan,»Æ¶¹,7.34,3.3
+Japan,¼á¹û,2.59,4.58
+Georgia,ÖíÈâ,8.93,31.61
+Georgia,¼ÒÇİ,12.28,13.19
+Georgia,Å£Èâ,6.04,186.38
+Georgia,ÑòÈâ,0.63,22.06
+Georgia,ÓãÈâ,10.42,16.64
+Georgia,¼¦µ°,6.12,5.62
+Georgia,Å£ÄÌ,149.26,212.61
+Georgia,Ğ¡Âó,163.43,31.17
+Georgia,´óÃ×,2.64,3.38
+Georgia,»Æ¶¹,0,0
+Georgia,¼á¹û,2.47,4.37
+Grenada,ÖíÈâ,11.52,40.78
+Grenada,¼ÒÇİ,43.51,46.74
+Grenada,Å£Èâ,3.46,106.77
+Grenada,ÑòÈâ,1.25,43.77
+Grenada,ÓãÈâ,27.95,44.63
+Grenada,¼¦µ°,10.34,9.5
+Grenada,Å£ÄÌ,86.88,123.75
+Grenada,Ğ¡Âó,59.59,11.36
+Grenada,´óÃ×,9.56,12.23
+Grenada,»Æ¶¹,0.01,0
+Grenada,¼á¹û,0.18,0.32
+El Salvador,ÖíÈâ,3.23,11.43
+El Salvador,¼ÒÇİ,19.84,21.31
+El Salvador,Å£Èâ,5.95,183.6
+El Salvador,ÑòÈâ,0.02,0.7
+El Salvador,ÓãÈâ,6.25,9.98
+El Salvador,¼¦µ°,9.51,8.74
+El Salvador,Å£ÄÌ,124.34,177.11
+El Salvador,Ğ¡Âó,28.19,5.38
+El Salvador,´óÃ×,10.53,13.48
+El Salvador,»Æ¶¹,0.8,0.36
+El Salvador,¼á¹û,1.1,1.95
+Cuba,ÖíÈâ,19.82,70.15
+Cuba,¼ÒÇİ,20.15,21.65
+Cuba,Å£Èâ,6.39,197.18
+Cuba,ÑòÈâ,1.24,43.42
+Cuba,ÓãÈâ,4.76,7.6
+Cuba,¼¦µ°,9.82,9.02
+Cuba,Å£ÄÌ,99.94,142.35
+Cuba,Ğ¡Âó,54.62,10.42
+Cuba,´óÃ×,67.7,86.64
+Cuba,»Æ¶¹,6.34,2.85
+Cuba,¼á¹û,0.23,0.41
+China,ÖíÈâ,38.43,136.02
+China,¼ÒÇİ,13.2,14.18
+China,Å£Èâ,5.12,157.99
+China,ÑòÈâ,3.13,109.61
+China,ÓãÈâ,21.01,33.55
+China,¼¦µ°,18.76,17.23
+China,Å£ÄÌ,32.66,46.52
+China,Ğ¡Âó,63.36,12.08
+China,´óÃ×,78.18,100.05
+China,»Æ¶¹,3.66,1.65
+China,¼á¹û,6.39,11.31
+Honduras,ÖíÈâ,6.48,22.94
+Honduras,¼ÒÇİ,20.29,21.8
+Honduras,Å£Èâ,7.19,221.87
+Honduras,ÑòÈâ,0.04,1.4
+Honduras,ÓãÈâ,2.7,4.31
+Honduras,¼¦µ°,5.19,4.77
+Honduras,Å£ÄÌ,91.33,130.09
+Honduras,Ğ¡Âó,37.36,7.12
+Honduras,´óÃ×,14.42,18.45
+Honduras,»Æ¶¹,0.01,0
+Honduras,¼á¹û,0.75,1.33
+Taiwan. ROC,ÖíÈâ,39.37,139.35
+Taiwan. ROC,¼ÒÇİ,32.13,34.51
+Taiwan. ROC,Å£Èâ,5.21,160.77
+Taiwan. ROC,ÑòÈâ,0.92,32.22
+Taiwan. ROC,ÓãÈâ,18.29,29.2
+Taiwan. ROC,¼¦µ°,13.08,12.02
+Taiwan. ROC,Å£ÄÌ,41.72,59.43
+Taiwan. ROC,Ğ¡Âó,50.92,9.71
+Taiwan. ROC,´óÃ×,45.85,58.67
+Taiwan. ROC,»Æ¶¹,16.95,7.63
+Taiwan. ROC,¼á¹û,9.06,16.04
+Angola,ÖíÈâ,8.89,31.47
+Angola,¼ÒÇİ,17.33,18.62
+Angola,Å£Èâ,8.42,259.82
+Angola,ÑòÈâ,1.08,37.82
+Angola,ÓãÈâ,15.24,24.33
+Angola,¼¦µ°,1.11,1.02
+Angola,Å£ÄÌ,12.3,17.52
+Angola,Ğ¡Âó,40.72,7.77
+Angola,´óÃ×,8.12,10.39
+Angola,»Æ¶¹,0.52,0.23
+Angola,¼á¹û,2.26,4
+Jamaica,ÖíÈâ,3.99,14.12
+Jamaica,¼ÒÇİ,52.51,56.41
+Jamaica,Å£Èâ,3.97,122.51
+Jamaica,ÑòÈâ,1.26,44.13
+Jamaica,ÓãÈâ,21.95,35.05
+Jamaica,¼¦µ°,2.27,2.09
+Jamaica,Å£ÄÌ,91.13,129.81
+Jamaica,Ğ¡Âó,70.67,13.48
+Jamaica,´óÃ×,23.45,30.01
+Jamaica,»Æ¶¹,0,0
+Jamaica,¼á¹û,1.82,3.22
+Namibia,ÖíÈâ,4.21,14.9
+Namibia,¼ÒÇİ,12.19,13.09
+Namibia,Å£Èâ,3.75,115.72
+Namibia,ÑòÈâ,2.27,79.5
+Namibia,ÓãÈâ,10.7,17.08
+Namibia,¼¦µ°,1.63,1.5
+Namibia,Å£ÄÌ,73.05,104.05
+Namibia,Ğ¡Âó,36.26,6.91
+Namibia,´óÃ×,6.31,8.07
+Namibia,»Æ¶¹,0.07,0.03
+Namibia,¼á¹û,0.71,1.26
+Belize,ÖíÈâ,16.8,59.46
+Belize,¼ÒÇİ,28.31,30.41
+Belize,Å£Èâ,4.86,149.97
+Belize,ÑòÈâ,0.14,4.9
+Belize,ÓãÈâ,7.57,12.09
+Belize,¼¦µ°,4.85,4.46
+Belize,Å£ÄÌ,80.3,114.38
+Belize,Ğ¡Âó,54.06,10.31
+Belize,´óÃ×,28.42,36.37
+Belize,»Æ¶¹,1.88,0.85
+Belize,¼á¹û,5.58,9.88
+Malaysia,ÖíÈâ,7.76,27.47
+Malaysia,¼ÒÇİ,41.01,44.05
+Malaysia,Å£Èâ,6.52,201.19
+Malaysia,ÑòÈâ,0.94,32.92
+Malaysia,ÓãÈâ,49.43,78.92
+Malaysia,¼¦µ°,16.57,15.22
+Malaysia,Å£ÄÌ,25.28,36.01
+Malaysia,Ğ¡Âó,51.04,9.73
+Malaysia,´óÃ×,81.25,103.98
+Malaysia,»Æ¶¹,0.04,0.02
+Malaysia,¼á¹û,2.9,5.13
+Zimbabwe,ÖíÈâ,2.65,9.38
+Zimbabwe,¼ÒÇİ,4.97,5.34
+Zimbabwe,Å£Èâ,7.37,227.42
+Zimbabwe,ÑòÈâ,0.96,33.62
+Zimbabwe,ÓãÈâ,2.8,4.47
+Zimbabwe,¼¦µ°,1.75,1.61
+Zimbabwe,Å£ÄÌ,31.9,45.44
+Zimbabwe,Ğ¡Âó,31.31,5.97
+Zimbabwe,´óÃ×,10.09,12.91
+Zimbabwe,»Æ¶¹,0.54,0.24
+Zimbabwe,¼á¹û,2.22,3.93
+Guatemala,ÖíÈâ,4.85,17.17
+Guatemala,¼ÒÇİ,16.45,17.67
+Guatemala,Å£Èâ,5.6,172.8
+Guatemala,ÑòÈâ,0.23,8.05
+Guatemala,ÓãÈâ,1.08,1.72
+Guatemala,¼¦µ°,14.61,13.42
+Guatemala,Å£ÄÌ,46.6,66.38
+Guatemala,Ğ¡Âó,35.9,6.85
+Guatemala,´óÃ×,5.66,7.24
+Guatemala,»Æ¶¹,0.32,0.14
+Guatemala,¼á¹û,2,3.54
+Uganda,ÖíÈâ,3.37,11.93
+Uganda,¼ÒÇİ,1.51,1.62
+Uganda,Å£Èâ,5.15,158.92
+Uganda,ÑòÈâ,1.25,43.77
+Uganda,ÓãÈâ,12.5,19.96
+Uganda,¼¦µ°,0.97,0.89
+Uganda,Å£ÄÌ,37.27,53.09
+Uganda,Ğ¡Âó,10.14,1.93
+Uganda,´óÃ×,4.64,5.94
+Uganda,»Æ¶¹,0.01,0
+Uganda,¼á¹û,3.77,6.67
+Nepal,ÖíÈâ,0.67,2.37
+Nepal,¼ÒÇİ,1.56,1.68
+Nepal,Å£Èâ,7.89,243.47
+Nepal,ÑòÈâ,2.1,73.54
+Nepal,ÓãÈâ,2.17,3.46
+Nepal,¼¦µ°,1.42,1.3
+Nepal,Å£ÄÌ,52.1,74.21
+Nepal,Ğ¡Âó,50.46,9.62
+Nepal,´óÃ×,87.75,112.29
+Nepal,»Æ¶¹,0.01,0
+Nepal,¼á¹û,2.42,4.28
+Iran,ÖíÈâ,0,0
+Iran,¼ÒÇİ,25.38,27.26
+Iran,Å£Èâ,3.58,110.47
+Iran,ÑòÈâ,3.69,129.22
+Iran,ÓãÈâ,9.8,15.65
+Iran,¼¦µ°,7.7,7.07
+Iran,Å£ÄÌ,46.69,66.51
+Iran,Ğ¡Âó,153.31,29.24
+Iran,´óÃ×,29.95,38.33
+Iran,»Æ¶¹,0,0
+Iran,¼á¹û,12.16,21.52
+Tanzania,ÖíÈâ,0.32,1.13
+Tanzania,¼ÒÇİ,1.84,1.98
+Tanzania,Å£Èâ,6.09,187.92
+Tanzania,ÑòÈâ,1.28,44.83
+Tanzania,ÓãÈâ,5.5,8.78
+Tanzania,¼¦µ°,0.58,0.53
+Tanzania,Å£ÄÌ,40.29,57.39
+Tanzania,Ğ¡Âó,15.94,3.04
+Tanzania,´óÃ×,21.01,26.89
+Tanzania,»Æ¶¹,0.04,0.02
+Tanzania,¼á¹û,5.94,10.51
+Senegal,ÖíÈâ,0.94,3.33
+Senegal,¼ÒÇİ,4.62,4.96
+Senegal,Å£Èâ,5.85,180.52
+Senegal,ÑòÈâ,3.19,111.71
+Senegal,ÓãÈâ,22.94,36.63
+Senegal,¼¦µ°,1.63,1.5
+Senegal,Å£ÄÌ,16.86,24.02
+Senegal,Ğ¡Âó,37.32,7.12
+Senegal,´óÃ×,72.29,92.51
+Senegal,»Æ¶¹,0,0
+Senegal,¼á¹û,4.03,7.13
+Peru,ÖíÈâ,3.85,13.63
+Peru,¼ÒÇİ,11.72,12.59
+Peru,Å£Èâ,4.69,144.72
+Peru,ÑòÈâ,1,35.02
+Peru,ÓãÈâ,15.74,25.13
+Peru,¼¦µ°,8.76,8.05
+Peru,Å£ÄÌ,62.15,88.53
+Peru,Ğ¡Âó,56.12,10.7
+Peru,´óÃ×,48.92,62.6
+Peru,»Æ¶¹,1.59,0.72
+Peru,¼á¹û,0.65,1.15
+Nicaragua,ÖíÈâ,3.38,11.96
+Nicaragua,¼ÒÇİ,21.31,22.89
+Nicaragua,Å£Èâ,4.73,145.96
+Nicaragua,ÑòÈâ,0.01,0.35
+Nicaragua,ÓãÈâ,3.59,5.73
+Nicaragua,¼¦µ°,4.9,4.5
+Nicaragua,Å£ÄÌ,85.16,121.3
+Nicaragua,Ğ¡Âó,28.17,5.37
+Nicaragua,´óÃ×,43.33,55.45
+Nicaragua,»Æ¶¹,0.01,0
+Nicaragua,¼á¹û,2.36,4.18
+Vietnam,ÖíÈâ,35,123.88
+Vietnam,¼ÒÇİ,12.36,13.28
+Vietnam,Å£Èâ,7.44,229.58
+Vietnam,ÑòÈâ,0.14,4.9
+Vietnam,ÓãÈâ,26.52,42.34
+Vietnam,¼¦µ°,3.84,3.53
+Vietnam,Å£ÄÌ,16.36,23.3
+Vietnam,Ğ¡Âó,10.49,2
+Vietnam,´óÃ×,144.56,184.99
+Vietnam,»Æ¶¹,5.75,2.59
+Vietnam,¼á¹û,6.28,11.12
+Ethiopia,ÖíÈâ,0.02,0.07
+Ethiopia,¼ÒÇİ,0.66,0.71
+Ethiopia,Å£Èâ,3.61,111.4
+Ethiopia,ÑòÈâ,1.57,54.98
+Ethiopia,ÓãÈâ,0.24,0.38
+Ethiopia,¼¦µ°,0.36,0.33
+Ethiopia,Å£ÄÌ,44.14,62.87
+Ethiopia,Ğ¡Âó,31.26,5.96
+Ethiopia,´óÃ×,2.25,2.88
+Ethiopia,»Æ¶¹,0.45,0.2
+Ethiopia,¼á¹û,1.21,2.14
+Myanmar,ÖíÈâ,11.31,40.03
+Myanmar,¼ÒÇİ,21.87,23.49
+Myanmar,Å£Èâ,4.94,152.44
+Myanmar,ÑòÈâ,0.89,31.17
+Myanmar,ÓãÈâ,54.26,86.64
+Myanmar,¼¦µ°,6.45,5.92
+Myanmar,Å£ÄÌ,31.48,44.84
+Myanmar,Ğ¡Âó,6.22,1.19
+Myanmar,´óÃ×,132.8,169.94
+Myanmar,»Æ¶¹,0.38,0.17
+Myanmar,¼á¹û,4.5,7.97
+Congo,ÖíÈâ,2.39,8.46
+Congo,¼ÒÇİ,13.02,13.99
+Congo,Å£Èâ,4.35,134.23
+Congo,ÑòÈâ,0.4,14.01
+Congo,ÓãÈâ,26.22,41.86
+Congo,¼¦µ°,0.6,0.55
+Congo,Å£ÄÌ,10.69,15.23
+Congo,Ğ¡Âó,40.07,7.64
+Congo,´óÃ×,16.51,21.13
+Congo,»Æ¶¹,0,0
+Congo,¼á¹û,3.08,5.45
+Zambia,ÖíÈâ,1.66,5.88
+Zambia,¼ÒÇİ,3.29,3.53
+Zambia,Å£Èâ,4.76,146.88
+Zambia,ÑòÈâ,0.68,23.81
+Zambia,ÓãÈâ,6.2,9.9
+Zambia,¼¦µ°,3.32,3.05
+Zambia,Å£ÄÌ,9.71,13.83
+Zambia,Ğ¡Âó,12.1,2.31
+Zambia,´óÃ×,3.05,3.9
+Zambia,»Æ¶¹,7.3,3.29
+Zambia,¼á¹û,5.04,8.92
+Cameroon,ÖíÈâ,1.47,5.2
+Cameroon,¼ÒÇİ,3.29,3.53
+Cameroon,Å£Èâ,4.17,128.68
+Cameroon,ÑòÈâ,1.4,49.03
+Cameroon,ÓãÈâ,14.71,23.49
+Cameroon,¼¦µ°,0.4,0.37
+Cameroon,Å£ÄÌ,15.27,21.75
+Cameroon,Ğ¡Âó,22.6,4.31
+Cameroon,´óÃ×,23.85,30.52
+Cameroon,»Æ¶¹,0.64,0.29
+Cameroon,¼á¹û,9.29,16.44
+Madagascar,ÖíÈâ,2.56,9.06
+Madagascar,¼ÒÇİ,3.14,3.37
+Madagascar,Å£Èâ,7.51,231.74
+Madagascar,ÑòÈâ,0.57,19.96
+Madagascar,ÓãÈâ,4.41,7.04
+Madagascar,¼¦µ°,0.71,0.65
+Madagascar,Å£ÄÌ,24.84,35.38
+Madagascar,Ğ¡Âó,9.01,1.72
+Madagascar,´óÃ×,102.53,131.21
+Madagascar,»Æ¶¹,0,0
+Madagascar,¼á¹û,0.35,0.62
+Malawi,ÖíÈâ,5.45,19.29
+Malawi,¼ÒÇİ,1.38,1.48
+Malawi,Å£Èâ,2.35,72.52
+Malawi,ÑòÈâ,2.07,72.49
+Malawi,ÓãÈâ,7.33,11.7
+Malawi,¼¦µ°,1.08,0.99
+Malawi,Å£ÄÌ,7.98,11.37
+Malawi,Ğ¡Âó,11.77,2.24
+Malawi,´óÃ×,4.75,6.08
+Malawi,»Æ¶¹,1.76,0.79
+Malawi,¼á¹û,5.08,8.99
+Guinea,ÖíÈâ,0.16,0.57
+Guinea,¼ÒÇİ,1.83,1.97
+Guinea,Å£Èâ,6.26,193.17
+Guinea,ÑòÈâ,1.6,56.03
+Guinea,ÓãÈâ,9.18,14.66
+Guinea,¼¦µ°,1.95,1.79
+Guinea,Å£ÄÌ,20.62,29.37
+Guinea,Ğ¡Âó,18.55,3.54
+Guinea,´óÃ×,97.12,124.28
+Guinea,»Æ¶¹,0,0
+Guinea,¼á¹û,4.14,7.33
+Nigeria,ÖíÈâ,1.47,5.2
+Nigeria,¼ÒÇİ,1.73,1.86
+Nigeria,Å£Èâ,2.33,71.9
+Nigeria,ÑòÈâ,2.72,95.25
+Nigeria,ÓãÈâ,16.03,25.59
+Nigeria,¼¦µ°,3.46,3.18
+Nigeria,Å£ÄÌ,7.91,11.27
+Nigeria,Ğ¡Âó,20.82,3.97
+Nigeria,´óÃ×,28.23,36.13
+Nigeria,»Æ¶¹,2.6,1.17
+Nigeria,¼á¹û,6.93,12.27
+Rwanda,ÖíÈâ,0.76,2.69
+Rwanda,¼ÒÇİ,1.34,1.44
+Rwanda,Å£Èâ,2.53,78.07
+Rwanda,ÑòÈâ,1.93,67.59
+Rwanda,ÓãÈâ,3.88,6.2
+Rwanda,¼¦µ°,0.16,0.15
+Rwanda,Å£ÄÌ,7.23,10.3
+Rwanda,Ğ¡Âó,11.34,2.16
+Rwanda,´óÃ×,8.7,11.13
+Rwanda,»Æ¶¹,1.93,0.87
+Rwanda,¼á¹û,0.58,1.03
+Philippines,ÖíÈâ,18.4,65.13
+Philippines,¼ÒÇİ,11.91,12.79
+Philippines,Å£Èâ,4.06,125.28
+Philippines,ÑòÈâ,0.56,19.61
+Philippines,ÓãÈâ,28.51,45.52
+Philippines,¼¦µ°,4.02,3.69
+Philippines,Å£ÄÌ,15.66,22.31
+Philippines,Ğ¡Âó,23.12,4.41
+Philippines,´óÃ×,119.44,152.85
+Philippines,»Æ¶¹,0.03,0.01
+Philippines,¼á¹û,2.08,3.68
+Ghana,ÖíÈâ,1.36,4.81
+Ghana,¼ÒÇİ,8.63,9.27
+Ghana,Å£Èâ,1.09,33.64
+Ghana,ÑòÈâ,1.74,60.93
+Ghana,ÓãÈâ,26.05,41.59
+Ghana,¼¦µ°,1.21,1.11
+Ghana,Å£ÄÌ,9.08,12.93
+Ghana,Ğ¡Âó,14.45,2.76
+Ghana,´óÃ×,32.03,40.99
+Ghana,»Æ¶¹,0.01,0
+Ghana,¼á¹û,5.56,9.84
+Togo,ÖíÈâ,1.57,5.56
+Togo,¼ÒÇİ,6.63,7.12
+Togo,Å£Èâ,1.53,47.21
+Togo,ÑòÈâ,1.58,55.33
+Togo,ÓãÈâ,11.69,18.67
+Togo,¼¦µ°,0.86,0.79
+Togo,Å£ÄÌ,7.96,11.34
+Togo,Ğ¡Âó,12.91,2.46
+Togo,´óÃ×,25.99,33.26
+Togo,»Æ¶¹,0.01,0
+Togo,¼á¹û,3.59,6.35
+Gambia,ÖíÈâ,0.18,0.64
+Gambia,¼ÒÇİ,2.66,2.86
+Gambia,Å£Èâ,2.16,66.65
+Gambia,ÑòÈâ,0.71,24.86
+Gambia,ÓãÈâ,23.13,36.93
+Gambia,¼¦µ°,0.99,0.91
+Gambia,Å£ÄÌ,45.71,65.11
+Gambia,Ğ¡Âó,37.91,7.23
+Gambia,´óÃ×,61.84,79.14
+Gambia,»Æ¶¹,0,0
+Gambia,¼á¹û,5.27,9.33
+India,ÖíÈâ,0.28,0.99
+India,¼ÒÇİ,1.88,2.02
+India,Å£Èâ,0.81,24.99
+India,ÑòÈâ,0.58,20.31
+India,ÓãÈâ,4.71,7.52
+India,¼¦µ°,2.58,2.37
+India,Å£ÄÌ,84.5,120.36
+India,Ğ¡Âó,60.56,11.55
+India,´óÃ×,69.49,88.93
+India,»Æ¶¹,0.39,0.18
+India,¼á¹û,1.92,3.4
+Thailand,ÖíÈâ,13,46.01
+Thailand,¼ÒÇİ,13.69,14.71
+Thailand,Å£Èâ,2.56,79
+Thailand,ÑòÈâ,0.05,1.75
+Thailand,ÓãÈâ,19.45,31.06
+Thailand,¼¦µ°,12.35,11.34
+Thailand,Å£ÄÌ,29.35,41.81
+Thailand,Ğ¡Âó,10.93,2.08
+Thailand,´óÃ×,114.57,146.62
+Thailand,»Æ¶¹,2.13,0.96
+Thailand,¼á¹û,1.5,2.66
+Mozambique,ÖíÈâ,5.13,18.16
+Mozambique,¼ÒÇİ,1.41,1.51
+Mozambique,Å£Èâ,1.04,32.09
+Mozambique,ÑòÈâ,0.9,31.52
+Mozambique,ÓãÈâ,7.74,12.36
+Mozambique,¼¦µ°,1.7,1.56
+Mozambique,Å£ÄÌ,4.79,6.82
+Mozambique,Ğ¡Âó,14.65,2.79
+Mozambique,´óÃ×,23.41,29.96
+Mozambique,»Æ¶¹,0.03,0.01
+Mozambique,¼á¹û,2.61,4.62
+Cambodia,ÖíÈâ,6.52,23.08
+Cambodia,¼ÒÇİ,1.84,1.98
+Cambodia,Å£Èâ,4.85,149.66
+Cambodia,ÑòÈâ,0,0
+Cambodia,ÓãÈâ,39.59,63.21
+Cambodia,¼¦µ°,1.37,1.26
+Cambodia,Å£ÄÌ,3.47,4.94
+Cambodia,Ğ¡Âó,2.74,0.52
+Cambodia,´óÃ×,159.1,203.6
+Cambodia,»Æ¶¹,4.33,1.95
+Cambodia,¼á¹û,1.25,2.21
+Sierra Leone,ÖíÈâ,1.22,4.32
+Sierra Leone,¼ÒÇİ,4.97,5.34
+Sierra Leone,Å£Èâ,1.99,61.41
+Sierra Leone,ÑòÈâ,0.65,22.76
+Sierra Leone,ÓãÈâ,32.03,51.14
+Sierra Leone,¼¦µ°,1.92,1.76
+Sierra Leone,Å£ÄÌ,7,9.97
+Sierra Leone,Ğ¡Âó,8.72,1.66
+Sierra Leone,´óÃ×,103.3,132.19
+Sierra Leone,»Æ¶¹,0,0
+Sierra Leone,¼á¹û,5.57,9.86
+Sri Lanka,ÖíÈâ,0.05,0.18
+Sri Lanka,¼ÒÇİ,4.96,5.33
+Sri Lanka,Å£Èâ,1.38,42.58
+Sri Lanka,ÑòÈâ,0.09,3.15
+Sri Lanka,ÓãÈâ,24.92,39.79
+Sri Lanka,¼¦µ°,4.57,4.2
+Sri Lanka,Å£ÄÌ,34.98,49.83
+Sri Lanka,Ğ¡Âó,37.01,7.06
+Sri Lanka,´óÃ×,109.72,140.41
+Sri Lanka,»Æ¶¹,0,0
+Sri Lanka,¼á¹û,1.09,1.93
+Indonesia,ÖíÈâ,2.98,10.55
+Indonesia,¼ÒÇİ,7.5,8.06
+Indonesia,Å£Èâ,2.59,79.92
+Indonesia,ÑòÈâ,0.46,16.11
+Indonesia,ÓãÈâ,25.65,40.95
+Indonesia,¼¦µ°,4.88,4.48
+Indonesia,Å£ÄÌ,14.82,21.11
+Indonesia,Ğ¡Âó,25.45,4.85
+Indonesia,´óÃ×,134.62,172.27
+Indonesia,»Æ¶¹,1.12,0.5
+Indonesia,¼á¹û,4.92,8.71
+Liberia,ÖíÈâ,4.01,14.19
+Liberia,¼ÒÇİ,8.91,9.57
+Liberia,Å£Èâ,0.78,24.07
+Liberia,ÑòÈâ,0.48,16.81
+Liberia,ÓãÈâ,4.13,6.59
+Liberia,¼¦µ°,2.05,1.88
+Liberia,Å£ÄÌ,3.04,4.33
+Liberia,Ğ¡Âó,10.95,2.09
+Liberia,´óÃ×,94.75,121.25
+Liberia,»Æ¶¹,0.63,0.28
+Liberia,¼á¹û,1.31,2.32
+Bangladesh,ÖíÈâ,0,0
+Bangladesh,¼ÒÇİ,1.4,1.5
+Bangladesh,Å£Èâ,1.28,39.5
+Bangladesh,ÑòÈâ,1.33,46.58
+Bangladesh,ÓãÈâ,18.07,28.85
+Bangladesh,¼¦µ°,2.08,1.91
+Bangladesh,Å£ÄÌ,21.91,31.21
+Bangladesh,Ğ¡Âó,17.47,3.33
+Bangladesh,´óÃ×,171.73,219.76
+Bangladesh,»Æ¶¹,0.61,0.27
+Bangladesh,¼á¹û,0.72,1.27

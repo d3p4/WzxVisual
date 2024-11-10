@@ -1,0 +1,19 @@
+#运行环境R 3.6.2
+
+library(tidyverse)
+library(ggridges)
+theme_set(theme_bw())
+
+food_consumption <- read.table("D:/Python数据可视化分析与案例实战/ch03/food_consumption.csv",header = T,sep=",")
+head(food_consumption)
+
+food_consumption %>% 
+  filter(co2_emmission>=10) %>%
+  ggplot(aes(x=co2_emmission, 
+             y=fct_reorder(food_category,co2_emmission), 
+             fill=food_category))+
+  geom_density_ridges()+
+  theme(legend.position = "none")+
+  scale_x_continuous(trans="log10")+
+  xlab("二氧化碳排放量") +
+  ylab("食品类型")

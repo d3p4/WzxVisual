@@ -1,0 +1,5 @@
+setup.py
+WzxVisual.egg-info/PKG-INFO
+WzxVisual.egg-info/SOURCES.txt
+WzxVisual.egg-info/dependency_links.txt
+WzxVisual.egg-info/top_level.txt

@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Awesome-pyecharts</title>
+            <script type="text/javascript" src="https://assets.pyecharts.org/assets/echarts.min.js"></script>
+        <script type="text/javascript" src="https://assets.pyecharts.org/assets/maps/hubei.js"></script>
+
+</head>
+<body>
+    <div id="ced895b335a6448c8bce18fe80adbc9f" class="chart-container" style="width:900px; height:500px;"></div>
+    <script>
+        var chart_ced895b335a6448c8bce18fe80adbc9f = echarts.init(
+            document.getElementById('ced895b335a6448c8bce18fe80adbc9f'), 'white', {renderer: 'canvas'});
+        var option_ced895b335a6448c8bce18fe80adbc9f = {
+    "animation": true,
+    "animationThreshold": 2000,
+    "animationDuration": 1000,
+    "animationEasing": "cubicOut",
+    "animationDelay": 0,
+    "animationDurationUpdate": 300,
+    "animationEasingUpdate": "cubicOut",
+    "animationDelayUpdate": 0,
+    "color": [
+        "#c23531",
+        "#2f4554",
+        "#61a0a8",
+        "#d48265",
+        "#749f83",
+        "#ca8622",
+        "#bda29a",
+        "#6e7074",
+        "#546570",
+        "#c4ccd3",
+        "#f05b72",
+        "#ef5b9c",
+        "#f47920",
+        "#905a3d",
+        "#fab27b",
+        "#2a5caa",
+        "#444693",
+        "#726930",
+        "#b2d235",
+        "#6d8346",
+        "#ac6767",
+        "#1d953f",
+        "#6950a1",
+        "#918597"
+    ],
+    "series": [
+        {
+            "type": "map",
+            "label": {
+                "show": true,
+                "position": "top",
+                "margin": 8,
+                "fontSize": 16
+            },
+            "mapType": "\u6e56\u5317",
+            "data": [
+                {
+                    "name": "\u6b66\u6c49\u5e02",
+                    "value": 91.4
+                },
+                {
+                    "name": "\u8346\u95e8\u5e02",
+                    "value": 92.2
+                },
+                {
+                    "name": "\u9ec4\u77f3\u5e02",
+                    "value": 83.1
+                },
+                {
+                    "name": "\u5b5d\u611f\u5e02",
+                    "value": 44.9
+                },
+                {
+                    "name": "\u5341\u5830\u5e02",
+                    "value": 19.1
+                },
+                {
+                    "name": "\u8346\u5dde\u5e02",
+                    "value": 48.3
+                },
+                {
+                    "name": "\u5b9c\u660c\u5e02",
+                    "value": 35.6
+                },
+                {
+                    "name": "\u9ec4\u5188\u5e02",
+                    "value": 49.9
+                },
+                {
+                    "name": "\u8944\u9633\u5e02",
+                    "value": 46.5
+                },
+                {
+                    "name": "\u54b8\u5b81\u5e02",
+                    "value": 24.9
+                },
+                {
+                    "name": "\u9102\u5dde\u5e02",
+                    "value": 25.2
+                },
+                {
+                    "name": "\u968f\u5dde\u5e02",
+                    "value": 71.9
+                }
+            ],
+            "roam": true,
+            "aspectScale": 0.75,
+            "nameProperty": "name",
+            "selectedMode": false,
+            "zoom": 1,
+            "mapValueCalculation": "sum",
+            "showLegendSymbol": true,
+            "emphasis": {},
+            "rippleEffect": {
+                "show": true,
+                "brushType": "stroke",
+                "scale": 2.5,
+                "period": 4
+            }
+        }
+    ],
+    "legend": [
+        {
+            "data": [
+                ""
+            ],
+            "selected": {
+                "": true
+            },
+            "show": true,
+            "padding": 5,
+            "itemGap": 10,
+            "itemWidth": 25,
+            "itemHeight": 14
+        }
+    ],
+    "tooltip": {
+        "show": true,
+        "trigger": "item",
+        "triggerOn": "mousemove|click",
+        "axisPointer": {
+            "type": "line"
+        },
+        "showContent": true,
+        "alwaysShowContent": false,
+        "showDelay": 0,
+        "hideDelay": 100,
+        "textStyle": {
+            "fontSize": 14
+        },
+        "borderWidth": 0,
+        "padding": 5
+    },
+    "title": [
+        {
+            "text": "2020\u5e7412\u6708\u4efd\u6e56\u5317\u7701\u4e3b\u8981\u57ce\u5e02\u9500\u552e\u989d\u7684\u7740\u8272\u5730\u56fe",
+            "padding": 5,
+            "itemGap": 10,
+            "textStyle": {
+                "fontSize": 20
+            }
+        }
+    ],
+    "visualMap": {
+        "show": true,
+        "type": "piecewise",
+        "min": 0,
+        "max": 100,
+        "inRange": {
+            "color": [
+                "#50a3ba",
+                "#eac763",
+                "#d94e5d"
+            ]
+        },
+        "calculable": true,
+        "inverse": false,
+        "splitNumber": 5,
+        "orient": "vertical",
+        "showLabel": true,
+        "itemWidth": 20,
+        "itemHeight": 14,
+        "borderWidth": 0
+    }
+};
+        chart_ced895b335a6448c8bce18fe80adbc9f.setOption(option_ced895b335a6448c8bce18fe80adbc9f);
+    </script>
+</body>
+</html>
